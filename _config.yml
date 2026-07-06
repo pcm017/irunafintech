@@ -1,0 +1,36 @@
+title: iRunAFintech — Macro & Markets Digest
+description: >-
+  Daily notes on macro economics, markets, fintech/BFSI, AI & tech, and
+  geopolitics — with an India lens. Compiled from a personal research wiki.
+baseurl: ""
+url: "https://pcm017.github.io"
+theme: minima
+minima:
+  skin: dark
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+show_excerpts: true
+permalink: /:year/:month/:day/:title/
+
+header_pages:
+  - overview.md
+  - companies.md
+  - macro.md
+  - fintech-bfsi.md
+  - ai-tech.md
+  - geopolitics.md
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - scripts
