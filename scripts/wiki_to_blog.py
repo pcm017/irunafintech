@@ -155,7 +155,7 @@ def convert_entities(force):
             "title": ENTITY_DIRS[category],
             "permalink": f"/{category}/",
         }
-        lines = [f"- [{title}]({link})" for title, link in entries]
+        lines = [f"- [{title}]({{{{ '{link}' | relative_url }}}})" for title, link in entries]
         index_body = f"\n## {ENTITY_DIRS[category]}\n\n" + "\n".join(lines) + "\n"
         index_path.write_text(f"---\n{yaml_dump(index_fm)}\n---\n{index_body}")
         print(f"  {category}: {count} pages written, index refreshed ({len(entries)} entries)")

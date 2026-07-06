@@ -6,4 +6,4 @@ permalink: /markets/
 
 ## Markets
 
-- [Global Markets](/markets/global-markets/)
+- [Global Markets]({{ '/markets/global-markets/' | relative_url }})
