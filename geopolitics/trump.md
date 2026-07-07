@@ -14,6 +14,7 @@ permalink: /geopolitics/trump/
 
 | Date | Category | Action | India impact |
 |------|----------|--------|--------------|
+| 2026-07-06 | Policy | **"Trump Accounts" rolled out** — a new US government savings-account policy for children, signed into effect (per Morning Brew, headline-only capture; full programme detail not retrieved). | No direct India transmission channel identified; relevant as US domestic fiscal/consumer policy context. See *2026 07 07 macro signals* |
 | 2026-02-02 | Economic | Signed US-India bilateral trade deal: US tariffs on Indian goods cut from 50% to 18% in exchange for India eliminating tariffs on US industrial and agricultural goods and committing to >$500B in US product purchases. India also agreed to stop buying Russian oil. | Direct tariff relief for Indian exporters (pharma, textiles, IT hardware); but India's Russian oil discount advantage eliminated. See *modi* |
 | 2026-05-10 | Diplomacy | Claimed credit for mediating India-Pakistan ceasefire on May 10, 2025 (anniversary context — claim made via Pakistan); India disputed US mediation role. Cooled Modi-Trump rapport. | US inserting itself into India-Pakistan dynamics — potential leverage point in ongoing trade negotiations. |
 | 2026-05-16 | Diplomacy | Visited Beijing for two-day summit with Xi Jinping — first visit to China in nine years. Agreed to a framework for "constructive strategic stability." See *xi jinping* | US-China stabilisation reduces EM risk-off pressure; reduces tariff escalation threat that indirectly affected Indian exports. |

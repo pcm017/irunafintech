@@ -12,6 +12,8 @@ India's third-largest public sector bank by business size, with a significant in
 
 ## Current state
 
+**NEW (July 7, 2026 — regulatory):** RBI imposed a **₹66.7 lakh penalty on Bank of Baroda** (jointly reported alongside a separate penalty on GIC Housing Finance) for regulatory non-compliance — the specific violation was not disclosed in available reporting (ETLegalWorld headline-only capture; extraction-limited). The penalty size is immaterial to BoB's P&L but is a fresh data point worth tracking alongside the bank's existing ECL-transition provisioning question (see Contradictions) — no evidence yet that the two are related. See *2026 07 07 fintech bfsi digest*
+
 Q4FY26 (May 2026): Bank of Baroda delivered record quarterly PAT of ₹5,616 cr (+11.2% YoY) and record FY26 PAT of ₹20,021 cr — both "highest ever" milestones. Global business crossed ₹30 lakh cr. Advance growth of 16.2% significantly exceeded BoB's own guidance of 11–13%, driven by RAM segments: agri +20.7%, retail +17.9%, MSME +15.6%. Asset quality is the best in a decade: GNPA 1.89%, SMA1+2 at 0.18%, PCR at 93.94%. The headline Q4 credit cost of 0.76% is a one-quarter head-fake — ₹1,500 cr was a voluntary ECL transition floating provision; underlying credit cost was 0.32%. NIM stabilized at 2.89% (+10 bps QoQ), with domestic NIM at 3.04%. The NIM management challenge for FY27 is deposit stickiness (4.78%) vs asset repricing opportunity (T-bill linked loans to MCLR). Capital raise pipeline: ₹8,500 cr equity + ₹6,000 cr AT-1/Tier 2. ROA >1% for 15 consecutive quarters.
 
 ## Key metrics
@@ -52,6 +54,7 @@ Q4FY26 (May 2026): Bank of Baroda delivered record quarterly PAT of ₹5,616 cr 
 
 | Date | Event |
 |---|---|
+| 2026-07-07 | RBI imposes ₹66.7 lakh penalty on BoB for regulatory non-compliance (specifics undisclosed); GIC Housing Finance penalised separately in same report |
 | 2026-05-08 | Q4FY26 analyst meet: PAT ₹5,616 cr (+11.2% YoY) - highest ever quarterly; NIM 2.89% (+10 bps QoQ); GNPA 1.89%; advances +16.2% YoY; FY26 guidance upsized |
 | 2026-05-08 | ₹1,500 cr floating provision created for ECL transition (voluntary, one-time); underlying credit cost 0.32% |
 | 2026-05-08 | Green infra bond: ₹10,000 cr raised (first in India, 3x oversubscribed); green deposits ₹1,899 cr (system highest) |
@@ -76,6 +79,7 @@ Flagged (2026-06-22): the transcript describes the ₹1,500 cr ECL-transition fl
 
 - *2026 05 08 bank of baroda q4fy26 analyst meet*
 - *2026 06 22 bank of baroda investor presentation*
+- *2026 07 07 fintech bfsi digest*
 - *hdfc bank* — private sector comparison
 - *axis bank* — private sector comparison
 - *india banking sector*

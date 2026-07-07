@@ -12,6 +12,8 @@ India's fourth-largest private sector bank by assets, operating a diversified fi
 
 ## Current state
 
+**NEW (July 5, 2026 — inorganic growth):** ETBFSI's Sunday weekly roundup flagged that Kotak Mahindra Bank is positioned to gain from **acquiring Deutsche Bank's India business**, framed around boosting Kotak's affluent-banking and wealth-management franchise. Headline-only capture (full deal size/structure not retrieved this run) — worth a targeted follow-up before updating the Key Metrics or Thesis sections, but directionally consistent with Kotak's stated "high teens" ROE ambition, which depends partly on subsidiary/wealth-management contribution improving. See *2026 07 05 fintech bfsi digest*
+
 **NEW (July 4, 2026 — leadership, timeline firmed):** A third independent source (ETBFSI, July 4 digest) confirms CEO **Ashok Vaswani has declined to seek a second-term reappointment**, with his current term ending **December 2026** — converting the prior "surprise exit, no timeline" story into a dated, ~5-month succession window. ETBFSI's figure for the share reaction (~2%) is slightly softer than the ~3% cited in the June 30/July 1 digests. ETBFSI frames the broader question as whether Indian banks need a "caretaker" (traditional banker) or a "transformer" (digital-native leader) — directly relevant to whoever Kotak names, given the bank's ongoing "high teens" ROE ambition and digital-first Kotak811 strategy. *Open question still unresolved: internal promotion vs. external hire; watch for board announcement and RBI "fit and proper" approval process ahead of the December handover.* See *2026 07 04 fintech bfsi digest*
 
 **NEW (June 30, 2026 — leadership):** Kotak Mahindra Bank's CEO exited in a surprise move (reported June 30); shares fell ~3% on the news. No successor or transition timeline disclosed in available reporting. This introduces execution-continuity risk at a moment when the bank has just cleared its credit-cost normalisation (39 bps Q4FY26) and management had guided toward a "high teens" ROE ambition — an abrupt, unexplained departure raises near-term uncertainty on strategic continuity. Confirmed in a second independent source (ETHRWorld, via July 1 digest) — no new detail beyond the "surprise" framing and 3% share decline. See *2026 06 30 fintech bfsi digest*, *2026 07 01 fintech bfsi digest*
@@ -50,6 +52,7 @@ Q4FY26 (May 2026): Kotak delivered a strong Q4 with standalone PAT ₹4,027 cr (
 
 | Date | Event |
 |---|---|
+| 2026-07-05 | ETBFSI reports Kotak positioned to gain from acquiring Deutsche Bank's India business — affluent/wealth-management boost (headline-only, deal terms not yet confirmed) |
 | 2026-07-04 | 3rd source (ETBFSI) confirms CEO exit timeline: term ends December 2026; no successor named yet |
 | 2026-06-30 | CEO exits in a surprise move; shares fell ~3%; no successor/timeline disclosed |
 | 2026-05-02 | Q4FY26 results: Standalone PAT ₹4,027 cr (+13% YoY); NIM 4.67%; credit cost 39 bps; GNPA 1.2%; net NPA 0.25%; deposits +15% YoY; advances +16% YoY |
@@ -75,6 +78,7 @@ None (two sources, presentation and transcript, internally consistent).
 
 - *2026 05 02 kotak mahindra bank q4fy26 presentation*
 - *2026 05 02 kotak mahindra bank q4fy26 transcript*
+- *2026 07 05 fintech bfsi digest*
 - *hdfc bank* — largest private bank; CASA comparison
 - *icici bank* — peer; NIM and credit cost comparison
 - *axis bank* — peer comparison

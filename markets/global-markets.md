@@ -12,9 +12,17 @@ permalink: /markets/global-markets/
 
 ## Current State
 
-*As of July 4, 2026 (latest: Jul 2-3 data; US closed Jul 3-4 for Independence Day)*
+*As of July 7, 2026 (latest: Jul 6 close)*
 
-**NEW (July 4 — Jul 2/3 data):** US markets closed for the Jul 3-4 Independence Day weekend; **Dow's last print (Jul 2 close) held above 52,000 at 52,900.07 (+1.14%)**. **Gold and silver broke out sharply** — Gold $4,188.57 (+1.25%), Silver $63.18 (+2.48%) — driven by a **weak June US nonfarm payrolls report: 57K jobs added vs. ~110-115K forecast, unemployment 4.2%**. **DXY eased to 100.78 (-0.08%)** as September Fed rate-path odds repriced on the miss. **India G-Sec 10Y hit 6.71%, a fresh 15-week low**; India-US spread ~+222bps. **India forex reserves rose a modest +$0.963Bn to $672.587Bn** (week ended Jun 26) — a sharp deceleration from the prior week's $20.46Bn surge, confirming that spike was a one-off catch-up rather than a new run-rate. **India VIX at 11.98 (-2.52%)** — very low volatility — alongside a **put-heavy Nifty PCR of 1.33**, an unusual pairing worth watching for confirmation next week. Nifty/Sensex traded Jul 3 (mid-day, unconfirmed close): Nifty 24,361.55 (+0.77%), Sensex 78,093.97 (+0.76%). Indian banking leadership reshuffle continues to firm up: Kotak Mahindra Bank CEO Ashok Vaswani's exit now has a confirmed date (Dec 2026); HDFC Bank's CEO Jagdishan cleared for a third term while Rajiv Kumar and Puneet Sharma are added as new hires — third independent source (ETBFSI) confirming both stories. See *2026 07 04 macro signals*
+**NEW (July 7 — Jul 6 close):** **Dow closed above 53,000 for the first time (53,055.91, +0.29%)**, a new closing record; S&P 500 7,537.43 (+0.72%), Nasdaq 26,121.16 (+1.12%) — broad-based gains on tech, financials, and industrials. **India extended a 4th straight up session**: Nifty 24,430.35 (+0.66%), Sensex 78,285.07 (+0.67%), Bank Nifty 58,291.50 (+0.61%) — banking, auto, realty, metal, and energy led; IT stayed weak and capped the upside. **Crude near lowest levels since late February** (Brent ~$69, WTI $67.83-69.20) on recovering Hormuz shipping flows plus an expected OPEC+ output hike — a supply-side, not demand-side, story. **Gold holding >$4,100/oz**, retaining most of last week's NFP-driven gains. **India G-Sec 10Y held at a 15-week low (6.71-6.72%)**; FPIs net-bought **₹324 Bn of Indian govt bonds since June** (tax relief, steadier rupee, possible Bloomberg Global Aggregate inclusion), compressing the India-US spread to ~+222bps even as US yields sit near 4.5%. **UPI June volume: 22.72 Bn txns (-2.1% MoM, +23% YoY)** — a rare monthly dip inside a still-strong annual trend. See *2026 07 07 macro signals*
+
+The Dow's first close above 53,000 confirms US risk-on momentum is intact into July, while the crude story (5-month lows on Hormuz recovery + anticipated OPEC+ supply hike) is explicitly supply-driven — a distinction that matters because it preserves India's disinflation tailwind without signalling a global demand scare. India's own 4th-consecutive up session plus record FPI debt buying reinforce the same calm, rate-cut-anticipating domestic regime tracked through late June; the India-US spread compression to +222bps is now among the tightest reads of the cycle.
+
+**NEW (July 5 — Jul 3/4 data):** **Gold ($4,182.28, +1.25%) and Silver ($62.86, +2.50%) extended their rally for a second session**, still riding the weak June US NFP miss (57K vs. ~110-115K forecast) — gold on track for its first weekly rise since late May. **India forex reserves fell sharply to $666.93Bn (-$5.65Bn WoW, 15-month low)** — a reversal from the prior week's reported recovery, driven mainly by a $5.39Bn drop in the gold-reserves valuation component (not a flow reversal). India G-Sec 10Y held at its 15-week low (6.71-6.72%); India-US spread ~+223bps. Oil (Brent ~$72, WTI ~$68) traded near its lowest since late February on recovering Hormuz shipping and US-Iran negotiations. See *2026 07 05 macro signals*
+
+Gold/silver's second consecutive rally session confirms the NFP miss is a durable Fed-path repricing rather than a one-day move. The forex-reserve reversal is a valuation-driven optical decline (gold-price marking), not a change in the underlying FII-inflow/G-Sec story, which stayed constructive throughout.
+
+**Prior (July 4 — Jul 2/3 data):** US markets closed for the Jul 3-4 Independence Day weekend; **Dow's last print (Jul 2 close) held above 52,000 at 52,900.07 (+1.14%)**. **Gold and silver broke out sharply** — Gold $4,188.57 (+1.25%), Silver $63.18 (+2.48%) — driven by a **weak June US nonfarm payrolls report: 57K jobs added vs. ~110-115K forecast, unemployment 4.2%**. **DXY eased to 100.78 (-0.08%)** as September Fed rate-path odds repriced on the miss. **India G-Sec 10Y hit 6.71%, a fresh 15-week low**; India-US spread ~+222bps. **India forex reserves rose a modest +$0.963Bn to $672.587Bn** (week ended Jun 26) — a sharp deceleration from the prior week's $20.46Bn surge, confirming that spike was a one-off catch-up rather than a new run-rate. **India VIX at 11.98 (-2.52%)** — very low volatility — alongside a **put-heavy Nifty PCR of 1.33**, an unusual pairing worth watching for confirmation next week. Nifty/Sensex traded Jul 3 (mid-day, unconfirmed close): Nifty 24,361.55 (+0.77%), Sensex 78,093.97 (+0.76%). Indian banking leadership reshuffle continues to firm up: Kotak Mahindra Bank CEO Ashok Vaswani's exit now has a confirmed date (Dec 2026); HDFC Bank's CEO Jagdishan cleared for a third term while Rajiv Kumar and Puneet Sharma are added as new hires — third independent source (ETBFSI) confirming both stories. See *2026 07 04 macro signals*
 
 The weak NFP print is a clean, single-cause move: gold and silver's synchronized rally is a pure US-labour-market/Fed-path story, distinct from the geopolitical/Iran-driven moves that dominated H1 2026. For India, the signal is double-edged — a weaker US labour market raises the odds of eventual Fed easing (supportive for EM carry and INR), but the immediate DXY reaction (down, not up) suggests markets are still digesting whether this is "bad news is good news" (rate-cut path) or a genuine growth-scare (risk-off). India's own macro settings (G-Sec at a 15-week low, VIX at 11.98) remain firmly in the "calm, rate-cut-anticipating" camp regardless of the US read, though the sharp deceleration in forex reserve accumulation (+$0.963Bn vs. +$20.46Bn the prior week) is a reminder that the late-June reserve surge was episodic, not a new trend.
 
@@ -112,19 +120,22 @@ Simultaneously, **Iran announced it ended military operations against Israel** �
 
 ## Key Metrics
 
-*Updated in place. Last: 2026-07-04 macro-signals snapshot (Jul 2-3 data; US closed Jul 3-4)*
+*Updated in place. Last: 2026-07-07 macro-signals snapshot (Jul 6 close)*
 
 ### Equities
 
 | Index | Level (Latest) | 1D % | As of |
 |-------|----------------|------|-------|
-| **DJI** | **52,900.07** | **▲1.14%** | **July 2, 2026 (last US print — Jul 3-4 market closed)** |
-| S&P 500 | 7,449.36 | ▲0.79% | June 30, 2026 (last confirmed level — Jul 2/3 N/A) |
-| Nasdaq | 26,213.72 | ▲1.52% | June 30, 2026 (last confirmed level — Jul 2/3 N/A) |
-| **Nifty 50** | **24,361.55\*** | **▲0.77%** | **July 3, 2026 — mid-day, unconfirmed close; prior close Jul 2: 24,175.70** |
-| **Sensex** | **78,093.97\*** | **▲0.76%** | **July 3, 2026 — mid-day, unconfirmed close; prior close Jul 2: 77,502.12** |
-| **Nifty PCR** | **1.33 (AM Jul 3) / 1.18–1.28 (Jul 2 close)** | — | **put-heavy, a shift from June 30's bullish 0.808 / Jul 1's neutral 1.02** |
-| **India VIX** | **11.98** | **▼2.52%** | **July 3, 2026 — very low implied vol** |
+| **DJI** | **53,055.91** | **▲0.29%** | **July 6, 2026 — new closing record, first close >53K** |
+| **S&P 500** | **7,537.43** | **▲0.72%** | **July 6, 2026** |
+| **Nasdaq** | **26,121.16** | **▲1.12%** | **July 6, 2026** |
+| **Nifty 50** | **24,430.35** | **▲0.66%** | **July 6, 2026 — 4th straight up session** |
+| **Sensex** | **78,285.07** | **▲0.67%** | **July 6, 2026** |
+| **Bank Nifty** | **58,291.50** | **▲0.61%** | **July 6, 2026** |
+| Nifty PCR | ~1.00–1.06 | — | July 6, 2026 — near-neutral to mildly bullish |
+| India VIX | 11.80 | ▼0.49 | July 6, 2026 — very low implied vol |
+
+*Prior (July 3): DJI 52,900.07 (▲1.14%, last print before Jul 3-4 market closure); Nifty 24,361.55* (mid-day); Nifty PCR 1.33 (put-heavy).*
 
 *Prior (June 29): Sensex 76,506.03 (▼1.30%), Nifty 23,859.20 (▼1.23%) — profit booking post-rally; Nikkei 70,287.39 (▲1.18%).*
 
@@ -134,23 +145,24 @@ Simultaneously, **Iran announced it ended military operations against Israel** �
 
 | Commodity | Price | As of | Note |
 |-----------|-------|-------|------|
-| Brent Crude | $70.57/bbl | July 3, 2026 | ▼0.83% |
-| WTI Crude | $68.74/bbl | July 3, 2026 | ▲0.08% |
-| **Gold** | **$4,188.57 (alt. $4,181.59)** | **July 3, 2026** | **▲1.25%; weak June US NFP (57K vs. ~110-115K forecast) drove safe-haven rally** |
-| **Silver** | **$63.18 (alt. $62.86)** | **July 3, 2026** | **▲2.48%; same NFP-driven rally as gold** |
+| Brent Crude | ~$69/bbl | July 6, 2026 | near lowest since late Feb; Hormuz recovery + expected OPEC+ output hike |
+| WTI Crude | $67.83–69.20 | July 6, 2026 | range |
+| **Gold** | **>$4,100/oz** | **July 6, 2026** | **holding most of the NFP-driven rally from the prior week** |
+| Silver | N/A (down >1% on stronger dollar per one report) | July 6, 2026 | exact level not confirmed |
 
-*Prior (June 29): Gold $3,982.20 (▼1.40%; broke below $4,000 first time in weeks), Copper $6.18/lb (▲0.07%).*
+*Prior (July 3-5): Gold $4,182.28–4,188.57 (▲1.25%), Silver $62.86–63.18 (▲2.48-2.50%) — NFP-driven rally; Brent $70.57 (▼0.83%), WTI $68.74 (▲0.08%).*
 
 ### Bonds & Rates
 
 | Instrument | Rate/Yield | As of | Note |
 |------------|-----------|-------|------|
-| **US 10Y Treasury** | **4.49%** | **July 2, 2026** | **Last print — market closed Jul 3-4** |
-| **India G-Sec 10Y** | **6.71%** | **July 3, 2026** | **Fresh 15-week low** |
+| **US 10Y Treasury** | **4.49%** | **July 2, 2026** | **US 2Y 4.14%; curve +35bps** |
+| **India G-Sec 10Y** | **6.71–6.72%** | **July 6, 2026** | **Holding at 15-week low** |
 | India G-Sec 30Y | 7.35% | June 2026 | |
-| **India–US 10Y Spread** | **~+222 bps** | **July 3-4, 2026** | **6.71% – 4.49%; continues multi-week compression** |
+| **India–US 10Y Spread** | **~+222 bps** | **July 6-7, 2026** | **compressing; FPI net debt buying ₹324 Bn since June** |
 | India-Repo Spread | +146bps | July 2026 | 6.71% – 5.25% |
-| RBI Repo Rate | **5.25%** | June 5, 2026 | **3rd consecutive hold; next MPC Aug 3-5, 2026** |
+| RBI Repo Rate | **5.25%** | June 5, 2026 | **3rd consecutive hold, unanimous MPC vote; next MPC Aug 3-5, 2026** |
+| FII Debt (since June 2026) | +₹324 Bn | Jun–Jul 2026 | net inflow, tax relief + steadier rupee + possible Bloomberg Agg. inclusion |
 | FII Debt (H1 2026) | +$6.8Bn / +₹63,784 Cr | Jan–Jun 2026 | net inflow for the half-year |
 | FII Equity (H1 2026) | -$29.28Bn / -₹2.74L Cr | Jan–Jun 2026 | net outflow for the half-year |
 
@@ -158,13 +170,12 @@ Simultaneously, **Iran announced it ended military operations against Israel** �
 
 | Indicator | Value | Period | Note |
 |-----------|-------|--------|------|
-| **INR/USD** | **95.34** | **July 3, 2026** | **▼0.15% 1D; -11.22% 1Y** |
-| **India CPI** | **3.93%** | **May 2026** | **5th consecutive monthly rise; below RBI 4% target** |
+| **INR/USD** | **95.40–95.56** | **July 6, 2026** | — |
+| **India Forex Reserves** | **$666.93Bn** | **week ended ~Jun 27, 2026** | **-$5.65/5.66Bn WoW, 15-month low — driven mainly by gold-valuation decline, not flow reversal** |
+| **UPI Volume** | **22.72Bn txns** | **June 2026** | **-2.1% MoM (from 23.20Bn May), +23% YoY; value ₹28.92 lakh Cr (-3.3% MoM, +20% YoY)** |
+| **India CPI** | **3.93%** | **May 2026** | **5th consecutive monthly rise; below RBI 4% target; core CPI 5.1%** |
 | **Core CPI** | **5.1% (up from 4.6%)** | **May 2026** | ***Divergence flagged vs. prior ex-gold/silver core read (~2.3%) — still unverified against MOSPI as of Jul 4** |
 | **India WPI** | **N/A** | — | **Transitioning to PPI (launched Jun 15, 2026); new WPI base 2022-23 running in parallel** |
-| **India Forex Reserves** | **$672.587Bn** | **Week ended Jun 26, 2026** | **+$0.963Bn WoW — sharp deceleration from the prior week's +$20.46Bn spike, confirming that was a one-off catch-up** |
-| **India VIX** | **11.98** | **July 3, 2026** | **▼2.52%; very low implied vol** |
-| **Nifty PCR** | **1.33 (AM Jul 3) / 1.18-1.28 (Jul 2 close)** | **July 3, 2026** | **Put-heavy; unusual pairing alongside very low VIX — watch for confirmation** |
 | FII Cash Segment (daily) | -₹311.80 Cr | July 3, 2026 | net sellers |
 | **DXY** | **100.78** | **July 3, 2026** | **▼0.08%; Sept Fed rate-path odds repriced post weak June NFP (57K vs. ~110-115K forecast)** |
 | **RBI FY27 GDP Projection** | **6.6%** | **FY27** | **Confirmed June MPC** |

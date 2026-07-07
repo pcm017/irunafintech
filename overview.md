@@ -12,7 +12,13 @@ _This page is the single synthesis of everything in the wiki. Updated after ever
 
 ## The Macro Regime
 
-*Last updated: 2026-07-04 | Sources: macro-signals-collect (May 14–Jul 4), fintech-bfsi-digest (May 14–Jul 4), tech-ai-digest (May 14–Jul 4)*
+*Last updated: 2026-07-07 | Sources: macro-signals-collect (May 14–Jul 7), fintech-bfsi-digest (May 14–Jul 7), tech-ai-digest (May 14–Jul 7)*
+
+**NEW (July 7 — Jul 6 close):** US risk-on momentum extended decisively: **Dow closed above 53,000 for the first time (53,055.91, +0.29%)**, a new closing record, with S&P 500 (+0.72%) and Nasdaq (+1.12%) also gaining. **India extended a 4th straight up session** (Nifty +0.66%, Sensex +0.67%, Bank Nifty +0.61%) with broad sector participation ex-IT. **Crude held near 5-month lows** (Brent ~$69, WTI ~$68) on Hormuz shipping recovery plus an expected OPEC+ output hike — an explicitly supply-side story, distinct from a demand slowdown. **India G-Sec 10Y held at its 15-week low**; FPIs have net-bought **₹324 Bn of Indian govt bonds since June**, compressing the India-US spread to ~+222bps even as US yields sit near 4.5%. See *2026 07 07 macro signals*
+
+The Dow's first close above 53,000 confirms the risk-on regime from late June is intact; the crude story being explicitly supply-driven (Hormuz recovery + OPEC+ hike) rather than demand-driven preserves India's disinflation tailwind without a global-growth-scare read. The FPI debt-buying pace (₹324 Bn since June) is the clearest quantification yet of the RBI capital-inflow playbook's effectiveness.
+
+**NEW (July 5 — Jul 3/4 data):** **Gold and Silver extended their NFP-driven rally for a second session** (Gold $4,182.28 +1.25%, Silver $62.86 +2.50%), now on track for gold's first weekly rise since late May. **India forex reserves fell sharply to $666.93Bn (-$5.65Bn WoW, 15-month low)** — driven mainly by a $5.39Bn drop in the gold-reserves valuation component rather than a flow reversal, so the underlying FII-inflow/G-Sec story stayed constructive. See *2026 07 05 macro signals*
 
 **NEW (July 4 — Jul 2/3 data, US closed Jul 3-4):** The dominant new signal is a clean, single-cause commodity move: **gold and silver rallied sharply — Gold $4,188.57 (+1.25%), Silver $63.18 (+2.48%) — driven by a weak June US nonfarm payrolls report (57K jobs added vs. ~110-115K forecast, unemployment 4.2%)**. This is distinct from the geopolitical/Iran-driven commodity moves that dominated H1 2026 — a pure US-labour-market/Fed-path story. **DXY eased to 100.78 (-0.08%)** as September Fed rate-path odds repriced on the miss. US equities were closed for the holiday weekend; the last print (Dow, July 2) held above 52,000 at 52,900.07 (+1.14%). **India's own settings stayed firmly in "calm, rate-cut-anticipating" mode**: G-Sec 10Y hit a fresh 15-week low of 6.71% (spread ~+222bps to US 10Y), India VIX at a very low 11.98, though paired unusually with a put-heavy Nifty PCR of 1.33 — worth watching for confirmation next week rather than treating as a genuine bearish signal given the holiday-thinned session. **India forex reserves rose only +$0.963Bn to $672.587Bn** (week ended Jun 26) — a sharp deceleration from the prior week's +$20.46Bn surge, confirming that spike was episodic rather than a new accumulation run-rate. See *2026 07 04 macro signals*
 
@@ -172,7 +178,15 @@ S&P 500 hit fresh ATH **7,599.96** on June 1 (Nvidia +6%, AI stocks leading). Bu
 
 ## Markets
 
-*Last updated: 2026-07-04 | Sources: macro-signals-collect (May 20–Jul 4)*
+*Last updated: 2026-07-07 | Sources: macro-signals-collect (May 20–Jul 7)*
+
+**NEW (July 7 — Jul 6 close): Dow 53,055.91 (+0.29%, new closing record, first close >53K); S&P 500 7,537.43 (+0.72%); Nasdaq 26,121.16 (+1.12%). Nifty 24,430.35 (+0.66%, 4th straight up session); Sensex 78,285.07 (+0.67%); Bank Nifty 58,291.50 (+0.61%) — banking/auto/realty/metal/energy led, IT weak. Brent ~$69, WTI $67.83-69.20 — near lowest since late Feb on Hormuz recovery + expected OPEC+ output hike. Gold >$4,100/oz holding gains. India G-Sec 10Y 6.71-6.72% (15-week low); India-US spread ~+222bps; FII net debt buying ₹324 Bn since June. India VIX 11.80 (very low); Nifty PCR ~1.00-1.06 (near-neutral). UPI June: 22.72Bn txns (-2.1% MoM, +23% YoY).**
+
+**Equities (July 7 — latest).** The Dow's first close above 53,000 confirms broad US risk-on continuation into July. India's 4th consecutive up session with ex-IT sector breadth mirrors the same regime. See *2026 07 07 macro signals*
+
+**Commodities (July 7 — latest).** Crude's proximity to 5-month lows is explicitly supply-driven this time (Hormuz shipping recovery + anticipated OPEC+ output hike) rather than reflecting a demand slowdown — an important distinction for reading through to India's import bill outlook. Gold is holding, not extending, its prior week's NFP-driven gains.
+
+**NEW (July 5 — Jul 3/4 data): Gold $4,182.28 (+1.25%), Silver $62.86 (+2.50%) — second consecutive rally session on the weak June NFP miss. Brent ~$72, WTI ~$68 — near lowest since late February. India G-Sec 10Y 6.71-6.72% (15-week low); spread ~+223bps. India forex reserves $666.93Bn (-$5.65Bn WoW, 15-month low) — gold-valuation-driven, not a flow reversal.** See *2026 07 05 macro signals*
 
 **NEW (July 4 — Jul 2/3 data, US closed Jul 3-4): Dow last print (Jul 2) 52,900.07 (+1.14%). Gold $4,188.57 (+1.25%), Silver $63.18 (+2.48%) — sharp NFP-driven rally. Brent $70.57 (-0.83%), WTI $68.74 (+0.08%). Nifty 24,361.55\* (+0.77%, Jul 3 mid-day unconfirmed), Sensex 78,093.97\* (+0.76%). India VIX 11.98 (-2.52%, very low); Nifty PCR 1.33 (put-heavy). DXY 100.78 (-0.08%). India G-Sec 6.71% (15-week low); India-US spread ~+222bps.**
 
@@ -326,7 +340,13 @@ Equities are broadly sideways to moderately weak with notable regional dispersio
 
 ## India Lens
 
-*Last updated: 2026-07-04 | Sources: macro-signals-collect (May 19–Jul 4), fintech-bfsi-digest (May 19–Jul 4)*
+*Last updated: 2026-07-07 | Sources: macro-signals-collect (May 19–Jul 7), fintech-bfsi-digest (May 19–Jul 7)*
+
+**NEW (July 7 — new entity):** **Trent Limited** (Tata Group's Westside/Zudio/Star retail arm) was added to the wiki via its backfilled Q4FY26 investor presentation (filed 22 April 2026): standalone PAT +30% YoY on revenue +20% — profit growing faster than revenue signals real operating leverage from its rapid store rollout (1,286 stores, +109 Zudio openings in Q4 alone). Management flagged consumer caution and moderating discretionary spending tied to "the unfolding geopolitical situation" — a rare direct consumption-sentiment data point from India's fashion retail sector, worth checking against CPI/consumption trends. See *trent*
+
+**NEW (July 7):** India's macro settings continue in "calm, rate-cut-anticipating" mode with fresh confirmation on two fronts: **G-Sec 10Y holding at its 15-week low** and **FPIs net-buying ₹324 Bn of Indian govt bonds since June** — the clearest quantified confirmation yet that the RBI capital-inflow playbook (FCNR(B) + G-Sec exemption + LCR pricing) is working at scale, not just directionally. Equities extended a 4th straight up session with broad participation outside IT. The one caution flag: **UPI June volume dipped 2.1% MoM** (still +23% YoY) — likely seasonal, but worth confirming isn't an early signal of transaction friction as device-locking/fraud-prevention rules tighten. Separately, PM Modi's **Sanand chip-plant inauguration** (India's third operational semiconductor plant in six months) is a concrete India-industrial-policy delivery milestone, cross-logged to *modi*. See *2026 07 07 macro signals*, *2026 07 07 tech ai digest*
+
+**NEW (July 5):** India's forex reserve decline (-$5.65Bn WoW to $666.93Bn, a 15-month low) is a valuation effect (gold-reserves component marking down $5.39Bn) rather than a capital-flow reversal — the underlying FII-debt and G-Sec-yield story stayed constructive through the same window. See *2026 07 05 macro signals*
 
 **NEW (July 4):** India's macro settings extended their calm, rate-cut-anticipating posture through the holiday-thinned session: **G-Sec 10Y hit a fresh 15-week low of 6.71%** (spread ~+222bps to US 10Y), continuing the multi-week yield compression trend. **Forex reserves rose only +$0.963Bn to $672.587Bn** (week ended Jun 26) — a sharp deceleration from the prior week's +$20.46Bn surge, confirming that spike was a one-off catch-up rather than a sustained new accumulation pace; India's reserve trajectory should be read as "recovering steadily," not "surging." **India VIX at a very low 11.98**, though paired with an unusually put-heavy Nifty PCR (1.33) — a combination that doesn't have a clean single interpretation and is flagged for confirmation once US markets reopen and full-week trading resumes. On the global side, the **weak June US nonfarm payrolls print (57K vs. ~110-115K forecast)** that drove gold/silver higher is double-edged for India: it raises the odds of eventual Fed easing (constructive for INR and EM carry), but until the market resolves whether it's reading this as "rate-cut runway" or "US growth scare," the net India read stays neutral-to-mildly-supportive rather than a clear tailwind. See *2026 07 04 macro signals*
 
@@ -633,7 +653,11 @@ See *2026 06 22 macro signals*, *2026 06 22 fintech bfsi digest*
 
 ## Fintech / BFSI
 
-*Last updated: 2026-07-04 | Sources: company Q4 FY26 results (ICICI Bank, Kotak Mahindra Bank, Bank of Baroda, Yes Bank, SBI — ingested 2026-06-26; investor presentations for ICICI, SBI, BoB — ingested 2026-07-02), fintech-bfsi-digest (May 11–Jul 4)*
+*Last updated: 2026-07-07 | Sources: company Q4 FY26 results (ICICI Bank, Kotak Mahindra Bank, Bank of Baroda, Yes Bank, SBI, Trent — ingested through Jul 7), fintech-bfsi-digest (May 11–Jul 7)*
+
+**NEW (July 7):** Two new BFSI regulatory/structural data points. **RBI imposed a ₹66.7 lakh penalty on Bank of Baroda and GIC Housing Finance** for non-compliance (specifics undisclosed) — immaterial to BoB's P&L but a fresh entity-page data point. **The Ken's investigation into RBI-licensed NBFCs charging 600%+ annualised interest** on unsecured personal loans (legal, in the absence of an RBI rate cap) — with NBFC licenses themselves trading as tradeable commodity assets independent of the underlying lending book (one 1995-vintage NBFC's revenue jumped ~4,800% in a year per MCA filings) — describes a shadow-banking arbitrage worth tracking as a potential future RBI supervisory target. Separately: NaBFID forming an SRO for infrastructure financiers; Manipal Health (Temasek-backed) cleared for a July IPO listing. See *2026 07 07 fintech bfsi digest*, *bank of baroda*
+
+**NEW (July 5):** **Kotak Mahindra Bank is positioned to gain from acquiring Deutsche Bank's India business** (affluent-banking/wealth-management boost, per ETBFSI headline; deal terms not yet confirmed) — a new inorganic-growth data point on top of the bank's ongoing CEO-succession story. IRDAI cleared another general insurance licence; Bima Sugam targeted for a September-end go-live. Canara Bank sanctioned >₹7,000 Cr under ECLGS 5.0 against a ₹20,000 Cr pipeline. Indian startup funding normalised to $107M/22 deals in the first week of July, down from the CRED-skewed $1.1Bn prior week (H1 2026 cumulative: $6.9Bn). See *2026 07 05 fintech bfsi digest*, *kotak mahindra bank*
 
 **NEW (July 4 — Indian banking leadership reshuffle firms up on a third independent source):** ETBFSI's July 3-4 coverage adds material new detail to two stories the wiki has tracked since June 30. **Kotak Mahindra Bank's CEO exit now has a firm date**: Ashok Vaswani is declining a second-term reappointment, with his current term ending **December 2026** — converting an open-ended succession question into a dated ~5-month window. **HDFC Bank's leadership story is larger than previously captured**: alongside the already-tracked Puneet Sharma CFO hire, the bank has cleared CEO Jagdishan's **third-term reappointment** and appointed **Rajiv Kumar, replacing Atanu Chakraborty** — whose exit reportedly drove a **>5% single-day share price decline**, a materially bigger market reaction than any previously logged for this thread. ETBFSI frames the sector-wide question well: do Indian banks need a "caretaker" or a "transformer," and do they have sufficiently aggressive succession planning given accelerating digital/AI/fintech disruption? Separately, **WhatsApp's marketplace/username feature is emerging as a regulatory flashpoint** — India's government reads usernames as a fraud-enabling privacy gap, while Meta is reportedly building the same feature as the foundation of a commerce graph, extending the Kunal-Shah-leads-WhatsApp storyline into a concrete product-policy tension. **Fibe's IPO-bound "purpose-driven finance" growth model faces sustainability scrutiny** pre-listing (The Morning Context) — a specific instance of the broader FinTech 2.0 "distribution-first is over" thesis tracked since June 27. See *2026 07 04 fintech bfsi digest*, *kotak mahindra bank*, *hdfc bank*
 
@@ -1051,7 +1075,11 @@ See *2026 06 26 fintech bfsi digest*, *2026 06 26 macro signals*
 
 ## AI & Tech
 
-*Last updated: 2026-07-04 | Sources: tech-ai-digest (May 14–Jul 4), fintech-bfsi-digest (May 14–Jul 4), company Q4 FY26 results*
+*Last updated: 2026-07-07 | Sources: tech-ai-digest (May 14–Jul 7), fintech-bfsi-digest (May 14–Jul 7), company Q4 FY26 results*
+
+**NEW (July 7):** **PM Modi inaugurated India's third chip-packaging facility at Sanand** under the India Semiconductor Mission — zero to three operational plants in six months; Vaishnaw projects five plants live by end-2026 (3 of 12 approved ISM projects now commissioning). **Samsung Electronics is projected to post an 18-fold YoY profit jump** on surging AI-memory demand — a third consecutive record-profit quarter, reinforcing the memory-shortage thesis tracked via AMD/Qualcomm's packaging pivot (below). India's IT sector explicitly frames this as a "hardware super-cycle" likely to persist through 2027. Meta's $14Bn smart-glasses bet and internal GPT-5.5 benchmarking ("Watermelon") continue big-tech's consumer-AI-hardware and model-race capital intensity. See *2026 07 07 tech ai digest*, *modi*
+
+**NEW (July 5):** **TSMC's 3nm lead times now exceed one year**; Samsung Foundry is capturing named overflow orders (Google, NVIDIA, Tesla, AMD, BYD) while Apple explores Samsung/Intel for its A21 SoC — reinforcing the crack-in-TSMC's-monopoly thread with named customers rather than just capacity-constraint framing. AMD and Qualcomm both pivoted to AI memory-packaging innovation (Memory-on-Package, "High Bandwidth Compute") — memory bandwidth, not logic-node shrinks, is becoming the binding AI-hardware constraint. India Semiconductor Mission 2.0 got a ₹1,000 Cr FY27 provision plus two new Cabinet-approved projects (Dholera, Surat). See *2026 07 05 tech ai digest*
 
 **NEW (July 4):** **TSMC's leading-edge foundry near-monopoly shows its first real crack**: **Meta is in talks with Samsung Foundry for a >10 trillion won (~$7.2Bn) custom AI chip order**, seeking to diversify away from TSMC whose lead times now exceed a year under aggressive six-month chip iteration cycles; **Apple is separately (and independently) exploring Intel Foundry and Samsung Foundry for its A21 chips** — the same TSMC-capacity-constraint root cause driving two of the largest US tech buyers toward alternative foundries in the same week. Samsung's 2nm quotes reportedly run ~30% cheaper than TSMC's, and its foundry order backlog has swelled to ~50 trillion won with a possible Q3 2026 return to profitability — a genuine foundry-market share shift, not just a pricing threat. **TSMC's own 2026 capex guidance ($52-56Bn) and Fab 21 Phase 2 Arizona equipment move-in (targeted Q3 2026)** confirm it is still investing at record pace even as it loses share at the margin. Separately, **Palantir CEO Alex Karp's public, sharp criticism of OpenAI and Anthropic** ("Something Has Gone Completely Wrong") is a new instance of AI-industry public friction worth tracking, though the substance wasn't captured in this digest's snippet-only extraction. **India's semiconductor mission continues its steady incremental build**: 13 approved ISM projects as of May 2026, Bhiwadi ATMP live, $92M in VLSI design-startup funding YTD, ISM 2.0 getting a ₹1,000 Cr FY27 allocation — consistent, on-schedule execution rather than any single step-change. **NVIDIA's China AI-chip market share has fallen to ~50% (from >90% pre-export-controls)** under the BIS case-by-case review regime — the clearest quantification yet of how far the global AI chip market has bifurcated along export-control lines. See *2026 07 04 tech ai digest*
 
@@ -1543,7 +1571,13 @@ See *2026 06 26 tech ai digest*, *2026 06 26 macro signals*
 
 ## Geopolitics
 
-*Last updated: 2026-07-04 | Sources: macro-signals-collect (Jun 12–Jul 4), fintech-bfsi-digest (Jun 16–Jul 4), tech-ai-digest (Jun 16–Jul 4)*
+*Last updated: 2026-07-07 | Sources: macro-signals-collect (Jun 12–Jul 7), fintech-bfsi-digest (Jun 16–Jul 7), tech-ai-digest (Jun 16–Jul 7)*
+
+**NEW (July 6-7):**
+
+**Modi — Sanand chip plant inaugurated; UDAN scheme, Jodhpur airport, BrahMos Indonesia, India-Israel BIT.** A concentrated batch of policy/diplomacy/economic actions: (1) inaugurated India's third ISM chip-packaging plant at Sanand — a concrete industrial-policy delivery milestone (zero to three plants in six months); (2) launched the Modified UDAN scheme (₹28,840 Cr) and inaugurated Jodhpur Airport's terminal — regional connectivity push; (3) government planning a 15% isobutanol diesel blend (following E20 petrol) — a structural, multi-year crude-import-reduction lever; (4) BrahMos export "belt" extended to Indonesia (alongside Philippines, Vietnam) — continuing India's Indo-Pacific defence-export credibility build; (5) India-Israel bilateral investment protection pact came into effect. See *modi*, *2026 07 07 tech ai digest*
+
+**Trump — "Trump Accounts" rolled out.** A new US government child-savings-account policy signed into effect (headline-only capture); no direct India transmission channel identified, logged as US domestic policy context. See *trump*
 
 **July 4 note:** No new direct actions by Modi, Trump, Xi Jinping, or Putin captured in the July 4 batch. The dominant stories (Indian banking leadership reshuffle, Meta-Samsung foundry talks, weak US NFP print) are corporate/data events, not executive actions by a tracked leader. Leader pages unchanged for this compile.
 
@@ -1612,6 +1646,13 @@ See *2026 06 26 tech ai digest*, *2026 06 26 macro signals*
 **Putin — no material new escalation this cycle.** Russia-Ukraine war continues. Russian oil discounts to India remain intact — relevant context for India's energy import diversification and non-alignment posture.
 
 ---
+
+## Open Questions (new — July 7)
+
+140. **What was the specific RBI violation behind the ₹66.7 lakh Bank of Baroda / GIC Housing Finance penalty?** Headline-only capture; unclear if it connects to the previously-flagged ECL floating-provision reconciliation gap on BoB's entity page.
+141. **Does the NBFC 600%+ interest-rate story (The Ken) foreshadow an RBI rate-cap intervention?** The absence of an RBI ceiling on NBFC lending rates, combined with licenses trading as tradeable assets, is a structural gap — worth watching for regulatory response given RBI's other recent BFSI-governance moves (AI kill-switch proposal, deposit-mobilisation focus).
+142. **Is UPI's -2.1% MoM June dip seasonal noise or an early friction signal?** +23% YoY growth remains intact, but worth confirming against July data before dismissing.
+143. **What are the terms of Kotak Mahindra Bank's reported Deutsche Bank India acquisition?** Headline-only capture (ETBFSI); deal size, structure, and integration timeline not yet available.
 
 ## Open Questions (new — July 4)
 
@@ -1853,6 +1894,10 @@ See *2026 06 26 tech ai digest*, *2026 06 26 macro signals*
 
 | Date | Event | Why it matters |
 |------|-------|----------------|
+| **End-2026** | **India Semiconductor Mission — 2 more plants to commissioning** | Sanand (3rd plant) inaugurated Jul 6; Vaishnaw targets 5 plants operational by end-2026 — watch for the next facility announcement |
+| **Ongoing** | **Kotak-Deutsche Bank India acquisition — deal terms** | ETBFSI (Jul 5) headline-only; watch for confirmed deal size/structure and integration into Kotak's affluent/wealth-management franchise |
+| **Ongoing** | **RBI penalty follow-through — Bank of Baroda / GIC Housing Finance** | ₹66.7 lakh penalty (Jul 7); specific violation undisclosed — watch for RBI order detail |
+| **Ongoing** | **NBFC rate-cap regulatory risk** | The Ken's 600%+ NBFC-interest exposé raises the question of eventual RBI rate-ceiling intervention — watch for any RBI consultation paper or circular |
 | **Ongoing** | **Kotak Mahindra Bank CEO succession — Dec 2026 deadline confirmed** | ETBFSI (Jul 4) firms up Ashok Vaswani's exit date; watch for successor announcement (internal transformer vs. external caretaker) over the ~5-month runway |
 | **Ongoing** | **HDFC Bank triple leadership transition** | CEO Jagdishan 3rd-term reappointment + Rajiv Kumar (replacing Chakraborty, >5% share reaction) + Puneet Sharma CFO — watch for combined board announcement and any Q1 FY27 strategic-continuity signals |
 | **Next US data prints** | **Weak June NFP (57K) — confirm rate-cut or growth-scare read** | Gold/silver rallied, DXY eased; direction unconfirmed pending US market reopen post-holiday; shapes EM-carry/INR read |

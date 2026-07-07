@@ -25,4 +25,5 @@ permalink: /companies/
 - [Swiggy Limited]({{ '/companies/swiggy/' | relative_url }})
 - [Tata Consultancy Services Limited (TCS)]({{ '/companies/tcs/' | relative_url }})
 - [Tech Mahindra Limited]({{ '/companies/tech-mahindra/' | relative_url }})
+- [Trent Limited]({{ '/companies/trent/' | relative_url }})
 - [Yes Bank]({{ '/companies/yes-bank/' | relative_url }})
