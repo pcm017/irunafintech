@@ -6,6 +6,7 @@ permalink: /companies/
 
 ## Companies
 
+- [AU Small Finance Bank]({{ '/companies/au-small-finance-bank/' | relative_url }})
 - [Axis Bank Limited]({{ '/companies/axis-bank/' | relative_url }})
 - [Bajaj Finance Limited (BFL)]({{ '/companies/bajaj-finance/' | relative_url }})
 - [Bank of Baroda]({{ '/companies/bank-of-baroda/' | relative_url }})
