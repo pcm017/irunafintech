@@ -18,9 +18,10 @@ tags:
 - central-banks
 - bis
 - tokenisation
+excerpt: US equities consolidated at record levels (S&P 7,520, Nasdaq 26,675); KOSPI
+  extended its run to 8,229 (+2.52%). India Nifty 24,197 / Sensex 78,494 (May 27 close)
+  — India up strongly. Brent jumped +2.13% to $96.30 after **US "self-defense…
 ---
-
-# Macro Signals Snapshot — 2026-05-28
 
 **Raw file:** [raw/indices/2026-05-28-macro-signals.md](../../raw/indices/2026-05-28-macro-signals.md)
 

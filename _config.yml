@@ -20,6 +20,7 @@ header_pages:
   - fintech-bfsi.md
   - ai-tech.md
   - geopolitics.md
+  - tags.md
 
 defaults:
   - scope:

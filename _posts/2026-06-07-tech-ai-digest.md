@@ -18,9 +18,10 @@ tags:
 - india-ai-gap
 - anthropic-agent-workflows
 - marketing-blindspot
+excerpt: '**Anthropic urges AI development pause coordination** — if risks grow beyond
+  current understanding, top labs should coordinate on a pause mechanism; RBI prepared
+  for Mythos AI threat. **Google-SpaceX $920M/month compute deal** for 110,000…'
 ---
-
-# Tech & AI Digest — 2026-06-07
 
 **Raw file:** *2026 06 07 tech ai digest*
 

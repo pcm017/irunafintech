@@ -15,9 +15,10 @@ tags:
 - agent-growth
 - plg
 - robotics
+excerpt: '**Opus 4.7 "winning people back"** — Claude Opus 4.7 regaining user preference
+  after competitive pressure from rival models; model war still live. **Cerebras IPO
+  at $95B valuation** — AI chip company IPO validates infrastructure-layer AI…'
 ---
-
-# Tech & AI Digest — 2026-05-18
 
 **Raw file:** [raw/newsletters/2026-05-18-tech-ai-digest.md](../../raw/newsletters/2026-05-18-tech-ai-digest.md)
 

@@ -21,9 +21,10 @@ tags:
 - nvidia-tsmc-ai-fabs
 - india-tech-ai
 - learning-systems
+excerpt: '**Sarvam AI unicorn:** $234M Series B first close, $1.5B valuation, HCLTech
+  $150M lead (>10%) — India''s first full-stack sovereign AI company building foundational
+  models, inference infra, and enterprise apps; not just fine-tuning. **India…'
 ---
-
-# Tech & AI Digest — 2026-06-17
 
 **Raw file:** *2026 06 17 tech ai digest*
 

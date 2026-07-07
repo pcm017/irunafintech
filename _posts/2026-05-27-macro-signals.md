@@ -23,9 +23,10 @@ tags:
 - three-fs
 - sitharaman
 - crisil
+excerpt: '**S&P 500 and Nasdaq hit fresh record highs** on May 26 — S&P 7,519.12 (+0.61%),
+  Nasdaq 26,656.18 (+1.19%). KOSPI 8,048 (+2.55%, record intraday 8,131). Dow underperformed
+  (−0.23%). Equal-weight S&P outperforming Magnificent 7 YTD. **Nifty…'
 ---
-
-# Macro Signals Snapshot — 2026-05-27
 
 **Raw file:** *2026 05 27 macro signals*
 

@@ -19,9 +19,10 @@ tags:
 - crypto
 - prediction-markets
 - india-banking
+excerpt: '**RBI: banks cannot disable mobile phones of defaulting borrowers** — consumer
+  protection ruling limits recovery enforcement methods; significant for digital lenders
+  **BIS double alert**: (1) Basel Committee ICT risk management report; (2)…'
 ---
-
-# Fintech & BFSI Digest — 2026-05-21
 
 ## TL;DR
 

@@ -20,9 +20,10 @@ tags:
 - cot
 - india
 - rates
+excerpt: '**US-Iran conflict re-escalates sharply (June 10):** US carried out "self-defense
+  strikes" after a US helicopter was downed by Iran; Iran retaliated by attacking
+  Bahrain, Jordan, and Kuwait — the conflict spreads beyond Iran-Israel into…'
 ---
-
-# Macro Signals Snapshot — 2026-06-11
 
 **Raw file:** [raw/indices/2026-06-11-macro-signals.md](../../raw/indices/2026-06-11-macro-signals.md)
 

@@ -26,9 +26,10 @@ tags:
 - bis-insurer
 - anthropic-funding
 - robinhood
+excerpt: '**RBI re-sanctions smartphone device locking for EMI defaults** — a practice
+  banned in 2024 is back with regulatory blessing; major implication for device-linked
+  lending (consumer durables, handset finance). **Bajaj Finance succession…'
 ---
-
-# Fintech & BFSI Digest — 2026-05-29
 
 **Raw file:** [raw/newsletters/2026-05-29-fintech-bfsi-digest.md](../../raw/newsletters/2026-05-29-fintech-bfsi-digest.md)
 

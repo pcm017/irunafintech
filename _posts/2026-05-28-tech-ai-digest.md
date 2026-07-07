@@ -21,9 +21,10 @@ tags:
 - sam-altman
 - chatgpt
 - vatican
+excerpt: '**Micron hits $1 trillion market cap** — 12th largest company globally;
+  driven by AI-driven HBM memory demand for accelerators and data centers. **"Thank
+  God For Data Centers"** (Packy McCormick): Hyperscale DC investment is driving down…'
 ---
-
-# Tech & AI Digest — 2026-05-28
 
 **Raw file:** [raw/newsletters/2026-05-28-tech-ai-digest.md](../../raw/newsletters/2026-05-28-tech-ai-digest.md)
 

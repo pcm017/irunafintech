@@ -27,9 +27,11 @@ tags:
 - jio-ipo
 - pine-labs
 - upi-agents
+excerpt: '**Apple WWDC / Siri AI finally ships** (Tim Cook''s final WWDC): Siri rebuilt
+  with real AI; demos worked (slow enough to prove not faked); "good enough" AI +
+  iPhone distribution advantages could sustain Apple''s role in next computing era…'
 ---
 
-# Source: Tech & AI Digest — 2026-06-13
 _Date: June 12, 2026 emails + web sources_
 _Raw file: *2026 06 13 tech ai digest*_
 

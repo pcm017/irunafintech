@@ -24,9 +24,10 @@ tags:
 - sidbi
 - monzo
 - f6s
+excerpt: '**DCB Bank** shifts away from DSA distribution model — reducing reliance
+  on Direct Selling Agents, moving toward direct channels. **100% FDI in insurance**
+  — insurers evaluating strategic partnerships and capital raising as foreign…'
 ---
-
-# Fintech & BFSI Digest — 2026-05-27
 
 **Raw file:** *2026 05 27 fintech bfsi digest*
 

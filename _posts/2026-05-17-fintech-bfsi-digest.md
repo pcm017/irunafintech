@@ -15,9 +15,10 @@ tags:
 - bajaj-finance
 - dream11
 - anthropic
+excerpt: Bajaj Finance described as hitting an **"Intermission" moment** (The Ken)
+  — a deliberate strategic pause, not structural distress; warrants monitoring. **Dream11
+  parent (Dream Sports) launched Dream Money** — wealth management app; signals…
 ---
-
-# Fintech & BFSI Digest — 2026-05-17
 
 **Raw file:** [raw/newsletters/2026-05-17-fintech-bfsi-digest.md](../../raw/newsletters/2026-05-17-fintech-bfsi-digest.md)
 

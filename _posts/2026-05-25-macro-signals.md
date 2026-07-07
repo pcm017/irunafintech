@@ -19,8 +19,6 @@ tags:
 - oil-dependency
 ---
 
-# Macro Signals Snapshot — 2026-05-25
-
 **TL;DR**
 - Memorial Day weekend; last US close May 23: S&P 7,473 (+0.37%, **+8.7% YTD**); Nasdaq +13.1% YTD; Nifty 23,719 (+0.32%, **-4.1% YTD**)
 - Brent $103.94 (+1.33%); Gold $4,509; Copper $6.35/lb (**+31% YoY**) — metals supercycle continuing

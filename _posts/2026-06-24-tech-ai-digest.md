@@ -23,8 +23,6 @@ tags:
 - chip-manufacturing
 ---
 
-# Source: Tech & AI Digest — 2026-06-24
-
 **TL;DR**
 - Anthropic's rapid model release cadence (two in six weeks with better benchmarks) is breaking production systems at customer deployments — the "AI upgrade trap" is an emerging developer experience crisis as model replacement cycles accelerate
 - Sakana AI (Tokyo) achieved frontier-matching performance via model routing/merging without owning a foundation model — "a model made of models" thesis challenges the assumption that you need to train to compete

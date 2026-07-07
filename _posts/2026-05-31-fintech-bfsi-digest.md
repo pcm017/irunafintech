@@ -19,9 +19,10 @@ tags:
 - asian-paints
 - ai-venture-era
 - payu
+excerpt: '**Bank fraud surges to ₹48,021 crore in FY26** — significant increase in
+  the quantum of bank frauds reported by the Indian banking system in latest RBI data
+  **Kotak signals sector-wide NIM compression** — elevated funding costs and margin…'
 ---
-
-# Fintech & BFSI Digest — 2026-05-31
 
 **Source:** fintech-bfsi-collect | **Date:** 2026-05-31 (covering May 30, 2026 emails)
 

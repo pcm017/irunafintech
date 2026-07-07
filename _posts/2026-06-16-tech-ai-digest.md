@@ -29,9 +29,10 @@ tags:
 - remote-access-security-act
 - india-rd-fund
 - tech-layoffs
+excerpt: '**US government orders Anthropic to pull Mythos AND Fable model series**
+  — both Fable 5 and the Mythos line have been recalled under U.S. national security
+  or export control grounds. Stratechery thesis: Anthropic''s safety positioning gives…'
 ---
-
-# Tech & AI Digest — 2026-06-16
 
 **Raw file:** *2026 06 16 tech ai digest*
 

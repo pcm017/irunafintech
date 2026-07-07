@@ -16,9 +16,11 @@ tags:
 - bhiwadi-osat
 - optiemus-quectel
 - ai-investment-risk
+excerpt: '**Hexaware joins Anthropic''s Claude enterprise program** — another mid-tier
+  Indian IT services firm formally onboards frontier AI, following TCS''s 50K-seat
+  Claude partnership (June 12); enterprise AI adoption broadening beyond top-tier
+  IT.…'
 ---
-
-# Tech & AI Digest — 2026-06-30
 
 **Raw file:** *2026 06 30 tech ai digest*
 

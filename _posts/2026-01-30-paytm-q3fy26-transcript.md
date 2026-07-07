@@ -15,9 +15,10 @@ tags:
 - upi
 - lending
 - ai
+excerpt: PIDF sunset is the elephant in the room — management expects 30-40% offset
+  in Q4 via subscription repricing + targeted AI-led sales; remaining ~60% will flow
+  to EBITDA as a short-term hit Long-term revenue growth and margin outlook…
 ---
-
-# Paytm Q3 FY26 Earnings Call Transcript
 
 **Call date:** January 30, 2026, 8:00 AM IST  
 **Filed with BSE/NSE:** February 4, 2026  

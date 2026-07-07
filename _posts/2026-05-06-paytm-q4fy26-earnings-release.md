@@ -14,9 +14,11 @@ tags:
 - q4fy26
 - earnings
 - profitability
+excerpt: '**FY26 is Paytm''s first full year of profit:** Revenue ₹8,437 Cr (+22%
+  YoY), EBITDA ₹502 Cr (6% margin, a ₹2,008 Cr swing from -₹1,506 Cr in FY25), PAT
+  ₹552 Cr (vs. -₹663 Cr in FY25). **Q4 FY26:** Revenue ₹2,264 Cr (+18% YoY reported,
+  +26%…'
 ---
-
-# Paytm Q4 FY26 Earnings Release
 
 **Released:** 6 May 2026 | **Earnings call:** 7 May 2026  
 **Raw file:** [raw/results/Paytm_Earning-Release_Q4-FY2026-FY-2026.pdf](../../raw/results/Paytm_Earning-Release_Q4-FY2026-FY-2026.pdf)

@@ -23,9 +23,10 @@ tags:
 - community-banks
 - plaid
 - crypto-exchanges
+excerpt: '**RBI MPC June 5**: Repo held at 5.25% (3rd consecutive hold, neutral stance);
+  capital inflow package announced — analysts estimate ~$5B/month; LCR-linked differential
+  pricing proposed for bulk deposits. **Govt promulgated FII G-Sec tax…'
 ---
-
-# Fintech & BFSI Digest — 2026-06-06
 
 **Raw file:** *2026 06 06 fintech bfsi digest*
 

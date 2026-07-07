@@ -22,8 +22,6 @@ tags:
 - agentic-commerce
 ---
 
-# Fintech & BFSI Digest — 2026-05-25
-
 **TL;DR**
 - PSU banks recalling Dubai IBOs amid West Asia war (Canara Bank still deciding)
 - RBI meetings with banks on AI-linked cybersecurity risks; MuleHunter.ai push accelerating

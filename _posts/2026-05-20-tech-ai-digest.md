@@ -17,9 +17,10 @@ tags:
 - software-factory
 - multi-agent
 - ai-voice-calls
+excerpt: '**Andrej Karpathy joins Anthropic** — joining pre-training team (under Nick
+  Joseph); will also lead a new team using Claude to accelerate pretraining research
+  (recursive self-improvement in training workflows) **Musk v. OpenAI dismissed**…'
 ---
-
-# Tech & AI Digest — 2026-05-20
 
 ## TL;DR
 

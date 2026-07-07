@@ -20,9 +20,10 @@ tags:
 - spacex-ipo
 - reliance-jamnagar-ai
 - saudi-ipo-pause
+excerpt: '**RBI cancels 135 NBFC registrations** — large batch regulatory cleanup;
+  sector tightening signals ahead of credit cycle moderation. **Banks sharply raise
+  FCNR(B) rates** + bank lending restricted to listed REITs/InvITs only — two…'
 ---
-
-# Fintech & BFSI Digest — 2026-06-12
 
 **Raw file:** [raw/newsletters/2026-06-12-fintech-bfsi-digest.md](../../raw/newsletters/2026-06-12-fintech-bfsi-digest.md)
 

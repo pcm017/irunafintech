@@ -18,8 +18,6 @@ tags:
 - trust-infrastructure
 ---
 
-# Fintech & BFSI Digest — 2026-05-24
-
 **TL;DR**
 - Canara Bank: RBI relief (risk weight easing on housing/MSME) may cushion ₹10,000 Cr ECL hit
 - RBI declared ₹2.87L crore dividend — largest ever — as fiscal buffer against war shock; RBI explicitly not in favour of rate hikes to defend rupee

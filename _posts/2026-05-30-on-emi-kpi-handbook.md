@@ -14,8 +14,6 @@ tags:
 - kpi
 ---
 
-# Source: OnEMI KPI Handbook FY26
-
 **Raw file:** `raw/results/2026-05-30-on-emi-kpi-handbook.md`
 **Original file:** `raw/results/On_EMI_KPI_Handbook_FY_26_2c1859a3a5.xlsx`
 

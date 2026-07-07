@@ -17,9 +17,10 @@ tags:
 - open-source
 - infrastructure
 - layoffs
+excerpt: Google killed Chromebook; replaced by **Googlebook** — Android-native, Gemini
+  Intelligence at OS level, Magic Pointer AI cursor; shipping fall 2026 with Dell/HP/Lenovo/Acer/Asus
+  **Anthropic** valuation hits implied $1.4 trillion (up 40% in…
 ---
-
-# Tech & AI Digest — 2026-05-14
 
 ## TL;DR
 

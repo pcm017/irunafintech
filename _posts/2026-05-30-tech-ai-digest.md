@@ -18,9 +18,10 @@ tags:
 - india-tech
 - agentic-finance
 - spacex-ipo
+excerpt: '**Chatbots and agents are merging** — AI labs building systems that proactively
+  anticipate user intent rather than waiting for commands; distinction between "asking
+  AI" and "AI doing" is collapsing (Alex Kantrowitz) **Lovable hits $400M…'
 ---
-
-# Tech & AI Digest — 2026-05-30
 
 **Source:** tech-ai-collect | **Date:** 2026-05-30 (covering May 29, 2026 emails)
 

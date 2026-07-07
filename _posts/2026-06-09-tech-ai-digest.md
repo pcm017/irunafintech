@@ -26,9 +26,10 @@ tags:
 - spacex
 - india-ai-traffic
 - agentic-web
+excerpt: '**Apollo $35B debt financing to buy AI chips for Anthropic** — one of the
+  largest tech debt transactions in history; Broadcom backstopping the senior tranches;
+  half syndicated to institutional investors; signals compute procurement is now…'
 ---
-
-# Tech & AI Digest — 2026-06-09
 
 **Raw file:** *2026 06 09 tech ai digest*
 

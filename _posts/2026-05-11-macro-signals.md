@@ -15,9 +15,10 @@ tags:
 - rates
 - hormuz
 - geopolitics
+excerpt: '**Oil shock in progress:** Brent $104.49 (+3.16%), WTI $95.42 (+3.08%) —
+  Hormuz disruption fears driving energy complex. Managed money near net-short flip
+  on crude (first since 2008), signaling sentiment already bearish but prices being…'
 ---
-
-# Macro Signals Snapshot — 2026-05-11
 
 **Raw file:** `raw/indices/2026-05-11-macro-signals.md`
 **Collected:** 09:30 IST | US markets last traded May 9 (Friday)

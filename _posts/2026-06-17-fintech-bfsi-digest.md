@@ -25,9 +25,10 @@ tags:
 - genz-study-abroad
 - ulip-suitability
 - fpi-outflows-bop
+excerpt: '**RBI regulatory tightening:** Two simultaneous new frameworks — (1) Master
+  Directions on Payment System Authorisation (June 15) consolidating PSO licensing
+  norms; (2) Responsible Business Conduct (2nd Amendment) Directions 2026 requiring…'
 ---
-
-# Fintech & BFSI Digest — 2026-06-17
 
 **Raw file:** *2026 06 17 fintech bfsi digest*
 

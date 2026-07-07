@@ -20,9 +20,10 @@ tags:
 - ai-costs-pl
 - india-ai-skilling
 - product-management-ai
+excerpt: '**a16z: AI compliance is the biggest enterprise opportunity** — mandatory,
+  high-stakes, data-rich. "Why AI''s Biggest Enterprise Opportunity Is Also Its Most
+  Boring." **DeepSeek V4 released** — Chinese AI lab continues aggressive model…'
 ---
-
-# Tech & AI Digest — 2026-05-27
 
 **Raw file:** *2026 05 27 tech ai digest*
 

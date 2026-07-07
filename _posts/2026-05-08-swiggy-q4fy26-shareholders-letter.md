@@ -13,9 +13,10 @@ tags:
 - india-tech
 - q4fy26
 - profitability
+excerpt: Food GOV +22.6% YoY to ₹9,005 Cr — 15-quarter high; food Adj EBITDA margin
+  3.3% (best ever). Instamart GOV +68.8% YoY; 1,143 stores in 129 cities; contribution
+  margin improving to −1.1% (March); Adj EBITDA loss ₹858 Cr.
 ---
-
-# Swiggy Q4 FY26 Shareholders' Letter
 
 **Raw file:** [raw/results/45b61b34-69c4-4e90-a7d8-1e1bbc84b072.pdf](../../raw/results/45b61b34-69c4-4e90-a7d8-1e1bbc84b072.pdf)
 

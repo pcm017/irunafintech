@@ -14,9 +14,10 @@ tags:
 - omnichannel
 - q3fy26
 - transcript
+excerpt: 'Falguni Nayar (CEO/Chairperson) presented Q3 FY26 highlights: GMV ₹5,795
+  Cr (+28%), EBITDA ₹230 Cr (8.0%, highest ever), PAT ₹68 Cr (+156%). Beauty EBITDA
+  hits 10.1% margin — driven by "all cylinders firing" (Beauty.com, retail stores…'
 ---
-
-# Nykaa Q3 FY26 Earnings Conference Call Transcript
 
 **Raw file:** [raw/results/132004f5-80ca-47e1-91ec-36190368640f.pdf](../../raw/results/132004f5-80ca-47e1-91ec-36190368640f.pdf)
 

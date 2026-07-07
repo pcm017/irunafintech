@@ -21,9 +21,10 @@ tags:
 - india-forex
 - rbi-pulse-survey
 - cfo-defensiveness
+excerpt: '**FinTech 2.0 framing consolidates**: India fintech funding has fallen from
+  $8B to $2B over 5 years; 700+ fintechs have shut down; RBIH''s Sahil Kini calls
+  it a "healthy ecosystem" signal — quality over quantity **NSE files DRHP with SEBI**…'
 ---
-
-# Fintech & BFSI Digest — 2026-06-27
 
 **Raw file:** [raw/newsletters/2026-06-27-fintech-bfsi-digest.md](../../raw/newsletters/2026-06-27-fintech-bfsi-digest.md)
 *Sources: ETBFSI, Capital Mind, The Ken, ETCFO, TechCrunch/Bloomberg, PYMNTS, TRAI, Business Standard*

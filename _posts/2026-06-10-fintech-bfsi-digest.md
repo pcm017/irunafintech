@@ -25,9 +25,10 @@ tags:
 - openai-s1
 - deel-stablecoin
 - agentic-ai-governance
+excerpt: MCC (merchant category code) misuse is now a Rs 3,000 crore problem — ICICI
+  Bank pursuing interchange recovery claims; RBI tightening scrutiny of card networks;
+  banks losing thousands of crores through systematic MCC manipulation by…
 ---
-
-# Fintech & BFSI Digest — 2026-06-10
 
 **Raw file:** [raw/newsletters/2026-06-10-fintech-bfsi-digest.md](../../raw/newsletters/2026-06-10-fintech-bfsi-digest.md)
 

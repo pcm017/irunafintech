@@ -17,9 +17,10 @@ tags:
 - gold
 - upi
 - bank-credit
+excerpt: Sunday snapshot; all data as of Friday May 29, 2026 (last trading session).
+  Markets closed June 1. S&P 500 7,580.06 — 9th consecutive weekly gain; Nifty ~23,903
+  (−5.15% YTD); Brent ~$92 (Iran deal "close but not finalised"); Gold $4,541.80…
 ---
-
-# Macro Signals Snapshot — 2026-06-01
 
 **Raw file:** [raw/indices/2026-06-01-macro-signals.md](../../raw/indices/2026-06-01-macro-signals.md)
 

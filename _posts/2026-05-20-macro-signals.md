@@ -17,9 +17,10 @@ tags:
 - oil
 - gold-reserves
 - bond-vigilantes
+excerpt: 30Y US Treasury briefly hit **5.19%** on May 19 — the highest in ~19 years;
+  bond vigilantes are challenging the incoming Warsh Fed **Brent $111.22/bbl** (+70%
+  YoY) — Trump called off a planned Iran strike following appeals from…
 ---
-
-# Macro Signals Snapshot — 2026-05-20
 
 ## TL;DR
 

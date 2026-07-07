@@ -20,9 +20,10 @@ tags:
 - memorial-day
 - rbi
 - forex-reserves
+excerpt: '**US markets closed** (Memorial Day, May 26, 2026); last US close was May
+  23 (S&P 7,473 — 8th consecutive weekly gain) **Nifty 23,987.30 (+1.13%)** on May
+  26 — India market opened strongly; Sensex 76,358.96 (+1.25%)'
 ---
-
-# Macro Signals Snapshot — 2026-05-26
 
 **Raw file:** *2026 05 26 macro signals*
 

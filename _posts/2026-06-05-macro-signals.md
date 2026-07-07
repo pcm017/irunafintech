@@ -20,9 +20,10 @@ tags:
 - bank-credit
 - indiGo-rupee
 - ecb-cbdc
+excerpt: 'US-Iran military escalation dramatically escalated: US conducted nighttime
+  attack on Qeshm Island; Iran retaliated with missiles and drones targeting Gulf
+  airbases — Brent surged to ~$97+/bbl, S&P 500 snapped its 9-day winning streak…'
 ---
-
-# Macro Signals Snapshot — 2026-06-05
 
 **Raw file:** [raw/indices/2026-06-05-macro-signals.md](../../raw/indices/2026-06-05-macro-signals.md)
 

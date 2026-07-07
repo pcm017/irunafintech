@@ -24,9 +24,10 @@ tags:
 - e85-ethanol
 - bhel
 - oil-india-andaman
+excerpt: '**Nasdaq ▼4.18% (biggest drop since April 2025)** and S&P ▼2.64% on June
+  5 close — strong US May jobs report spiked Treasury yields; semiconductor selloff
+  wiped ~$1T from markets. **US 10Y spiked to 4.54% (+6bps), US 2Y to 4.16% (+10bps)**…'
 ---
-
-# Macro Signals Snapshot — 2026-06-07
 
 **Raw file:** *2026 06 07 macro signals*
 

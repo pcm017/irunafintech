@@ -21,9 +21,10 @@ tags:
 - kotak-bank-cfo-risk
 - ey-secondment-tax
 - bharat-forge-mod
+excerpt: '**SEBI regulatory revamp:** Board cleared comprehensive multi-instrument
+  framework covering buybacks, AIFs, mutual funds, and bonds — India''s securities
+  regulator running a parallel upgrade track alongside RBI''s June banking tightening.…'
 ---
-
-# Fintech & BFSI Digest — 2026-06-20
 
 **Raw file:** *2026 06 20 fintech bfsi digest*
 

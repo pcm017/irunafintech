@@ -21,9 +21,10 @@ tags:
 - jio
 - vodafone-idea
 - bond-vigilantes
+excerpt: '**RBI flagging AI cybersecurity risks to banks** — adversarial attacks,
+  model drift, data poisoning in AI credit/fraud systems; RBIH accelerating MuleHunter.ai
+  adoption **RBI tightening ODI scrutiny** — $27B India Inc. overseas investments…'
 ---
-
-# Fintech & BFSI Digest — 2026-05-20
 
 ## TL;DR
 

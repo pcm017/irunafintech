@@ -14,8 +14,6 @@ tags:
 - finai
 ---
 
-# Source: Bajaj Finance — Data Sheet Q4 FY26
-
 **Raw file:** `raw/results/2026-05-30-bajaj-finance-datasheet.md`
 **Original file:** `raw/results/bajaj-finance-select-financial-and-business-metrics-q4-fy26.xlsx`
 

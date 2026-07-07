@@ -17,9 +17,10 @@ tags:
 - defi
 - anthropic
 - gold
+excerpt: India raises gold and silver import duty from 6% to 15% — INR defense play;
+  gold ETFs surge 15%, jewellery stocks fall sharply, gold financiers (Muthoot, Manappuram)
+  gain India retail CPI confirmed at 3.48% (April 2026) — below RBI's 4%…
 ---
-
-# Fintech & BFSI Digest — 2026-05-14
 
 **Raw file:** `raw/newsletters/2026-05-14-fintech-bfsi-digest.md`
 **Threads found:** 35 | **Threads kept:** 9

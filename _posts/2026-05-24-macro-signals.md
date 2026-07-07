@@ -19,8 +19,6 @@ tags:
 - panagariya
 ---
 
-# Macro Signals Snapshot — 2026-05-24
-
 **TL;DR**
 - Weekend collect (May 22 Friday close; Memorial Day weekend): S&P 7,457 ▲+0.40%, Nifty 23,680
 - Brent $105.00/bbl; WTI $96.60; Iran deal uncertainty keeping oil elevated

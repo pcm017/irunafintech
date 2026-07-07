@@ -21,9 +21,10 @@ tags:
 - micron-sanand
 - cg-power
 - india-semiconductor
+excerpt: '**Anthropic releases Mythos-class AI to the public** — the frontier model
+  architecture previously referenced internally is now publicly available. Claude
+  Fable 5 (a new model iteration) simultaneously live; Every hosting professional…'
 ---
-
-# Tech & AI Digest — 2026-06-11
 
 **Raw file:** [raw/newsletters/2026-06-11-tech-ai-digest.md](../../raw/newsletters/2026-06-11-tech-ai-digest.md)
 

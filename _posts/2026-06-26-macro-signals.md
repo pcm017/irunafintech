@@ -24,9 +24,10 @@ tags:
 - tamil-nadu-debt
 - adani-nuclear
 - bis-crypto
+excerpt: '**WTI breaks below $70 for the first time since before the US-Iran conflict**
+  ($73.05 Brent, <$70 WTI); India-bound oil tanker rates surged 897% even as crude
+  prices fall — a transmission disruption rather than supply disruption. US 10Y…'
 ---
-
-# Macro Signals Snapshot — 2026-06-26
 
 ## TL;DR
 

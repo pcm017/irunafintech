@@ -14,9 +14,10 @@ tags:
 - unified-regulator
 - vc-funding
 - upi
+excerpt: Kotak Mahindra Bank is positioned to gain from acquiring Deutsche Bank's
+  India business, framed as boosting its affluent-banking/wealth-management franchise
+  (headline-only; full detail not retrieved). IRDAI cleared another general…
 ---
-
-# Fintech & BFSI Digest — 2026-07-05
 
 ## TL;DR
 

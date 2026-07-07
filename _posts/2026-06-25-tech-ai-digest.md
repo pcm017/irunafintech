@@ -21,8 +21,6 @@ tags:
 - china-tech
 ---
 
-# Source: Tech & AI Digest — 2026-06-25
-
 **TL;DR**
 - Turiyam: India's first inference chip company (Bengaluru, Dec 2024) builds full-stack inference silicon without Nvidia CUDA dependency; charges per compute not per token; addresses exploding enterprise AI bills; TCS-Anthropic export control timing created the window for this thesis
 - Global semiconductor sales Q1 2026: $298.5B (+25% QoQ) — industry on track for $1T full-year 2026; paradoxical against AI spending skepticism selloff

@@ -22,9 +22,10 @@ tags:
 - india-forex-reserves
 - fintech-20
 - nse-ipo
+excerpt: '**WTI $69.40 (-3.51%), Brent <$75** — Persian Gulf exports restored to ~75%
+  of pre-war levels; India annualised crude import savings vs. May $111 peak now exceed
+  $170B, maximising the Iran peace dividend **India 10Y G-Sec at ~6.70%…'
 ---
-
-# Macro Signals Snapshot — 2026-06-27
 
 **Raw file:** [raw/indices/2026-06-27-macro-signals.md](../../raw/indices/2026-06-27-macro-signals.md)
 *Data as of: 2026-06-26 (Indian markets closed June 27)*

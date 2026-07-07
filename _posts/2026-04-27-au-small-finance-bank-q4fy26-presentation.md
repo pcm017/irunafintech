@@ -12,9 +12,10 @@ tags:
 - results
 - lending-institution
 - universal-bank-transition
+excerpt: Reported PAT ₹832 cr in Q4FY26 (+65% YoY, +25% QoQ); FY26 PAT ₹2,641 cr (+25%
+  YoY) — best quarterly print in the bank's history, driven by NIM recovery and normalizing
+  credit cost NIM expanded 16–24 bps QoQ to 5.96% in Q4 (FY26 NIM 5.65%…
 ---
-
-# AU Small Finance Bank Q4FY26 Earnings Presentation — April 27, 2026
 
 ## TL;DR
 

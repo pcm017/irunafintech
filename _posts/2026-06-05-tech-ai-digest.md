@@ -23,9 +23,10 @@ tags:
 - emergent-invisible-users
 - kuku-fm-ipo
 - karnataka-deeptech
+excerpt: '**Claude Code milestone:** $2.5B ARR in year one — Anthropic''s Head of
+  Design details how the agentic coding tool became Anthropic''s fastest-growing product,
+  transitioning from chat interface to agentic workflows **MeitY AI in govt:**…'
 ---
-
-# Tech & AI Digest — 2026-06-05
 
 **Raw file:** [raw/newsletters/2026-06-05-tech-ai-digest.md](../../raw/newsletters/2026-06-05-tech-ai-digest.md)
 

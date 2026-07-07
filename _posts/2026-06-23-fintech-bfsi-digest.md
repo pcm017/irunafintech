@@ -18,9 +18,10 @@ tags:
 - insurance
 - india-services-ai
 - india-dealmaking
+excerpt: '**RBIH is working on launching DPIP** (Digital Public Infrastructure Platform)
+  — next layer of India''s DPI stack, per Sahil Kini; RBI simultaneously overhauling
+  Lead Bank Scheme **NSE IPO advancing** — marquee law firms (CAM, L&W, Khaitan…'
 ---
-
-# Fintech & BFSI Digest — 2026-06-23
 
 **Raw file:** *2026 06 23 fintech bfsi digest*
 

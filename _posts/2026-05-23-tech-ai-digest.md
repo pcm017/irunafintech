@@ -27,9 +27,10 @@ tags:
 - ai-pr-crisis
 - sundar-pichai
 - taiwan-act
+excerpt: '**Data center veto problem** (Ben Thompson/Stratechery) — the defining constraint
+  on AI buildout is now community opposition and permitting, not capital or compute;
+  established hyperscalers benefit **Parag Agrawal''s "Parallel"** — new…'
 ---
-
-# Tech & AI Digest — 2026-05-23
 
 ## TL;DR
 

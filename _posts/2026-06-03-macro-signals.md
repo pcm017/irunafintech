@@ -19,9 +19,10 @@ tags:
 - gst
 - anthropic-ipo
 - gold-reserves
+excerpt: S&P 7,599.96 (ATH, June 1); Nifty 23,907.15 (+recovery from June 2 dip);
+  Sensex 78,493.54 (+0.65%); Bank Nifty 56,565.70 (+0.85%). Nifty PCR 0.49 (significantly
+  bearish). Brent ~$91/bbl (−1% on June 3 early, after prior session 5.5% surge…
 ---
-
-# Macro Signals Snapshot — 2026-06-03
 
 **Raw file:** [raw/indices/2026-06-03-macro-signals.md](../../raw/indices/2026-06-03-macro-signals.md)
 

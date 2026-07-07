@@ -20,9 +20,10 @@ tags:
 - gsec
 - upi
 - hormuz
+excerpt: S&P 500 7,621 (▼1.11%), Nasdaq 26,224 (▼1.11%), DJI 51,718 (▲0.30%), Nikkei
+  72,648 (▲1.96%) — US tech-heavy indices pulled back on June 22; DJI flat and Asian
+  bourses outperformed Brent $81.11, WTI $74.30 — **WTI sub-$75 for the first time…
 ---
-
-# Macro Signals Snapshot — 2026-06-23
 
 **Raw file:** *2026 06 23 macro signals*
 

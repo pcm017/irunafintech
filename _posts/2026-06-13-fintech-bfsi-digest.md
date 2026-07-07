@@ -22,9 +22,12 @@ tags:
 - insurance
 - ai-in-finance
 - offshore-capital
+excerpt: '**RBI FCNR(B) FX hedging subsidy** (Capital Mind analysis): RBI absorbs
+  FX hedging cost for NRI 3–5yr deposits; NRIs earn ~7% with zero currency risk —
+  a 2013 Rajan-era playbook rerun designed to pull in NRI dollars and shore up INR
+  at…'
 ---
 
-# Source: Fintech & BFSI Digest — 2026-06-13
 _Date: June 12, 2026 emails_
 _Raw file: *2026 06 13 fintech bfsi digest*_
 

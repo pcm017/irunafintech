@@ -11,9 +11,10 @@ tags:
 - results
 - lending-institution
 - private-sector-bank
+excerpt: PAT ₹137.02 bn (+8.5% YoY) for Q4; FY26 PAT ₹501.47 bn (+6.2% YoY) — steady
+  compounding but below the 15–18% growth pace of FY24 NIM held at 4.32% despite full-quarter
+  impact of Dec repo cut, as deposit repricing and mix improvement offset…
 ---
-
-# ICICI Bank Q4FY26 Earnings Call — April 18, 2026
 
 ## TL;DR
 

@@ -14,9 +14,10 @@ tags:
 - investor-presentation
 - nim
 - asset-quality
+excerpt: FY26 NII ₹1,73,120 cr (+4.08% YoY) — slower than PAT growth (+12.88%), meaning
+  operating leverage and lower provisioning did the heavy lifting, not top-line NII
+  expansion NIM compressed YoY at the whole-bank level (3.08% → 2.91%, -17 bps)…
 ---
-
-# SBI FY26 / Q4FY26 Analyst Presentation — May 8, 2026
 
 *Companion document to *2026 05 08 sbi q4fy26 analyst meet* (analyst meet transcript). That source page explicitly flagged: "A detailed investor presentation PDF exists but has not been ingested separately." This source page closes that gap with the full P&L, NIM trend, fee income breakdown, and capital adequacy tables.*
 

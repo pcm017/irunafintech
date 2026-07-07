@@ -20,9 +20,10 @@ tags:
 - kospi
 - samsung
 - bond-rout
+excerpt: '**Global equity rally** (May 20): S&P +0.94%, Nikkei +3.54%, KOSPI +7.60%
+  — Samsung strike averted after wage breakthrough **Crude crashed**: Brent **-5.16%**
+  to $105.54, WTI **-6.55%** to $97.33 — Trump said US is in "final phase" of Iran…'
 ---
-
-# Macro Signals Snapshot — 2026-05-21
 
 ## TL;DR
 

@@ -12,9 +12,10 @@ tags:
 - results
 - q4fy26
 - hypervault
+excerpt: 'Q4 FY26: third consecutive quarter of sequential CC growth (+1.2% QoQ CC);
+  USD revenue $7.621B; INR revenue ₹70,698 crore. Operating margin 25.3% (best in
+  4 years). FY26 full year: CC revenue declined 2.4% YoY (demand normalisation)…'
 ---
-
-# TCS Q4 & Full Year FY26 — Earnings Conference Call Transcript
 
 **Filed:** April 14, 2026 (call held April 9, 2026 post-board meeting)
 **Raw file:** `raw/results/07ae2d32-1050-4e80-96ff-eb2d98378d4e.pdf`

@@ -17,9 +17,10 @@ tags:
 - india-semiconductor-ism-12-facilities
 - tata-psmc-dholera
 - ramp-ai-hiring-study
+excerpt: '**The Ken''s "Intelligence Independence" deep-dive is the most substantive
+  India-AI-sovereignty piece tracked to date** — details the Mythos/Fable rollback
+  origin story, confirms GPT-5.6 is similarly US-companies-only, notes India is…'
 ---
-
-# Tech & AI Digest — 2026-07-01
 
 **Raw file:** *2026 07 01 tech ai digest*
 

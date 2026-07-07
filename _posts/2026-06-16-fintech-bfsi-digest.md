@@ -25,9 +25,10 @@ tags:
 - digital-euro
 - spacex-ipo
 - india-rd-fund
+excerpt: '**RBI''s 100% collateral requirement for prop traders** threatens to erode
+  leverage, compress volumes, and force consolidation across proprietary trading desks
+  — a meaningful structural change for India''s capital markets. **India-Nepal…'
 ---
-
-# Fintech & BFSI Digest — 2026-06-16
 
 **Raw file:** *2026 06 16 fintech bfsi digest*
 

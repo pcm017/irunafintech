@@ -19,9 +19,10 @@ tags:
 - japan
 - germany
 - china-trade
+excerpt: '**Global bond rout deepening:** US 10Y hit 4.601% (52-week high); Germany
+  Bund intraday 3.19% — highest since **May 2011** (15-year high); JGB surged to highest
+  since **May 1997** (nearly 30-year high). US 20Y/30Y near 5.13% — levels not…'
 ---
-
-# Macro Signals Snapshot — 2026-05-19
 
 **Raw file:** [raw/indices/2026-05-19-macro-signals.md](../../raw/indices/2026-05-19-macro-signals.md)
 

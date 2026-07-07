@@ -23,9 +23,10 @@ tags:
 - pmla
 - reliance-infra
 - india-gdp
+excerpt: '**RBI expanding on multiple fronts simultaneously**: digital fraud protection
+  rules (banks + NBFCs), AI kill-switch/independent validation proposal, and GIFT
+  City positioning as offshore funding hub — three parallel regulatory signals in…'
 ---
-
-# Fintech & BFSI Digest — 2026-06-26
 
 ## TL;DR
 

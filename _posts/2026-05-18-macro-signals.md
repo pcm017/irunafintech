@@ -15,9 +15,10 @@ tags:
 - rates
 - hormuz
 - oil
+excerpt: 'Global equities sold off sharply on May 15: S&P −1.24%, Nasdaq −1.54%, DAX
+  −2.07%, FTSE −1.71% — driven by rising bond yields (US 10Y 4.58%), tech weakness,
+  and no US-China policy breakthrough. Oil surged again: Brent $109.26 (+3.35%), WTI…'
 ---
-
-# Macro Signals Snapshot — 2026-05-18
 
 **Raw file:** [raw/indices/2026-05-18-macro-signals.md](../../raw/indices/2026-05-18-macro-signals.md)
 

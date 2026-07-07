@@ -15,9 +15,10 @@ tags:
 - india-tech
 - grey-swan
 - ai-agents
+excerpt: 'Token reckoning: 82¢ of every $1 AI spend never reaches production (EntelligenceAI
+  estimate) — token waste in service of productive use is AI''s biggest hidden problem,
+  not tokenmaxxing. Anthropic shipped 29 distinct product updates in 5…'
 ---
-
-# Tech & AI Digest — 2026-06-02
 
 **Raw file:** [raw/newsletters/2026-06-02-tech-ai-digest.md](../../raw/newsletters/2026-06-02-tech-ai-digest.md)
 

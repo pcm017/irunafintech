@@ -20,9 +20,10 @@ tags:
 - cross-border-payments
 - corporate-deposits
 - india-startup-funding
+excerpt: '**Lendingkart''s last stand:** founder Harshvardhan Lunia and family filed
+  NCLT petition alleging foul play by Temasek subsidiary Fullerton; case hearing June
+  18; $600M wipeout from original valuation — a cautionary tale for fintech-VC…'
 ---
-
-# Fintech & BFSI Digest — 2026-06-08
 
 ## TL;DR
 

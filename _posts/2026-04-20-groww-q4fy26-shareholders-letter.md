@@ -15,9 +15,10 @@ tags:
 - q4fy26
 - earnings
 - listed
+excerpt: '**Explosive growth, rapidly expanding margins:** Q4 FY26 Total Income ₹15,355
+  Mn (+81% YoY, +22% QoQ); EBITDA ₹9,387 Mn (+142% YoY, +30% QoQ); PAT ₹6,864 Mn (+122%
+  YoY), PAT margin 44.7%. **Platform scale:** 21.6 Mn total transacting users…'
 ---
-
-# Groww Q4 FY26 Shareholders' Letter
 
 **Date:** 20 April 2026 | **Company:** Billionbrains Garage Ventures Limited (NSE: GROWW, BSE: 544603)  
 **Raw file:** [raw/results/f68d64b3-d742-4274-9343-e21c055b8329.pdf](../../raw/results/f68d64b3-d742-4274-9343-e21c055b8329.pdf)

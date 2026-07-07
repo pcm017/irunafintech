@@ -14,9 +14,10 @@ tags:
 - finai
 - credit-quality
 - aum
+excerpt: 'AUM crossed ₹5 lakh crore milestone, ending Q4 at ₹509,975 Cr (+22% YoY);
+  PAT (before one-timers) +27% YoY to ₹5,660 Cr — a strong quarter across all key
+  metrics. Credit quality inflecting: GNPA 1.01%, NNPA 0.41%; loan loss to AUM improved…'
 ---
-
-# Bajaj Finance Q4 FY26 Investor Presentation
 
 **Raw file:** `raw/results/Bajaj Finance Q4 FY26 Investor Presentation.pdf`
 

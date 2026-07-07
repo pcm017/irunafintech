@@ -21,9 +21,10 @@ tags:
 - bhashini-nepal
 - cybersecurity
 - india-ai-agency
+excerpt: '**EU Chips Act declared a failure** (Asianometry at ITF World 2026 Antwerp)
+  — Europe''s flagship semiconductor self-sufficiency programme misallocated resources
+  while AI data centre boom happened; India/Vietnam/US competition for chip…'
 ---
-
-# Tech & AI Digest — 2026-06-08
 
 ## TL;DR
 

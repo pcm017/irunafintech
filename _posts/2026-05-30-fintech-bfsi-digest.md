@@ -18,9 +18,10 @@ tags:
 - byjus
 - fpi-selling
 - retail-absorption
+excerpt: '**India consumption paradox:** Kotak MF "Great Consumption Shift" — premiumisation
+  booming (Apple, Blinkit) but EMI burden and F&O losses eroding household financial
+  health; rupee weakness could amplify imported inflation **SoFi…'
 ---
-
-# Fintech & BFSI Digest — 2026-05-30
 
 **Source:** fintech-bfsi-collect | **Date:** 2026-05-30 (covering May 29, 2026 emails)
 

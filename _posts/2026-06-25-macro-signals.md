@@ -26,8 +26,6 @@ tags:
 - kotak-inr
 ---
 
-# Source: Macro Signals Snapshot — 2026-06-25
-
 **TL;DR**
 - S&P partially recovered (-0.10% June 24) while Nasdaq fell -0.43%; DJI +0.35%; GIFT Nifty pre-open Jun 25 +0.19% — global markets digesting the AI spending skepticism selloff from June 23
 - Brent $76.47, WTI <$71 — US-Iran provisional ceasefire framework signed, Strait of Hormuz to reopen; talks postponed at Bürgenstock (June 19 logistics gap) sent Brent back to $80.57 briefly before settling $76-77

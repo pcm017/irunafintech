@@ -17,9 +17,10 @@ tags:
 - transcript
 - margin
 - anthropic
+excerpt: '**FY27 targets confirmed in Q&A**: EBIT 15%, ROCE 30% (hard targets, not
+  aspirational) **T&M vs. fixed-price margin gap**: ~8 percentage points — the commercial
+  model shift to tokens/fixed-price is the primary margin expansion engine'
 ---
-
-# Tech Mahindra Q4 FY26 Analyst Day — Q&A Transcript
 
 **Raw file:** *tml q4 fy 26 earnings transcript.pdf*
 

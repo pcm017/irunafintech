@@ -18,9 +18,10 @@ tags:
 - mastercard
 - west-asia-banks
 - dcb-bank
+excerpt: 'Rupee structural analysis (Fintech Inside #109): INR moved from 83/$ to
+  97/$ in 12 months (took 9 years to move from 64→83). Three structural forces + four
+  acute shocks identified. The rupee moved from most overvalued in years to genuinely…'
 ---
-
-# Fintech & BFSI Digest — 2026-06-02
 
 **Raw file:** [raw/newsletters/2026-06-02-fintech-bfsi-digest.md](../../raw/newsletters/2026-06-02-fintech-bfsi-digest.md)
 

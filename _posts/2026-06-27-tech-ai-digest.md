@@ -22,9 +22,11 @@ tags:
 - india-us-ai-access
 - kospi-semiconductor
 - india-seeks-us-assurance
+excerpt: '**GPT-5.6 (Sol/Terra/Luna) released but government-gated** — Trump admin
+  asked OpenAI to restrict rollout to "trusted partners," approving access "customer
+  by customer"; Sam Altman told staff; working with government on cybersecurity EO
+  +…'
 ---
-
-# Tech & AI Digest — 2026-06-27
 
 **Raw file:** [raw/newsletters/2026-06-27-tech-ai-digest.md](../../raw/newsletters/2026-06-27-tech-ai-digest.md)
 *Sources: The Rundown AI, TechCrunch, Bloomberg, CNBC, The Generalist, NVIDIA Newsroom, Tom's Hardware, CNBC/Digitimes, The Ken, ET Telecom*

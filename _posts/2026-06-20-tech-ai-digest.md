@@ -21,9 +21,10 @@ tags:
 - anthropic-washington
 - super-apps-ai-agents
 - india-it-bifurcation
+excerpt: '**DeepMind reframes AI safety:** Advanced AI agents should be treated as
+  "insider threats" within enterprise security architectures — a significant conceptual
+  shift from external audit to privilege-based security model. **OpenAI compute…'
 ---
-
-# Tech & AI Digest — 2026-06-20
 
 **Raw file:** *2026 06 20 tech ai digest*
 

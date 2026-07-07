@@ -14,9 +14,10 @@ tags:
 - q4fy26
 - gold-loan
 - asset-quality
+excerpt: 'Q4 FY26: AUM ₹60,348 crore (+69.4% YoY); PAT ₹255 crore (+69.6% QoQ); ROA
+  1.81% — strongest quarterly profitability since company pivot. NIM restored to 9.05%
+  (+43 bps QoQ) — management had guided 9%+ in 3–4 quarters; achieved in 3.'
 ---
-
-# Poonawalla Fincorp Q4 FY26 — Investor Presentation + Earnings Call
 
 **Investor presentation filed:** May 5, 2026 | **Earnings call:** May 5, 2026 | **Transcript filed:** May 11, 2026
 **Raw files:** `raw/results/f4d4a6c3-1a93-a5fc-ad75-eb146aace91c.pdf` (investor deck), `raw/results/25d52f57-4bde-41b2-9b2d-907e05c9548a.pdf` (transcript)

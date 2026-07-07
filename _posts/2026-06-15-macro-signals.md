@@ -27,8 +27,6 @@ tags:
 - vix-14
 ---
 
-# Macro Signals Snapshot — 2026-06-15
-
 **TL;DR**
 - Global risk-on broadened into Monday June 15: S&P 7,431.46 (+0.50%), KOSPI surged +4.63%, Nifty 23,622.90 (+1.99%), all extending the June 12 Iran draft-truce rally
 - Brent fell further to $87.30 (-3.40%), WTI $84.88 (-3.23%) — markets pricing imminent formal Iran deal closure; Citrini Research cites Brent longs at 4-month low

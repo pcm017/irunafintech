@@ -17,9 +17,10 @@ tags:
 - palantir
 - claude-fable
 - export-controls
+excerpt: '**Meta in talks with Samsung Foundry for a >10 trillion won (~$7.2Bn) custom
+  AI chip order** — seeking to diversify away from TSMC, whose lead times now exceed
+  a year amid aggressive 6-month chip iteration cycles. **TSMC 2026 capex guided…'
 ---
-
-# Tech & AI Digest — 2026-07-04
 
 ## TL;DR
 

@@ -21,9 +21,12 @@ tags:
 - fcnr-b
 - g7-france
 - eu-china
+excerpt: '**US-Iran draft truce deal** circulated June 12 → broadest global risk-on
+  rally since the conflict began: S&P +1.75%, Nasdaq +2.54%, Nifty +1.99%, Bank Nifty
+  +3.01%; Brent -4% to ~$89 **INR ~85.76** (week range 84.94–85.88 as of June 11)
+  —…'
 ---
 
-# Source: Macro Signals Snapshot — 2026-06-13
 _Data as of Friday June 12, 2026 close (Saturday collect)_
 _Raw file: *2026 06 13 macro signals*_
 

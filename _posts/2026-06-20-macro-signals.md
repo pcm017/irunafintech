@@ -19,9 +19,10 @@ tags:
 - inr-9435
 - cpi-may-393
 - cot-gold-173800
+excerpt: '**Post-deal market reset:** Sensex 76,802.90 (-0.78%) and Nifty ~24,042
+  (Gift Nifty pre-market) reflect India''s modest pullback on June 19 — the Iran deal
+  signing day — suggesting "buy the rumour, sell the news" dynamics in India equities…'
 ---
-
-# Macro Signals Snapshot — 2026-06-20
 
 > **Note:** June 20 is Saturday. All market data reflects Friday June 19, 2026 close — the first trading session after the US-Iran Peace Deal signing in Switzerland.
 

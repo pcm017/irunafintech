@@ -26,8 +26,6 @@ tags:
 - ftse-india-rejig
 ---
 
-# Source: Macro Signals Snapshot — 2026-06-24
-
 **TL;DR**
 - Global equities sold off sharply on June 23 (S&P -1.44%, Nasdaq -2.21%, Nikkei -3.55%) driven by AI spending skepticism and Iran 60-day oil license triggering a broad commodity selloff; India decoupled with Nifty +0.37%, Sensex +0.38%
 - WTI fell to $73.15 (-0.95%), Brent $77.20; Gold plunged to $4,123 (-1.89%), Silver -5.33% — US-Iran peace talks / Iran 60-day oil license = supply return trade accelerating

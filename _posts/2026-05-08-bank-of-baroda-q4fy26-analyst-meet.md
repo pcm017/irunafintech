@@ -11,9 +11,10 @@ tags:
 - results
 - lending-institution
 - psu-bank
+excerpt: Net profit Q4 ₹5,616 cr (+11.2% YoY) and FY26 ₹20,021 cr — both highest ever;
+  ROA >1% for 15 consecutive quarters; NIM improved sequentially to 2.89% (+10 bps
+  QoQ) Global business crossed ₹30 lakh cr milestone; advances grew 16.2% globally…
 ---
-
-# Bank of Baroda Q4FY26 Analyst Meet — May 8, 2026
 
 **Management:** Dr. Debadatta Chand (MD & CEO), Mr. I.V.L. Sridhar (CFO), EDs: Lalit Tyagi, Sanjay Mudaliar, Lal Singh, Beena Vaheed
 

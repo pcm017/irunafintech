@@ -20,8 +20,6 @@ tags:
 - salespeople
 ---
 
-# Tech & AI Digest — 2026-05-25
-
 **TL;DR**
 - OpenAI: **$2M per YC P26/S26 startup in API tokens** — aggressive ecosystem lock-in via YC investment (paid in credits, not cash)
 - OpenAI deliberately **avoided the telco-AI trap** — rejected deep distribution partnerships with Indian and global telcos; prefers direct consumer/enterprise relationships
