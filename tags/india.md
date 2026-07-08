@@ -6,6 +6,8 @@ permalink: /tags/india/
 
 ## Tag: india
 
+- 2026-07-08 — [Fintech & BFSI Digest — 2026-07-08]({{ '/2026/07/08/fintech-bfsi-digest/' | relative_url }})
+- 2026-07-08 — [Macro Signals Snapshot — 2026-07-08]({{ '/2026/07/08/macro-signals/' | relative_url }})
 - 2026-07-07 — [Fintech & BFSI Digest — 2026-07-07]({{ '/2026/07/07/fintech-bfsi-digest/' | relative_url }})
 - 2026-07-07 — [Macro Signals Snapshot — 2026-07-07]({{ '/2026/07/07/macro-signals/' | relative_url }})
 - 2026-07-05 — [Fintech & BFSI Digest — 2026-07-05]({{ '/2026/07/05/fintech-bfsi-digest/' | relative_url }})

@@ -6,6 +6,7 @@ permalink: /tags/india-semiconductor/
 
 ## Tag: india-semiconductor
 
+- 2026-07-08 — [Tech & AI Digest — 2026-07-08]({{ '/2026/07/08/tech-ai-digest/' | relative_url }})
 - 2026-07-07 — [Tech & AI Digest — 2026-07-07]({{ '/2026/07/07/tech-ai-digest/' | relative_url }})
 - 2026-07-05 — [Tech & AI Digest — 2026-07-05]({{ '/2026/07/05/tech-ai-digest/' | relative_url }})
 - 2026-07-04 — [Tech & AI Digest — 2026-07-04]({{ '/2026/07/04/tech-ai-digest/' | relative_url }})

@@ -12,7 +12,11 @@ permalink: /markets/global-markets/
 
 ## Current State
 
-*As of July 7, 2026 (latest: Jul 6 close)*
+*As of July 8, 2026 (latest: Jul 7 close, US)*
+
+**NEW (July 8 — Jul 7 close, US):** US equities reversed off Jul 6's record-setting session on a chip-stock selloff (Samsung earnings + DeepSeek-linked news): **S&P 500 7,503.85 (-0.45%), Nasdaq 25,818.69 (-1.16%, the steepest of the three), Dow 52,925.15 (-0.25%)** — pulling back from the Dow's first-ever close above 53,000. **Crude held near 5-month lows** (Brent $71.30-72.49, WTI $67.83-69.20). **FII flow detail sharpened**: H1 2026 equity -$29.28Bn net sold; June 2026 debt +$5.8Bn; Jul 7 cash segment FII net buyers ₹393.20 Cr — consistent with, not a change to, the RBI capital-inflow narrative. **India VIX stayed very low (11.64-11.76) but Nifty PCR readings conflicted (1.15 vs 0.91)** — flagged, unresolved. No independently-confirmed Jul 7 India equity close was available this cycle (Nifty/Sensex prints matched the already-logged Jul 6 values); Nifty/Sensex are carried forward at their last confirmed levels below. See *2026 07 08 macro signals*
+
+The Nasdaq-led pullback confirms the chip/AI-hardware-cost axis (Samsung earnings, DeepSeek-linked news) remains the most volatility-prone corner of the current risk-on regime, even as the broader Dow/S&P trend stays intact — a single-session pullback after a fresh all-time high rather than a trend change.
 
 **NEW (July 7 — Jul 6 close):** **Dow closed above 53,000 for the first time (53,055.91, +0.29%)**, a new closing record; S&P 500 7,537.43 (+0.72%), Nasdaq 26,121.16 (+1.12%) — broad-based gains on tech, financials, and industrials. **India extended a 4th straight up session**: Nifty 24,430.35 (+0.66%), Sensex 78,285.07 (+0.67%), Bank Nifty 58,291.50 (+0.61%) — banking, auto, realty, metal, and energy led; IT stayed weak and capped the upside. **Crude near lowest levels since late February** (Brent ~$69, WTI $67.83-69.20) on recovering Hormuz shipping flows plus an expected OPEC+ output hike — a supply-side, not demand-side, story. **Gold holding >$4,100/oz**, retaining most of last week's NFP-driven gains. **India G-Sec 10Y held at a 15-week low (6.71-6.72%)**; FPIs net-bought **₹324 Bn of Indian govt bonds since June** (tax relief, steadier rupee, possible Bloomberg Global Aggregate inclusion), compressing the India-US spread to ~+222bps even as US yields sit near 4.5%. **UPI June volume: 22.72 Bn txns (-2.1% MoM, +23% YoY)** — a rare monthly dip inside a still-strong annual trend. See *2026 07 07 macro signals*
 
@@ -120,20 +124,22 @@ Simultaneously, **Iran announced it ended military operations against Israel** �
 
 ## Key Metrics
 
-*Updated in place. Last: 2026-07-07 macro-signals snapshot (Jul 6 close)*
+*Updated in place. Last: 2026-07-08 macro-signals snapshot (Jul 7 US close)*
 
 ### Equities
 
 | Index | Level (Latest) | 1D % | As of |
 |-------|----------------|------|-------|
-| **DJI** | **53,055.91** | **▲0.29%** | **July 6, 2026 — new closing record, first close >53K** |
-| **S&P 500** | **7,537.43** | **▲0.72%** | **July 6, 2026** |
-| **Nasdaq** | **26,121.16** | **▲1.12%** | **July 6, 2026** |
-| **Nifty 50** | **24,430.35** | **▲0.66%** | **July 6, 2026 — 4th straight up session** |
-| **Sensex** | **78,285.07** | **▲0.67%** | **July 6, 2026** |
-| **Bank Nifty** | **58,291.50** | **▲0.61%** | **July 6, 2026** |
-| Nifty PCR | ~1.00–1.06 | — | July 6, 2026 — near-neutral to mildly bullish |
-| India VIX | 11.80 | ▼0.49 | July 6, 2026 — very low implied vol |
+| **S&P 500** | **7,503.85** | **▼0.45%** | **July 7, 2026 — chip-stock selloff pullback off Jul 6 highs** |
+| **Nasdaq** | **25,818.69** | **▼1.16%** | **July 7, 2026** |
+| **Dow** | **52,925.15** | **▼0.25%** | **July 7, 2026** |
+| Nifty 50 | 24,430.35 | +0.66% | July 6, 2026 close (carried forward — Jul 7 not independently confirmed) |
+| Sensex | 78,285.07 | +0.67% | July 6, 2026 close (carried forward) |
+| **Bank Nifty** | **58,487.50** | **▲0.34%** | **July 7, 2026 early trade** |
+| Nifty PCR | 1.15 (Jul 7) vs 0.91 (one Jul 8 source) | — | conflicting reads, unresolved |
+| India VIX | 11.64-11.76 | — | July 7-8, 2026 — historically low |
+
+*Prior (July 6): Dow 53,055.91 (▲0.29%, new closing record, first close >53K); S&P 500 7,537.43 (▲0.72%); Nasdaq 26,121.16 (▲1.12%).*
 
 *Prior (July 3): DJI 52,900.07 (▲1.14%, last print before Jul 3-4 market closure); Nifty 24,361.55* (mid-day); Nifty PCR 1.33 (put-heavy).*
 

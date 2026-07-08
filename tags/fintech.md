@@ -6,6 +6,7 @@ permalink: /tags/fintech/
 
 ## Tag: fintech
 
+- 2026-07-08 — [Fintech & BFSI Digest — 2026-07-08]({{ '/2026/07/08/fintech-bfsi-digest/' | relative_url }})
 - 2026-07-07 — [Fintech & BFSI Digest — 2026-07-07]({{ '/2026/07/07/fintech-bfsi-digest/' | relative_url }})
 - 2026-07-05 — [Fintech & BFSI Digest — 2026-07-05]({{ '/2026/07/05/fintech-bfsi-digest/' | relative_url }})
 - 2026-07-04 — [Fintech & BFSI Digest — 2026-07-04]({{ '/2026/07/04/fintech-bfsi-digest/' | relative_url }})

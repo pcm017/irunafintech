@@ -12,7 +12,11 @@ _This page is the single synthesis of everything in the wiki. Updated after ever
 
 ## The Macro Regime
 
-*Last updated: 2026-07-07 | Sources: macro-signals-collect (May 14–Jul 7), fintech-bfsi-digest (May 14–Jul 7), tech-ai-digest (May 14–Jul 7)*
+*Last updated: 2026-07-08 | Sources: macro-signals-collect (May 14–Jul 8), fintech-bfsi-digest (May 14–Jul 8), tech-ai-digest (May 14–Jul 8)*
+
+**NEW (July 8 — Jul 7 US close):** US equities pulled back from Jul 6's record close on a **chip-stock selloff** (Samsung earnings + DeepSeek-linked news): **S&P 500 -0.45%, Nasdaq -1.16% (steepest), Dow -0.25%**. Crude held near 5-month lows (Brent $71-72, WTI $68-69). **FII flow detail sharpened**: June debt inflow +$5.8Bn, Jul 7 cash-segment FII net buyers ₹393.20 Cr — reinforcing rather than changing the RBI capital-inflow story, even as H1 2026 equity outflows (-$29.28Bn) remain a large offset. India VIX stayed very low but Nifty PCR readings conflicted across sources (1.15 vs 0.91) — flagged, unresolved; no independently-confirmed Jul 7 India equity close was available this cycle. Data-quality note: heavier-than-usual reliance on snippet-only extraction meant COT, the full India G-Sec curve, and several India macro series (WPI, unemployment, UPI, startup funding) were not refreshed today. See *2026 07 08 macro signals*
+
+The chip-stock-led Nasdaq pullback is a single-session correction within an otherwise intact US risk-on regime, not a reversal — it sits on the same memory/AI-hardware-cost axis as Samsung's projected profit jump and SemiAnalysis's new >$7 trillion cumulative AI-infrastructure-debt-by-2029 projection (see AI & Tech below), which is the more structurally significant new data point of the day.
 
 **NEW (July 7 — Jul 6 close):** US risk-on momentum extended decisively: **Dow closed above 53,000 for the first time (53,055.91, +0.29%)**, a new closing record, with S&P 500 (+0.72%) and Nasdaq (+1.12%) also gaining. **India extended a 4th straight up session** (Nifty +0.66%, Sensex +0.67%, Bank Nifty +0.61%) with broad sector participation ex-IT. **Crude held near 5-month lows** (Brent ~$69, WTI ~$68) on Hormuz shipping recovery plus an expected OPEC+ output hike — an explicitly supply-side story, distinct from a demand slowdown. **India G-Sec 10Y held at its 15-week low**; FPIs have net-bought **₹324 Bn of Indian govt bonds since June**, compressing the India-US spread to ~+222bps even as US yields sit near 4.5%. See *2026 07 07 macro signals*
 
@@ -178,7 +182,11 @@ S&P 500 hit fresh ATH **7,599.96** on June 1 (Nvidia +6%, AI stocks leading). Bu
 
 ## Markets
 
-*Last updated: 2026-07-07 | Sources: macro-signals-collect (May 20–Jul 7)*
+*Last updated: 2026-07-08 | Sources: macro-signals-collect (May 20–Jul 8)*
+
+**NEW (July 8 — Jul 7 US close): S&P 500 7,503.85 (-0.45%), Nasdaq 25,818.69 (-1.16%), Dow 52,925.15 (-0.25%) — chip-stock selloff (Samsung earnings, DeepSeek-linked news) pulling back off Jul 6's record close. Brent $71.30-72.49, WTI $67.83-69.20 — near 5-month lows. Bank Nifty 58,487.50 (+0.34%, Jul 7 early trade); Nifty/Sensex carried forward at Jul 6 levels (24,430.35 / 78,285.07) — no independently-confirmed Jul 7 India close this cycle. India VIX 11.64-11.76 (very low); Nifty PCR conflicting (1.15 vs 0.91) — flagged. FII: June debt +$5.8Bn, Jul 7 cash segment net buyers ₹393.20 Cr; H1 2026 equity -$29.28Bn net sold.**
+
+**Equities (July 8 — latest).** The Nasdaq-led pullback (-1.16%, steepest of the three indices) is a single-session correction after a fresh all-time high, not a trend change — the chip/AI-hardware-cost axis remains the most volatility-prone part of the current risk-on regime. See *2026 07 08 macro signals*
 
 **NEW (July 7 — Jul 6 close): Dow 53,055.91 (+0.29%, new closing record, first close >53K); S&P 500 7,537.43 (+0.72%); Nasdaq 26,121.16 (+1.12%). Nifty 24,430.35 (+0.66%, 4th straight up session); Sensex 78,285.07 (+0.67%); Bank Nifty 58,291.50 (+0.61%) — banking/auto/realty/metal/energy led, IT weak. Brent ~$69, WTI $67.83-69.20 — near lowest since late Feb on Hormuz recovery + expected OPEC+ output hike. Gold >$4,100/oz holding gains. India G-Sec 10Y 6.71-6.72% (15-week low); India-US spread ~+222bps; FII net debt buying ₹324 Bn since June. India VIX 11.80 (very low); Nifty PCR ~1.00-1.06 (near-neutral). UPI June: 22.72Bn txns (-2.1% MoM, +23% YoY).**
 
@@ -340,7 +348,9 @@ Equities are broadly sideways to moderately weak with notable regional dispersio
 
 ## India Lens
 
-*Last updated: 2026-07-07 | Sources: macro-signals-collect (May 19–Jul 7), fintech-bfsi-digest (May 19–Jul 7)*
+*Last updated: 2026-07-08 | Sources: macro-signals-collect (May 19–Jul 8), fintech-bfsi-digest (May 19–Jul 8)*
+
+**NEW (July 8):** India's own settings were largely a data lag today — no independently-confirmed Jul 7 equity close, and forex reserves still reading the same $666.93Bn (week ending Jun 26) as Jul 5. The more useful new detail is on FII flows: **June 2026 debt inflow of +$5.8Bn and a positive Jul 7 cash-segment FII print (₹393.20 Cr net buying)** sharpen, rather than change, the RBI capital-inflow-playbook story — the H1 2026 equity outflow (-$29.28Bn) remains the larger offsetting figure. A **consumer-loans-on-electronics-inflation** thread (ETRetail) is a new India credit-demand signal worth watching, though no hard figures accompanied it. India-UK FTA (CETA) is reported taking effect **July 15, 2026** — added to *modi* as a new Economic action, extending India's FTA pipeline into a major developed-economy market. See *2026 07 08 macro signals*, *2026 07 08 fintech bfsi digest*
 
 **NEW (July 7 — new entity):** **Trent Limited** (Tata Group's Westside/Zudio/Star retail arm) was added to the wiki via its backfilled Q4FY26 investor presentation (filed 22 April 2026): standalone PAT +30% YoY on revenue +20% — profit growing faster than revenue signals real operating leverage from its rapid store rollout (1,286 stores, +109 Zudio openings in Q4 alone). Management flagged consumer caution and moderating discretionary spending tied to "the unfolding geopolitical situation" — a rare direct consumption-sentiment data point from India's fashion retail sector, worth checking against CPI/consumption trends. See *trent*
 
@@ -653,7 +663,9 @@ See *2026 06 22 macro signals*, *2026 06 22 fintech bfsi digest*
 
 ## Fintech / BFSI
 
-*Last updated: 2026-07-07 | Sources: company Q4 FY26 results (ICICI Bank, Kotak Mahindra Bank, Bank of Baroda, Yes Bank, SBI, Trent, AU Small Finance Bank — ingested through Jul 7), fintech-bfsi-digest (May 11–Jul 7)*
+*Last updated: 2026-07-08 | Sources: company Q4 FY26 results (ICICI Bank, Kotak Mahindra Bank, Bank of Baroda, Yes Bank, SBI, Trent, AU Small Finance Bank — ingested through Jul 7), fintech-bfsi-digest (May 11–Jul 8)*
+
+**NEW (July 8):** **Reliance Industries received a SEBI administrative warning over insider trading** (employees allegedly traded on unpublished price-sensitive information) — a new regulatory data point, though Reliance doesn't yet have a dedicated entity page in this wiki. **Consumer loans are reportedly surging as electronics prices rise** (ETRetail) — more purchases shifting onto EMI/consumer credit, a new India credit-demand thread worth tracking alongside existing bank-credit-growth data. **Klarna's US bank-charter application is framed as a funding-cost play, not a trust play** — a useful global comparator for AU Small Finance Bank's own universal-banking application (see *au small finance bank*), reinforcing that cost-of-funds compression, not brand equity, is the economic driver behind NBFC/fintech-to-bank-charter moves. Gold-loan-firm slowdown and Bank of Baroda's Abu Dhabi exposure story continue circulating without new figures beyond Jul 7's coverage. See *2026 07 08 fintech bfsi digest*
 
 **NEW (July 7 — AU Small Finance Bank Q4FY26 backfilled from `raw/results/`):** A second batch of unprocessed results PDFs was found sitting in `raw/results/` — AU Small Finance Bank's Q4FY26 earnings presentation and call transcript (April 27, 2026), never previously ingested. AU SFB posted its best-ever quarter: **PAT ₹832 cr (+65% YoY), RoA 1.8%** — hitting the RoA level management had guided for FY27 a full year early. NIM inflected upward (+16 bps QoQ to 5.96%) after a FY26 compression to 5.65%, and credit cost normalised to 0.96% of average assets (FY26) from 1.30% (FY25), mirroring the same repo-cut NIM cycle and MFI-stress-unwind pattern already tracked at *kotak mahindra bank*. The structurally significant development: **RBI waived the NOFHC holding-company requirement and AU filed its final universal banking license application in March 2026** — the first SFB-to-universal-bank transition application in the system, with a ~150 bps cost-of-funds compression opportunity (AU's 6.75% vs the 5.25% repo rate) as the eventual prize if granted. Management proactively guided FY27 credit cost to ~90 bps rather than letting the Street extrapolate Q4's stronger print — a credibility signal worth tracking. New entity page created: *au small finance bank*. See *2026 04 27 au small finance bank q4fy26 presentation*, *2026 04 27 au small finance bank q4fy26 transcript*
 
@@ -1077,7 +1089,9 @@ See *2026 06 26 fintech bfsi digest*, *2026 06 26 macro signals*
 
 ## AI & Tech
 
-*Last updated: 2026-07-07 | Sources: tech-ai-digest (May 14–Jul 7), fintech-bfsi-digest (May 14–Jul 7), company Q4 FY26 results*
+*Last updated: 2026-07-08 | Sources: tech-ai-digest (May 14–Jul 8), fintech-bfsi-digest (May 14–Jul 8), company Q4 FY26 results*
+
+**NEW (July 8):** **SemiAnalysis projects cumulative AI-infrastructure debt financing could exceed $7 trillion by 2029**, with NVIDIA positioned as an implicit backstop across capital, GPU-offtake agreements, and datacenter financing simultaneously — the most significant new data point today, reframing individual debt deals already tracked (Apollo's $35B Anthropic compute financing, Meta-Samsung's ~$7.2Bn chip order) into a systemic-risk thesis rather than isolated financing events. **Microsoft is cutting ~5,000 jobs.** Qualcomm reaffirmed its $22B non-handset FY29 target and said custom-ASIC shipments for hyperscale customers have been pulled forward into calendar 2026, even as NVIDIA's Computex PC-chip entry pressures its stock. India-UK FTA (CETA) is reported taking effect July 15, 2026 — logged as a new Modi economic action. A minor data conflict: this cycle's raw data describes the CG Power Sanand OSAT inauguration as occurring July 4, which conflicts with the July 6 date already logged on *modi* — flagged, not resolved (the existing Jul 6 entry is left as-is pending a higher-confidence source). See *2026 07 08 tech ai digest*
 
 **NEW (July 7):** **PM Modi inaugurated India's third chip-packaging facility at Sanand** under the India Semiconductor Mission — zero to three operational plants in six months; Vaishnaw projects five plants live by end-2026 (3 of 12 approved ISM projects now commissioning). **Samsung Electronics is projected to post an 18-fold YoY profit jump** on surging AI-memory demand — a third consecutive record-profit quarter, reinforcing the memory-shortage thesis tracked via AMD/Qualcomm's packaging pivot (below). India's IT sector explicitly frames this as a "hardware super-cycle" likely to persist through 2027. Meta's $14Bn smart-glasses bet and internal GPT-5.5 benchmarking ("Watermelon") continue big-tech's consumer-AI-hardware and model-race capital intensity. See *2026 07 07 tech ai digest*, *modi*
 
@@ -1573,7 +1587,13 @@ See *2026 06 26 tech ai digest*, *2026 06 26 macro signals*
 
 ## Geopolitics
 
-*Last updated: 2026-07-07 | Sources: macro-signals-collect (Jun 12–Jul 7), fintech-bfsi-digest (Jun 16–Jul 7), tech-ai-digest (Jun 16–Jul 7)*
+*Last updated: 2026-07-08 | Sources: macro-signals-collect (Jun 12–Jul 8), fintech-bfsi-digest (Jun 16–Jul 8), tech-ai-digest (Jun 16–Jul 8)*
+
+**NEW (July 8):**
+
+**Modi — India-UK FTA (CETA) takes effect July 15, 2026.** Reported by two independent sources (ETGovernment on the effective date, ETCFO on the export-opportunity framing). Extends India's 2026 FTA pipeline (India-Oman CEPA, India-UAE CEPA) into a major developed-economy market — a concrete, dated economic action logged to *modi*. See *2026 07 08 tech ai digest*
+
+**No new direct actions by Trump, Xi Jinping, or Putin captured in the July 8 batch.** The day's other stories (US chip-stock selloff, SemiAnalysis AI-debt projection, Microsoft layoffs, Reliance SEBI warning) are market/corporate/regulatory events, not executive actions by a tracked leader.
 
 **NEW (July 6-7):**
 
@@ -1646,6 +1666,16 @@ See *2026 06 26 tech ai digest*, *2026 06 26 macro signals*
 **Xi Jinping — EU-China trade confrontation escalating.** EU Brussels summit dedicated to countering China practices. EU tariffs on Chinese EVs (25%), steel, and semiconductors are building. China's strategic response: DeepSeek $7.4B state-backed raise, domestic semiconductor supply chain build. India opportunity: EU trade diversion from China favours India in textiles, electronics components, and IT services.
 
 **Putin — no material new escalation this cycle.** Russia-Ukraine war continues. Russian oil discounts to India remain intact — relevant context for India's energy import diversification and non-alignment posture.
+
+---
+
+## Open Questions (new — July 8)
+
+144a. **Which Nifty PCR reading is correct — 1.15 (Jul 7) or 0.91 (one Jul 8 source)?** Conflicting options-positioning data; unresolved this cycle, worth a clean re-check before treating either as authoritative.
+
+144b. **Does the SemiAnalysis >$7T-by-2029 AI-debt projection change the read on AI-capex-ROI-scrutiny risk?** Worth tracking against the existing Jun 23 "AI wake-up call" Nasdaq-selloff thread as a potential recurring macro tail-risk theme.
+
+144c. **CG Power Sanand OSAT inauguration — July 4 or July 6?** Today's raw tech-ai data says Jul 4; the existing modi.md action log entry says Jul 6. Needs a higher-confidence source to resolve.
 
 ---
 
@@ -1898,6 +1928,8 @@ See *2026 06 26 tech ai digest*, *2026 06 26 macro signals*
 
 | Date | Event | Why it matters |
 |------|-------|----------------|
+| **July 15, 2026** | **India-UK FTA (CETA) takes effect** | Watch for the first wave of export-order/CFO commentary confirming the anticipated export boost |
+| **Ongoing** | **SemiAnalysis >$7T AI-infrastructure-debt-by-2029 thesis** | New systemic-risk framing for the AI buildout (NVIDIA as implicit backstop); watch for corroborating or countering analysis from other desks |
 | **End-2026** | **India Semiconductor Mission — 2 more plants to commissioning** | Sanand (3rd plant) inaugurated Jul 6; Vaishnaw targets 5 plants operational by end-2026 — watch for the next facility announcement |
 | **Ongoing** | **Kotak-Deutsche Bank India acquisition — deal terms** | ETBFSI (Jul 5) headline-only; watch for confirmed deal size/structure and integration into Kotak's affluent/wealth-management franchise |
 | **Ongoing** | **RBI penalty follow-through — Bank of Baroda / GIC Housing Finance** | ₹66.7 lakh penalty (Jul 7); specific violation undisclosed — watch for RBI order detail |

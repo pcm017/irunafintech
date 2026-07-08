@@ -6,6 +6,7 @@ permalink: /tags/commodities/
 
 ## Tag: commodities
 
+- 2026-07-08 — [Macro Signals Snapshot — 2026-07-08]({{ '/2026/07/08/macro-signals/' | relative_url }})
 - 2026-07-07 — [Macro Signals Snapshot — 2026-07-07]({{ '/2026/07/07/macro-signals/' | relative_url }})
 - 2026-07-05 — [Macro Signals Snapshot — 2026-07-05]({{ '/2026/07/05/macro-signals/' | relative_url }})
 - 2026-07-04 — [Macro Signals Snapshot — 2026-07-04]({{ '/2026/07/04/macro-signals/' | relative_url }})
