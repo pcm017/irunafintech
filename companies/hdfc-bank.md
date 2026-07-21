@@ -24,9 +24,13 @@ The HDFC merger synergy picture is tangible: liability cross-sell penetration in
 
 Governance overhang: Two "unprecedented events" during FY26 — chairman resignation (Keki Mistry serving as Interim Chairman) and a Dubai branch regulatory matter (legal review ongoing, no material financial impact expected). Neither is quantified.
 
+**NEW (July 13, 2026 — workforce + governance closure):** ETBFSI reports HDFC Bank **cut its non-supervisory workforce by 8,000+ in FY26** (net headcount -3,343) even as it expanded managerial roles — a concrete workforce-restructuring figure that runs alongside the bank's AI platform build-out (Agentic Mesh/Studio/MCP). Separately, **the bank's FY2026-27 annual report directly addressed former chairman Atanu Chakraborty's exit**: CEO Sashidhar Jagdishan stated an independent review found no evidence to substantiate the governance concerns raised at the time — closing, at least from management's side, the governance-overhang thread tracked since the Q4 FY26 disclosure and the >5% share-price reaction reported Jul 4. See *2026 07 13 fintech bfsi digest*
+
 **NEW (July 4, 2026 — leadership, expanded scope):** A third independent source (ETBFSI) confirms the Puneet Sharma CFO hire and adds material new detail: **CEO Shashidhar Jagdishan's third-term reappointment has been cleared** for board presentation, and the bank has also appointed **Rajiv Kumar, replacing Atanu Chakraborty** — whose exit "became one of the most controversial and widely debated developments" in Indian banking this cycle, with the **share price falling more than 5%** on that news (a materially larger single-day reaction than any figure previously captured in this wiki for the Chakraborty departure). HDFC Bank is thus running three leadership threads simultaneously: CEO continuity (Jagdishan 3rd term), a chairman-adjacent replacement (Rajiv Kumar for Chakraborty), and a new CFO (Puneet Sharma, ex-Axis Bank) — a mix of stability and turnover that the market appears to be pricing as net-negative in the near term (the >5% Chakraborty-exit reaction), even though CEO continuity is arguably the more consequential signal for strategic execution of the AI platform and optimisation-phase roadmap. ETBFSI draws the historical parallel to Aditya Puri's HDFC Bank exit, which also triggered a negative stock reaction — reinforcing that Indian bank leadership transitions carry quantifiable capital-raising/investor-trust costs. See *2026 07 04 fintech bfsi digest*
 
 **NEW (June 30, 2026 — leadership):** HDFC Bank is in the process of appointing Puneet Sharma, currently CFO at Axis Bank, as its new CFO. The hire continues the bank's post-merger "optimisation phase" bench-strengthening, coming while the chairman search remains open following Atanu Chakraborty's FY26 resignation. ETCFO's July 1 coverage describes Sharma explicitly as Axis Bank's "outgoing" CFO, confirming the move is finalised rather than in-negotiation. See *2026 06 30 fintech bfsi digest*, *2026 07 01 fintech bfsi digest*
+
+**NEW (July 17, 2026 — regulatory close-out on chairman succession):** HDFC Bank received **RBI approval to appoint Rajiv Kumar as part-time chairman**, per ETBFSI/ETCFO — formal regulatory sign-off on the Rajiv Kumar appointment (replacing Atanu Chakraborty) first reported Jul 4. This closes the regulatory-approval leg of the leadership-succession thread; the governance-review leg (no evidence found to substantiate the concerns raised around Chakraborty's exit) was already closed Jul 13. See *2026 07 17 fintech bfsi digest*
 
 ## Key metrics
 
@@ -111,6 +115,8 @@ Governance overhang: Two "unprecedented events" during FY26 — chairman resigna
 
 ## Timeline
 
+- **Jul 17, 2026**: RBI approved the appointment of Rajiv Kumar as part-time chairman — regulatory sign-off closing the Chakraborty-succession leadership thread
+- **Jul 13, 2026**: Non-supervisory workforce cut 8,000+ in FY26 (net -3,343); annual report closes the Chakraborty-exit governance question — independent review found no substantiating evidence
 - **Jul 4, 2026**: 3rd source (ETBFSI) confirms CEO Jagdishan's 3rd-term reappointment cleared for board; Rajiv Kumar appointed replacing Atanu Chakraborty (share price fell >5% on Chakraborty's exit); Puneet Sharma CFO hire reconfirmed
 - **Jun 30, 2026**: In process of appointing Puneet Sharma (currently Axis Bank CFO) as new CFO
 - **Jul 2023**: HDFC Ltd merged with HDFC Bank — India's largest corporate merger; brought in home loan book, high-cost borrowings, and ~36M home loan customers
@@ -141,6 +147,7 @@ The three medium-term value drivers are:
 
 - *2026 04 18 hdfc bank q4fy26 presentation*
 - *2026 04 18 hdfc bank q4fy26 transcript*
+- *2026 07 13 fintech bfsi digest*
 - *axis bank*
 - *bajaj finance*
 - *pb fintech*

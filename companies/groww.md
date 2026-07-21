@@ -27,6 +27,8 @@ Groww has begun deploying PAT and fundraise proceeds into on-balance-sheet lendi
 
 India equity market penetration remains in single digits — management estimates 3-4x expansion potential over the next decade. West Asia/Hormuz geopolitical volatility creates short-term derivatives tailwinds but medium-term risk of FII selling dampening sentiment.
 
+**NEW (July 17, 2026 — Q1 FY27 headline figures, newsletter-sourced, preliminary):** Groww reported Q1 FY27 **net profit up 94% YoY to ₹735 Cr** (vs. ₹378 Cr Q1 FY26) on **revenue up 66% YoY to ₹1,501 Cr** (vs. ₹904 Cr) — continuing the PAT-margin-expansion trend seen through FY26. Total customer assets reached **₹3.6 lakh crore (+38% YoY)**. Growth was more muted on the user-acquisition side: Groww added 1,15,000 net active clients on the NSE even as the overall industry saw a **net decline of ~2,57,000 active clients** — management attributed this to lower capital-markets activity (fewer IPOs/ETFs). Equity derivatives remain ~half of revenue but a shrinking share, with MTF, commodity trading, LAS, and asset management scaling faster. *Figures are from a newsletter digest (YourStory/Filter Coffee), not yet a primary results deck/transcript ingest — treat as preliminary pending the formal Q1 FY27 filing.* See *2026 07 17 fintech bfsi digest*
+
 ## Key metrics
 
 *As of Q4 FY26 (Mar 31, 2026) — updated in place*
@@ -103,6 +105,7 @@ India equity market penetration remains in single digits — management estimate
 - **Q1-Q4 FY26**: Consistent PAT growth every quarter (₹3,784 Mn → ₹4,713 Mn → ₹5,469 Mn → ₹6,864 Mn)
 - **Q4 FY26 (Apr 2026)**: Letter published; MF SIP share hits 15.7%, Derivatives share 10.6%; PAT margin 44.7%
 - **2026-05-16**: Block deal — Peak XV Partners, Ribbit Capital, and Y Combinator collectively sold a 4.7% stake for ₹5,352 Cr. Implied valuation: ~₹1.14 lakh crore (~$13.3B). This is the first major post-IPO institutional secondary exit at scale.
+- **2026-07-17 (Q1 FY27, newsletter-sourced, preliminary)**: Net profit +94% YoY to ₹735 Cr; revenue +66% YoY to ₹1,501 Cr; customer assets ₹3.6 lakh crore (+38% YoY); net NSE active client adds slowed to 1,15,000 amid an industry-wide active-client decline
 
 ## Thesis / view
 
@@ -124,6 +127,7 @@ The strategic move into on-balance-sheet lending (MTF, LAS, PL) is the right nex
 
 - *2026 04 20 groww q4fy26 shareholders letter*
 - *2026 05 16 fintech bfsi digest* — block deal entry
+- *2026 07 17 fintech bfsi digest* — Q1 FY27 preliminary results
 - **
 - *paytm* — competitor in consumer financial services
 - *bajaj finance* — competitor in consumer credit

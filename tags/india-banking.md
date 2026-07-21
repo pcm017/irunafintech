@@ -6,6 +6,7 @@ permalink: /tags/india-banking/
 
 ## Tag: india-banking
 
+- 2026-07-18 — [Fintech & BFSI Digest — 2026-07-18]({{ '/2026/07/18/fintech-bfsi-digest/' | relative_url }})
 - 2026-06-25 — [Source: Fintech & BFSI Digest — 2026-06-25]({{ '/2026/06/25/fintech-bfsi-digest/' | relative_url }})
 - 2026-05-31 — [Fintech & BFSI Digest — 2026-05-31]({{ '/2026/05/31/fintech-bfsi-digest/' | relative_url }})
 - 2026-05-25 — [Fintech & BFSI Digest — 2026-05-25]({{ '/2026/05/25/fintech-bfsi-digest/' | relative_url }})

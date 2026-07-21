@@ -6,6 +6,18 @@ permalink: /tags/bfsi/
 
 ## Tag: bfsi
 
+- 2026-07-20 — [Fintech & BFSI Digest — 2026-07-20]({{ '/2026/07/20/fintech-bfsi-digest/' | relative_url }})
+- 2026-07-19 — [Fintech & BFSI Digest — 2026-07-19]({{ '/2026/07/19/fintech-bfsi-digest/' | relative_url }})
+- 2026-07-18 — [Fintech & BFSI Digest — 2026-07-18]({{ '/2026/07/18/fintech-bfsi-digest/' | relative_url }})
+- 2026-07-17 — [Fintech & BFSI Digest — 2026-07-17]({{ '/2026/07/17/fintech-bfsi-digest/' | relative_url }})
+- 2026-07-16 — [Fintech & BFSI Digest — 2026-07-16]({{ '/2026/07/16/fintech-bfsi-digest/' | relative_url }})
+- 2026-07-14 — [Fintech & BFSI Digest — 2026-07-14]({{ '/2026/07/14/fintech-bfsi-digest/' | relative_url }})
+- 2026-07-13 — [Fintech & BFSI Digest — 2026-07-13]({{ '/2026/07/13/fintech-bfsi-digest/' | relative_url }})
+- 2026-07-11 — [Fintech & BFSI Digest — 2026-07-11]({{ '/2026/07/11/fintech-bfsi-digest/' | relative_url }})
+- 2026-07-10 — [Bank of Maharashtra Q1 FY27 Investor Presentation]({{ '/2026/07/10/bank-of-maharashtra-q1fy27-presentation/' | relative_url }})
+- 2026-07-10 — [Fintech & BFSI Digest — 2026-07-10]({{ '/2026/07/10/fintech-bfsi-digest/' | relative_url }})
+- 2026-07-10 — [Indian Bank Q1 FY27 Investor Presentation]({{ '/2026/07/10/indian-bank-q1fy27-presentation/' | relative_url }})
+- 2026-07-09 — [Fintech & BFSI Digest — 2026-07-09]({{ '/2026/07/09/fintech-bfsi-digest/' | relative_url }})
 - 2026-07-08 — [Fintech & BFSI Digest — 2026-07-08]({{ '/2026/07/08/fintech-bfsi-digest/' | relative_url }})
 - 2026-07-07 — [Fintech & BFSI Digest — 2026-07-07]({{ '/2026/07/07/fintech-bfsi-digest/' | relative_url }})
 - 2026-07-05 — [Fintech & BFSI Digest — 2026-07-05]({{ '/2026/07/05/fintech-bfsi-digest/' | relative_url }})

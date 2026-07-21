@@ -6,6 +6,12 @@ permalink: /tags/banking/
 
 ## Tag: banking
 
+- 2026-07-19 — [Fintech & BFSI Digest — 2026-07-19]({{ '/2026/07/19/fintech-bfsi-digest/' | relative_url }})
+- 2026-07-17 — [Fintech & BFSI Digest — 2026-07-17]({{ '/2026/07/17/fintech-bfsi-digest/' | relative_url }})
+- 2026-07-16 — [Fintech & BFSI Digest — 2026-07-16]({{ '/2026/07/16/fintech-bfsi-digest/' | relative_url }})
+- 2026-07-14 — [Fintech & BFSI Digest — 2026-07-14]({{ '/2026/07/14/fintech-bfsi-digest/' | relative_url }})
+- 2026-07-13 — [Fintech & BFSI Digest — 2026-07-13]({{ '/2026/07/13/fintech-bfsi-digest/' | relative_url }})
+- 2026-07-11 — [Fintech & BFSI Digest — 2026-07-11]({{ '/2026/07/11/fintech-bfsi-digest/' | relative_url }})
 - 2026-07-04 — [Fintech & BFSI Digest — 2026-07-04]({{ '/2026/07/04/fintech-bfsi-digest/' | relative_url }})
 - 2026-06-22 — [Bank of Baroda Investor Presentation — June 2026 (Q4FY26 Results Data)]({{ '/2026/06/22/bank-of-baroda-investor-presentation/' | relative_url }})
 - 2026-06-22 — [Source: Fintech & BFSI Digest — 2026-06-22]({{ '/2026/06/22/fintech-bfsi-digest/' | relative_url }})

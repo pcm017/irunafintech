@@ -6,6 +6,7 @@ permalink: /tags/nbfc/
 
 ## Tag: nbfc
 
+- 2026-07-10 — [L&T Finance Q1 FY27 Investor Presentation]({{ '/2026/07/10/lt-finance-q1fy27-presentation/' | relative_url }})
 - 2026-06-28 — [Fintech & BFSI Digest — 2026-06-28]({{ '/2026/06/28/fintech-bfsi-digest/' | relative_url }})
 - 2026-06-22 — [Source: Fintech & BFSI Digest — 2026-06-22]({{ '/2026/06/22/fintech-bfsi-digest/' | relative_url }})
 - 2026-06-15 — [Fintech & BFSI Digest — 2026-06-15]({{ '/2026/06/15/fintech-bfsi-digest/' | relative_url }})

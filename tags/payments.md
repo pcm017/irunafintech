@@ -6,6 +6,11 @@ permalink: /tags/payments/
 
 ## Tag: payments
 
+- 2026-07-19 — [Fintech & BFSI Digest — 2026-07-19]({{ '/2026/07/19/fintech-bfsi-digest/' | relative_url }})
+- 2026-07-17 — [Fintech & BFSI Digest — 2026-07-17]({{ '/2026/07/17/fintech-bfsi-digest/' | relative_url }})
+- 2026-07-16 — [Fintech & BFSI Digest — 2026-07-16]({{ '/2026/07/16/fintech-bfsi-digest/' | relative_url }})
+- 2026-07-13 — [Fintech & BFSI Digest — 2026-07-13]({{ '/2026/07/13/fintech-bfsi-digest/' | relative_url }})
+- 2026-07-11 — [Fintech & BFSI Digest — 2026-07-11]({{ '/2026/07/11/fintech-bfsi-digest/' | relative_url }})
 - 2026-06-22 — [Source: Fintech & BFSI Digest — 2026-06-22]({{ '/2026/06/22/fintech-bfsi-digest/' | relative_url }})
 - 2026-06-15 — [Fintech & BFSI Digest — 2026-06-15]({{ '/2026/06/15/fintech-bfsi-digest/' | relative_url }})
 - 2026-06-13 — [Source: Fintech & BFSI Digest — 2026-06-13]({{ '/2026/06/13/fintech-bfsi-digest/' | relative_url }})

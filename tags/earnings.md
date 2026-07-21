@@ -6,6 +6,9 @@ permalink: /tags/earnings/
 
 ## Tag: earnings
 
+- 2026-07-10 — [Bank of Maharashtra Q1 FY27 Investor Presentation]({{ '/2026/07/10/bank-of-maharashtra-q1fy27-presentation/' | relative_url }})
+- 2026-07-10 — [Indian Bank Q1 FY27 Investor Presentation]({{ '/2026/07/10/indian-bank-q1fy27-presentation/' | relative_url }})
+- 2026-07-09 — [TCS Q1 FY27 Fact Sheet]({{ '/2026/07/09/tcs-q1fy27-fact-sheet/' | relative_url }})
 - 2026-05-08 — [SBI FY26 / Q4FY26 Analyst Presentation — May 8, 2026]({{ '/2026/05/08/sbi-q4fy26-investor-presentation/' | relative_url }})
 - 2026-05-07 — [Paytm Q4 FY26 Earnings Call Transcript]({{ '/2026/05/07/paytm-q4fy26-transcript/' | relative_url }})
 - 2026-05-06 — [Paytm Q4 FY26 Earnings Release]({{ '/2026/05/06/paytm-q4fy26-earnings-release/' | relative_url }})

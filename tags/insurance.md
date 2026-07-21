@@ -6,6 +6,8 @@ permalink: /tags/insurance/
 
 ## Tag: insurance
 
+- 2026-07-20 — [Fintech & BFSI Digest — 2026-07-20]({{ '/2026/07/20/fintech-bfsi-digest/' | relative_url }})
+- 2026-07-18 — [Fintech & BFSI Digest — 2026-07-18]({{ '/2026/07/18/fintech-bfsi-digest/' | relative_url }})
 - 2026-06-23 — [Fintech & BFSI Digest — 2026-06-23]({{ '/2026/06/23/fintech-bfsi-digest/' | relative_url }})
 - 2026-06-22 — [Source: Fintech & BFSI Digest — 2026-06-22]({{ '/2026/06/22/fintech-bfsi-digest/' | relative_url }})
 - 2026-06-15 — [Fintech & BFSI Digest — 2026-06-15]({{ '/2026/06/15/fintech-bfsi-digest/' | relative_url }})

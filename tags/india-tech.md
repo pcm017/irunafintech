@@ -6,6 +6,8 @@ permalink: /tags/india-tech/
 
 ## Tag: india-tech
 
+- 2026-07-17 — [Tech & AI Digest — 2026-07-17]({{ '/2026/07/17/tech-ai-digest/' | relative_url }})
+- 2026-07-09 — [TCS Q1 FY27 Fact Sheet]({{ '/2026/07/09/tcs-q1fy27-fact-sheet/' | relative_url }})
 - 2026-07-05 — [Tech & AI Digest — 2026-07-05]({{ '/2026/07/05/tech-ai-digest/' | relative_url }})
 - 2026-06-22 — [Source: Tech & AI Digest — 2026-06-22]({{ '/2026/06/22/tech-ai-digest/' | relative_url }})
 - 2026-06-08 — [Tech & AI Digest — 2026-06-08]({{ '/2026/06/08/tech-ai-digest/' | relative_url }})
