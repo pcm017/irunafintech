@@ -21,10 +21,9 @@ tags:
 - rbi-inflation-revision
 - gdp-beat
 - semiconductor-crash
-excerpt: '**Nifty 23,123 (▼1.04%, June 9)** and India VIX 17.09 (+8.2%) — Broadcom
-  AI chip guidance miss ($1.3T market cap erased globally) + US May NFP beat = dual
-  FII selling pressure on India; Nifty PCR dropped below 0.80 (extreme bearish…'
 ---
+
+# Macro Signals Snapshot — 2026-06-09
 
 **Raw file:** *2026 06 09 macro signals*
 

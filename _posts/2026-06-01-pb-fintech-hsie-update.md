@@ -16,10 +16,9 @@ tags:
 - buy-rating
 - commission-risk
 - bima-sugam
-excerpt: 'HSIE maintains BUY rating with TP INR 2,180 (implying 61x FY28E EPS of ₹35.5);
-  CMP INR 1,703 (May 29, 2026). Policybazaar''s right-to-win (RTW) is intact: superior
-  CACs, better conversion, profit-sharing model with insurers, data-driven…'
 ---
+
+# PB Fintech — HSIE Research Update: "Scaling with purpose; right-to-win intact"
 
 **Raw file:** `raw/results/PB Fintech - Update - Jun26 - HSIE-202606010635031047409.pdf`
 **Published:** June 1, 2026 | HDFC Securities Institutional Equities (HSIE)

@@ -15,10 +15,9 @@ tags:
 - kotak-ai
 - nse-derivatives
 - zetwerk-ipo
-excerpt: 'Thin digest day: 25 threads scanned, 9 kept, and most large newsletter templates
-  hit the Gmail extraction token limit and were captured as subject+snippet only —
-  only the Value Research piece came through in full. Kotak Mahindra Bank''s CEO…'
 ---
+
+# Fintech & BFSI Digest — 2026-07-11
 
 _Backfilled during the 2026-07-13 compile — this file sat in `raw/newsletters/` unprocessed since its 2026-07-11 collect run (only that day's macro-signals snapshot was ingested at the time)._
 

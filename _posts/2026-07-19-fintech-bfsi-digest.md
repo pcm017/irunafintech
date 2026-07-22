@@ -15,10 +15,9 @@ tags:
 - fusion-finance
 - upi-zero-mdc
 - rbl-emirates-nbd
-excerpt: Thin Sunday cycle — 3 stories kept, all snippet-only (token ceiling hit on
-  every thread). Central Bank of India (PSU) raised USD 8.4 million via FCNR(B) deposits;
-  RBL Bank commentary tied to the ongoing Emirates NBD stake-interest thread.
 ---
+
+# Fintech & BFSI Digest — 2026-07-19
 
 ## TL;DR
 

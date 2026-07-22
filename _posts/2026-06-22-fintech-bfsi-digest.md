@@ -16,10 +16,9 @@ tags:
 - insurance
 - nbfc
 - fii
-excerpt: '**RBI removes NRE/FCNR(B) rate caps** — designed to attract NRI foreign
-  currency inflows; HDFC Bank is the flagged primary beneficiary, with potential $50B
-  deposit inflow cited. **RBI tightens payment system licensing** — new perpetual…'
 ---
+
+# Source: Fintech & BFSI Digest — 2026-06-22
 
 **Raw file:** `raw/newsletters/2026-06-22-fintech-bfsi-digest.md`
 

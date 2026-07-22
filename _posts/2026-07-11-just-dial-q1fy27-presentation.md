@@ -11,10 +11,9 @@ tags:
 - consumer-internet
 - q1fy27
 - results
-excerpt: Operating revenue ₹3,275 Mn (+9.9% YoY, +6.6% QoQ); operating EBITDA ₹874
-  Mn but margin compressed to 26.7% (from 29.0% YoY, -232bps). Net profit ₹1,663 Mn
-  (+4.1% YoY, +66.2% QoQ) — the large QoQ jump is driven mainly by other income…
 ---
+
+# Just Dial Q1 FY27 Investor Presentation
 
 ## TL;DR
 

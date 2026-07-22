@@ -18,10 +18,9 @@ tags:
 - india-forex-702b
 - nifty-vix-low
 - fed-governor-scotus
-excerpt: '**Gold $3,982.20 (-1.40%)** — breaks below $4,000 for the first time in
-  weeks, as risk-on sentiment (small-caps outperforming) and reduced safe-haven demand
-  pull the metal off its recent range. **Brent fell to ~$72 intraday (lowest since…'
 ---
+
+# Macro Signals Snapshot — 2026-06-30
 
 **Raw file:** *2026 06 30 macro signals*
 _Note: Indian markets closed June 30; index data primarily reflects June 29 close._

@@ -12,10 +12,9 @@ tags:
 - q4fy26
 - ai
 - fy27-guidance
-excerpt: 'Q4 FY26: revenue $5,040M (+6.6% YoY reported, +4.1% CC); operating margin
-  20.9%. Net profit $919M (+13% YoY). FY26 full year: CC growth 3.1% (after absorbing
-  170 bps headwind from lower third-party revenue and lower on-site mix). Large…'
 ---
+
+# Infosys Q4 & Full Year FY26 — Earnings Call + Fact Sheet
 
 **Filed:** April 27, 2026 (board meeting April 23, 2026; fact sheet also April 23)
 **Raw files:** `raw/results/2ab7badf-388c-4dab-bfcc-3e128677734c.pdf` (earnings call), `raw/results/fact-sheet.pdf` (fact sheet)

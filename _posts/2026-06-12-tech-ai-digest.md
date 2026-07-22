@@ -19,10 +19,9 @@ tags:
 - zoho-india-server
 - spacex-ai-infrastructure
 - reliance-jamnagar
-excerpt: '**Fable 5 underwhelms benchmarks** — described as the "Let Down of 2026";
-  Anthropic controversy around Claude Mythos Preview capabilities disclosure adds
-  to headline noise. **Dario Amodei publishes "Treebeard" policy essay** — likens…'
 ---
+
+# Tech & AI Digest — 2026-06-12
 
 **Raw file:** [raw/newsletters/2026-06-12-tech-ai-digest.md](../../raw/newsletters/2026-06-12-tech-ai-digest.md)
 

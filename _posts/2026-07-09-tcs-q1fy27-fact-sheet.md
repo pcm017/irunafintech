@@ -13,10 +13,9 @@ tags:
 - revenue
 - margin-compression
 - ai-contract-pricing
-excerpt: INR revenue ₹72,275 Cr (+2.2% QoQ, +13.9% YoY); USD revenue $7,624 Mn (flat
-  QoQ, +2.7% YoY); constant-currency growth just +0.4% QoQ, +3.2% YoY — the INR/USD
-  divergence reflects rupee depreciation more than real growth. Operating margin…
 ---
+
+# TCS Q1 FY27 Fact Sheet
 
 ## TL;DR
 

@@ -22,10 +22,9 @@ tags:
 - upi-fraud
 - tamil-nadu-ai-act
 - core-banking-ai
-excerpt: '**Rupee hitting 100 scenario** — April trade deficit $28.4B (from $20.7B
-  March); OMC losses ₹1,000 Cr/day; ECB borrowers under pressure; IT/pharma exporters
-  the only near-term beneficiaries **RBI gold at 25-year high (17.3% of reserves)**…'
 ---
+
+# Fintech & BFSI Digest — 2026-05-23
 
 ## TL;DR
 

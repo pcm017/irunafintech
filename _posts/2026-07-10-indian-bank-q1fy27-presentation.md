@@ -12,10 +12,9 @@ tags:
 - q1fy27
 - asset-quality
 - results
-excerpt: 'Net profit ₹3,273 Cr (+10% YoY, +5% QoQ); operating profit ₹5,557 Cr (+17%
-  YoY); NII ₹7,435 Cr (+17% YoY) — broad-based double-digit growth across the P&L.
-  Business crossed ₹15.29 lakh Cr (+13.66% YoY): deposits ₹8.44 lakh Cr (+13.47%…'
 ---
+
+# Indian Bank Q1 FY27 Investor Presentation
 
 ## TL;DR
 

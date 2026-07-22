@@ -15,10 +15,9 @@ tags:
 - asset-quality
 - digital-banking
 - upi
-excerpt: 'Q4 FY26 PAT ₹7,071 Cr (+9% QoQ, −0.6% YoY); FY26 full-year PAT ₹24,457 Cr
-  (−7% YoY — impacted by lower trading income, higher provisioning). However, **two
-  one-time items net to zero** on P&L: tax credit of ₹2,193 Cr (Citi intangibles…'
 ---
+
+# Axis Bank Q4 FY26 Investor Presentation & Press Release
 
 **Raw file:** [raw/results/40069350-77ce-40d5-8148-9556a268f1dc.pdf](../../raw/results/40069350-77ce-40d5-8148-9556a268f1dc.pdf)
 

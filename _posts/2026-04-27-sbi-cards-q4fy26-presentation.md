@@ -13,10 +13,9 @@ tags:
 - q4fy26
 - india-bfsi
 - asset-quality
-excerpt: '**FY26 PAT ₹2,167 Cr (+13% YoY)** — recovery driven by sharply falling credit
-  costs after two difficult years of asset quality stress **Asset quality inflected
-  decisively:** GNPA 2.41% (−67 bps YoY), credit cost 8.6% FY26 vs. 9.0% FY25…'
 ---
+
+# SBI Cards Q4 & FY26 Investor Presentation
 
 **Raw file:** `raw/results/2413c21d-e3c2-4438-8906-c1e31bb8e3fe.pdf`
 **Filing date:** April 27, 2026 | **Period:** Q4 & FY ended March 31, 2026

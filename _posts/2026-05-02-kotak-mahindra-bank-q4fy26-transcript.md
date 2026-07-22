@@ -11,10 +11,9 @@ tags:
 - results
 - lending-institution
 - private-sector-bank
-excerpt: 'Vaswani opened with macro context first: West Asia crisis + Russia-Ukraine
-  + US tariffs = "enhanced volatility"; nil credit stress visible in bank book as
-  of May 2, but watchful stance on lower-spectrum borrowers and monsoon Advances grew…'
 ---
+
+# Kotak Mahindra Bank Q4FY26 Earnings Call Transcript — May 2, 2026
 
 **Management:** Ashok Vaswani (MD & CEO), Devang Gheewalla (CFO), Jaideep Hansraj, Paritosh Kashyap, Anup Kumar Saha (Whole-time Directors)
 

@@ -14,10 +14,9 @@ tags:
 - q4fy26
 - asset-quality
 - revolver
-excerpt: '**New account guidance confirmed at 9–10 Lakh/quarter** going forward —
-  calibrated growth, not volume maximisation. Industry-wide underwriting tightened
-  on unsecured lending. **Revolver to drift lower with "downward bias" in FY27** —…'
 ---
+
+# SBI Cards Q4 & FY26 Earnings Call Transcript
 
 **Raw file:** `raw/results/SBICards-Earnings-Apr27-2026.pdf`
 **Call date:** April 27, 2026 | **Participants:** MD & CEO Salila Pande, CFO Rashmi Mohanty, Chief Sales Girish Budhiraja, CRO Krishna Kant Bishnoi

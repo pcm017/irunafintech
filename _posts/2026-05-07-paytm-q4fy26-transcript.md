@@ -17,10 +17,9 @@ tags:
 - postpaid
 - nbfc
 - merchant-loans
-excerpt: 'FY27 revenue acceleration guided across three growth buckets: established
-  businesses (payments, merchant loans), headwind-to-tailwind (advertising + personal
-  loans), and emerging (wealth as third pillar) EBITDA target of 15–20% margin in…'
 ---
+
+# Paytm Q4 FY26 Earnings Call Transcript
 
 **Call date:** May 7, 2026 (filed by company secretary May 12, 2026)
 **Raw file:** `raw/results/a39d5732-4edd-4b8f-8269-767d21ccd4c2.pdf`

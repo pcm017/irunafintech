@@ -21,6 +21,8 @@ tags:
 - agents
 ---
 
+# Tech & AI Digest — 2026-05-24
+
 **TL;DR**
 - Google I/O: Sundar Pichai gave a **4-year AGI countdown**; 24 announcements in 35 minutes; declared "we are ending the app era"
 - IBM joins **Anthropic-led cybersecurity initiative** — AI used defensively to detect and respond to attacks faster than human analysts

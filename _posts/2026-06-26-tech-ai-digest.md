@@ -27,10 +27,9 @@ tags:
 - india-telecom
 - iran-war
 - chip-designers
-excerpt: '**OpenAI + Broadcom unveil "Jalapeño"** — OpenAI''s first custom inference
-  ASIC; 9-month dev cycle, deploying end-2026; reduces NVIDIA GPU dependency for inference
-  at scale. Custom silicon is now the default strategy for all major AI labs.…'
 ---
+
+# Tech & AI Digest — 2026-06-26
 
 ## TL;DR
 

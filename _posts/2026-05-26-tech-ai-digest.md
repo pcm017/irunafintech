@@ -21,10 +21,9 @@ tags:
 - local-ai
 - robotics
 - waymo
-excerpt: '**Google cracks decades-old math problems with AI** — continued capability
-  expansion in formal reasoning/proof generation (following AlphaProof/AlphaGeometry
-  lineage) **China open models winning on adoption metrics** — the AI competition…'
 ---
+
+# Tech & AI Raw Digest — 2026-05-26
 
 **Raw file:** *2026 05 26 tech ai digest*
 

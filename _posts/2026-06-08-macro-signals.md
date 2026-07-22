@@ -19,10 +19,9 @@ tags:
 - lpg-hike
 - india-pakistan
 - nuclear-energy
-excerpt: '**Gold $4,328.87 — new 2026 low** (below prior $4,342 floor); WTI +3.41%
-  to $93.63 as Strait of Hormuz near-closure marks **day 100 of US-Iran war**; OPEC+
-  adding +188,000 bpd in July despite supply risk **Nikkei ▼4.07% to 63,877.98**…'
 ---
+
+# Macro Signals Snapshot — 2026-06-08
 
 ## TL;DR
 

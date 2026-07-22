@@ -21,10 +21,9 @@ tags:
 - payments-upi
 - insurance
 - india-corporate-margins
-excerpt: '**India banking expansion:** SBI completes its first-ever acquisition financing
-  deal (entering leveraged finance segment historically dominated by foreign banks);
-  SMFG India Credit (formerly Fullerton India) to launch supply chain finance…'
 ---
+
+# Fintech & BFSI Digest — 2026-06-05
 
 **Raw file:** [raw/newsletters/2026-06-05-fintech-bfsi-digest.md](../../raw/newsletters/2026-06-05-fintech-bfsi-digest.md)
 

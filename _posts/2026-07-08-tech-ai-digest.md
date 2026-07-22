@@ -13,10 +13,9 @@ tags:
 - qualcomm-asic
 - india-uk-fta
 - india-semiconductor
-excerpt: SemiAnalysis projects cumulative AI-infrastructure debt financing could exceed
-  $7 trillion by 2029, with NVIDIA positioned as an implicit backstop across capital,
-  GPU offtake agreements, and datacenter financing — a systemic-risk framing…
 ---
+
+# Tech & AI Digest — 2026-07-08
 
 ## TL;DR
 

@@ -23,10 +23,9 @@ tags:
 - plaid
 - sebi-pms
 - jane-street
-excerpt: '**Cashfree Payments in distressed sale**: Pine Labs leads the race; Paytm
-  also in the bidding fray — India payments consolidation deepening **ChatGPT connects
-  to bank accounts**: OpenAI moves into financial data integration — AI agent…'
 ---
+
+# Fintech & BFSI Raw Digest — 2026-05-26
 
 **Raw file:** *2026 05 26 fintech bfsi digest*
 

@@ -25,10 +25,9 @@ tags:
 - inference-costs
 - regulation-ai
 - physical-ai
-excerpt: '**Claude Opus 4.8 released by Anthropic** — tops the Senior Engineer benchmark;
-  Every.to argues it should have been called Claude 5. Capability jump is significant.
-  **Meta AI achieves major biology breakthrough** — "Zuckerberg''s lab just…'
 ---
+
+# Tech & AI Digest — 2026-05-29
 
 **Raw file:** [raw/newsletters/2026-05-29-tech-ai-digest.md](../../raw/newsletters/2026-05-29-tech-ai-digest.md)
 

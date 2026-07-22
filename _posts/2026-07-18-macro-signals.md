@@ -19,10 +19,9 @@ tags:
 - india-decoupling
 - kimi-k3
 - gold-rebound
-excerpt: '**US and Asian equities fell sharply on Jul 17** on a deepening semiconductor
-  rout (~$1 trillion in semis market cap erased in under two months despite record
-  demand data), Moonshot AI''s new Kimi K3 model rattling US AI-trade sentiment…'
 ---
+
+# Macro Signals Snapshot — 2026-07-18
 
 ## TL;DR
 

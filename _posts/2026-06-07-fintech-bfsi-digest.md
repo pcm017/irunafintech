@@ -21,10 +21,9 @@ tags:
 - upi-may-atm
 - bank-credit
 - community-banks
-excerpt: '**RBI MPC June 5** (detailed summary): Repo held at 5.25% — 3rd consecutive
-  hold, neutral stance; capital inflow package estimated to generate ~$5B/month; LCR-linked
-  pricing proposed for bulk deposits; FII G-Sec capital gains exemption…'
 ---
+
+# Fintech & BFSI Digest — 2026-06-07
 
 **Raw file:** *2026 06 07 fintech bfsi digest*
 

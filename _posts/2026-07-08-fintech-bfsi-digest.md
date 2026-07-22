@@ -13,10 +13,9 @@ tags:
 - klarna-bank-charter
 - gold-loan-slowdown
 - manipal-ipo
-excerpt: Reliance Industries received a SEBI administrative warning over insider trading
-  (employees allegedly traded on unpublished price-sensitive information); NFRA declined
-  comment on a separate Rajesh Exports SEBI submission. ETRetail reports…
 ---
+
+# Fintech & BFSI Digest — 2026-07-08
 
 ## TL;DR
 

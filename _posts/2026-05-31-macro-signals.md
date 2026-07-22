@@ -22,10 +22,9 @@ tags:
 - wpi
 - fii-dii
 - petrol-hike
-excerpt: S&P 500 **7,580.06** (+0.22%) — US equities resilient; Nifty 23,547.75 (−1.50%
-  same day as May 29); Hang Seng −1.27%, Shanghai −0.73%, DAX −0.45% Brent **$91.12/bbl
-  (−1.70%)** — worst monthly decline since 2020 (−17% in May); catalyst…
 ---
+
+# Macro Signals Snapshot — 2026-05-31
 
 **Source:** macro-signals-collect | **Date:** 2026-05-31 (data as of May 29, 2026 close — weekend snapshot)
 

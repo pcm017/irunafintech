@@ -15,10 +15,9 @@ tags:
 - paypal-stripe-advent
 - idbi-privatisation
 - study-abroad-lenders
-excerpt: '**Stripe & Advent International reportedly bid $53Bn for PayPal** — a major
-  global payments-consolidation story, framed by the source newsletter as really being
-  about Advent''s broader payments-empire strategy. **India''s overseas-education…'
 ---
+
+# Fintech & BFSI Digest — 2026-07-16
 
 ## TL;DR
 

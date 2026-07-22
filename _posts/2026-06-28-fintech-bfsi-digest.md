@@ -19,10 +19,9 @@ tags:
 - whatsapp-pay
 - cbi-enforcement
 - prediction-markets
-excerpt: '**Axis Bank ULI Rs 750 Cr/month** — RBI-backed Unified Lending Interface
-  hitting critical adoption mass; management calls it lending''s "UPI moment"; first
-  quantified scale signal for the interoperable credit stack. **RBIH DPIP (Digital…'
 ---
+
+# Fintech & BFSI Digest — 2026-06-28
 
 **Raw file:** *2026 06 28 fintech bfsi digest*
 

@@ -17,10 +17,9 @@ tags:
 - nbfc-600pct-interest
 - us-bank-charters
 - alt5-trump-crypto
-excerpt: '**HDFC Bank cut its non-supervisory workforce by 8,000+ in FY26** (3,343
-  net headcount reduction) while ramping management hiring; **Kotak Mahindra Bank''s
-  FY26 hiring focused on AI/cloud/engineering talent**, yet overall workforce shrank…'
 ---
+
+# Fintech & BFSI Digest — 2026-07-13
 
 ## TL;DR
 

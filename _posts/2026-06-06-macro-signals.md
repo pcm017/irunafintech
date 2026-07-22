@@ -20,10 +20,9 @@ tags:
 - sahamati
 - lcr-pricing
 - fdi
-excerpt: '**Nasdaq worst day since April 2025** (▼4.18%) on strong US May jobs report,
-  which spiked Treasury yields and triggered a broad semiconductor selloff wiping
-  ~$1T from markets; S&P fell 2.64% to 7,383.74 (June 4 close). **Gold below…'
 ---
+
+# Macro Signals Snapshot — 2026-06-06
 
 **Raw file:** *2026 06 06 macro signals*
 

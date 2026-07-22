@@ -23,10 +23,9 @@ tags:
 - coal-india
 - ongc
 - india-russia
-excerpt: '**Iran escalation intensifies:** After US "self-defense strikes" near Hormuz
-  on May 27, **Iran vows "swift, decisive revenge"** after a US port attack on May
-  28. Sides reportedly seeking a deal allowing each to "sell their narrative" —…'
 ---
+
+# Macro Signals Snapshot — 2026-05-29
 
 **Raw file:** [raw/indices/2026-05-29-macro-signals.md](../../raw/indices/2026-05-29-macro-signals.md)
 

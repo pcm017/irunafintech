@@ -20,10 +20,9 @@ tags:
 - adobe-ceo
 - microsoft-metered-intelligence
 - claude-dynamic-workflows
-excerpt: '**Google-SpaceX compute deal: $920M/month** for 110,000 NVIDIA GPUs through
-  mid-2029 — one of the largest compute procurement deals in history; signals AI infrastructure
-  at sovereign-scale. **Samsung to invest $4B in Vietnam chip-testing…'
 ---
+
+# Tech & AI Digest — 2026-06-06
 
 **Raw file:** *2026 06 06 tech ai digest*
 

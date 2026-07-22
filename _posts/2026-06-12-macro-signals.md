@@ -21,11 +21,9 @@ tags:
 - fcnr-hike
 - rbi-nbfc-cleanup
 - india-us-spread-226
-excerpt: '**Oil collapses on deal signals:** Trump suspended planned Iran attacks
-  and signalled US-Iran deal is close — Brent fell to $89.23, WTI to $85.94 (from
-  $91+ prior session). Biggest geopolitical risk-premium unwind since the conflict
-  began.…'
 ---
+
+# Macro Signals Snapshot — 2026-06-12
 
 **Raw file:** [raw/indices/2026-06-12-macro-signals.md](../../raw/indices/2026-06-12-macro-signals.md)
 

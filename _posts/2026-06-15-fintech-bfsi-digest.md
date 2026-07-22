@@ -29,6 +29,8 @@ tags:
 - crypto-decouple
 ---
 
+# Fintech & BFSI Digest — 2026-06-15
+
 **TL;DR**
 - **US-Iran Peace Deal officially confirmed** (Filter Coffee, June 15): Trump confirmed deal reached; Pakistan PM Sharif confirmed "immediate and permanent termination of military operations on all fronts"; formal signing ceremony in Switzerland on June 19 — the single largest positive India macro catalyst of 2026 now formalised
 - India CPI May: 3.93% (up from 3.48% April, below 4% RBI target); food inflation 4.78%; biggest price jumps: precious metals, tomatoes, ginger; note base year change to 2024 in Jan — YoY comparisons with 2025 not direct

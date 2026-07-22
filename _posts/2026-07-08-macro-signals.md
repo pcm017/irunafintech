@@ -16,10 +16,9 @@ tags:
 - chip-selloff
 - nifty-pcr-conflict
 - rbi-fy27-forecasts
-excerpt: 'US equities reversed off Jul 6''s record highs on a Jul 7 chip-stock selloff
-  (Samsung earnings + DeepSeek-linked news): S&P 500 7,503.85 (-0.45%), Nasdaq 25,818.69
-  (-1.16%), Dow 52,925.15 (-0.25%) — Nasdaq led the pullback. Crude held near…'
 ---
+
+# Macro Signals Snapshot — 2026-07-08
 
 ## TL;DR
 

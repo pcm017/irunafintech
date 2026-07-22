@@ -11,10 +11,9 @@ tags:
 - grocery
 - q1fy27
 - results
-excerpt: Revenue from operations ₹18,343 Cr (+15.1% YoY, +6.6% QoQ) — a re-acceleration
-  from Q4 FY26's softer growth. EBITDA ₹1,527 Cr (+16.3% YoY), margin 8.3% (vs 8.2%
-  Q1FY26, 7.2% Q4FY26) — margin recovering after a Q4 FY26 dip.
 ---
+
+# Avenue Supermarts (DMart) Q1 FY27 Corporate Presentation
 
 ## TL;DR
 

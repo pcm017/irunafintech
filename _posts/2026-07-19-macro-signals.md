@@ -20,10 +20,9 @@ tags:
 - gold-silver-conflict
 - forex-reserves-conflict
 - weekend-snapshot
-excerpt: Sunday weekend snapshot — no fresh trading session; all equity/index figures
-  reflect Friday Jul 17 close, unchanged from the Jul 18 compile. US CENTCOM confirmed
-  a 3rd day of strikes on Iran targeting Strait of Hormuz shipping-threat…
 ---
+
+# Macro Signals Snapshot — 2026-07-19
 
 ## TL;DR
 

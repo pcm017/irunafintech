@@ -15,11 +15,9 @@ tags:
 - regulatory
 - p2p-lending
 - vc-funding
-excerpt: 'UPI May record confirmed: 23.2B txns, ₹29.9L cr value (+24% vol / +19% val
-  YoY — all-time high). Stablecoin rails accelerating: SoFi stablecoin live; Cash
-  App (Block) USDC live; Robinhood enables AI agent trading; Catena Labs pursuing
-  OCC…'
 ---
+
+# Fintech & BFSI Digest — 2026-06-01
 
 **Raw file:** [raw/newsletters/2026-06-01-fintech-bfsi-digest.md](../../raw/newsletters/2026-06-01-fintech-bfsi-digest.md)
 

@@ -21,10 +21,9 @@ tags:
 - forex-reserves
 - dxy
 - us-holiday
-excerpt: '**US markets closed Jul 3–4** (Independence Day observed + weekend); US
-  data reflects Thursday Jul 2 close (Dow 52,900.07, +1.14%). India/Asia traded Jul
-  3 (Friday); Nifty/Sensex figures are mid-day, not confirmed close. **Gold and silver…'
 ---
+
+# Macro Signals Snapshot — 2026-07-04
 
 ## TL;DR
 

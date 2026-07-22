@@ -20,10 +20,9 @@ tags:
 - trade-deficit
 - omc
 - fii-dii
-excerpt: '**US 10Y yield easing** to 4.54% (3rd consecutive session lower); yield
-  curve +41bps (normal) **Brent $104.52/bbl** — remains elevated; India monthly oil
-  import bill now **>$18B** (up from $13B)'
 ---
+
+# Macro Signals Snapshot — 2026-05-23
 
 ## TL;DR
 

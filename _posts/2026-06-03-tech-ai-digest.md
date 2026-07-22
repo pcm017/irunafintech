@@ -16,10 +16,9 @@ tags:
 - gartner-cloud
 - palo-alto-ai-cyber
 - drivenet
-excerpt: Anthropic confidentially filed IPO prospectus with SEC (June 1, 2026). Current
-  valuation $965B; $47B ARR; potential Wall Street debut Fall 2026. Ahead of rival
-  OpenAI also filing. Google issued equity to Berkshire Hathaway for AI capex —…
 ---
+
+# Tech & AI Digest — 2026-06-03
 
 **Raw file:** [raw/newsletters/2026-06-03-tech-ai-digest.md](../../raw/newsletters/2026-06-03-tech-ai-digest.md)
 

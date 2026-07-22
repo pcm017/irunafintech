@@ -12,10 +12,9 @@ tags:
 - upi
 - lending
 - q3fy26
-excerpt: Revenue ₹2,194 Cr (+20% YoY); EBITDA ₹156 Cr (7% margin) — full YoY turnaround
-  from ₹(223) Cr in Dec-24 PAT ₹225 Cr vs ₹(208) Cr a year ago; 9M FY26 PAT positive
-  ₹369 Cr vs ₹(118) Cr in 9M FY25
 ---
+
+# Paytm Q3 FY26 Earnings Presentation
 
 ## TL;DR
 

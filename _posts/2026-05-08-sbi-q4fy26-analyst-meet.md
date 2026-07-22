@@ -12,10 +12,9 @@ tags:
 - lending-institution
 - psu-bank
 - state-bank
-excerpt: FY26 Net Profit ₹80,032 cr (+12.88% YoY) — record high; FY26 Operating Profit
-  +11.25% YoY; ROA maintained >1% (ROE 18.5% in Q4FY26) Q4FY26 PAT was below Q3FY26
-  due to a ₹4,520 cr MTM treasury loss (vs ₹143 cr in Q3); underlying…
 ---
+
+# SBI Q4FY26 Analyst Meet — May 8, 2026
 
 **Management:** Shri C.S. Setty (Chairman), MD-Corporate Banking: Shri Ashwini Kumar Tewari, MD-Intl & Tech: Shri Rana Ashutosh Kumar Singh, MD-Retail: Shri Rama Mohan Rao Amara, MD-Risk: Shri Ravi Ranjan, DMD-Finance: Shri Anindya Sunder Paul
 

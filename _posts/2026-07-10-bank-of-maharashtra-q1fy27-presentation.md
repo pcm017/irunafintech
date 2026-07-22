@@ -12,10 +12,9 @@ tags:
 - q1fy27
 - asset-quality
 - results
-excerpt: Net profit ₹2,020 Cr (+26.84% YoY); operating profit ₹3,117 Cr (+21.29% YoY);
-  NII +14.53% YoY — one of the strongest YoY profit growth rates among PSU banks logged
-  in this wiki. Total business ₹6,50,457 Cr (+19.10% YoY) — well above…
 ---
+
+# Bank of Maharashtra Q1 FY27 Investor Presentation
 
 ## TL;DR
 

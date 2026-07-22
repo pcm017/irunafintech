@@ -22,10 +22,9 @@ tags:
 - fed-4pct-target
 - shriram-life-insurance
 - subprime-auto
-excerpt: '**US consumer credit is bending, not broken — yet:** Bankruptcies +14% YoY;
-  new card vintages (Q1-Q2 2025) delinquent at higher rates than 2023-24 cohorts;
-  subprime auto delinquencies at 20-year highs; personal savings near historic lows.…'
 ---
+
+# Fintech & BFSI Digest — 2026-06-11
 
 **Raw file:** [raw/newsletters/2026-06-11-fintech-bfsi-digest.md](../../raw/newsletters/2026-06-11-fintech-bfsi-digest.md)
 

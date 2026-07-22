@@ -16,10 +16,9 @@ tags:
 - ibm-selloff
 - tsmc-2nm
 - nvidia-feynman
-excerpt: '**Union Cabinet approved ₹1.27 lakh crore for India Semiconductor Mission
-  2.0 ("Semicon 2.0")** (Jul 15, chaired by PM Modi) — expected to attract ~₹4 lakh
-  crore in investment and generate ₹2 lakh crore in production during the scheme…'
 ---
+
+# Tech & AI Digest — 2026-07-16
 
 ## TL;DR
 

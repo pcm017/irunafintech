@@ -20,10 +20,9 @@ tags:
 - bank-credit-fast
 - upi-june
 - startup-funding
-excerpt: '**Brent firmed sharply to $79.25/bbl** (from ~$73 the prior session) as
-  **Iran struck Bahrain, Kuwait, and Qatar with missiles**, defying Trump''s warning
-  of "much worse" bombing — confirming the Jul 8 ceasefire breakdown is an active…'
 ---
+
+# Macro Signals Snapshot — 2026-07-10
 
 ## TL;DR
 

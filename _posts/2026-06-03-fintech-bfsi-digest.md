@@ -19,10 +19,9 @@ tags:
 - genai-banking
 - icici-bank
 - suzlon
-excerpt: 'UPI May 2026 ATH confirmed: 23.2B txns (daily avg 737.79M), ₹29.9L cr value;
-  NPCI clarifies total excludes Credit Card on UPI and Credit Line on UPI — actual
-  usage higher. India-Oman CEPA (FTA) comes into force — gateway to GCC market…'
 ---
+
+# Fintech & BFSI Digest — 2026-06-03
 
 **Raw file:** [raw/newsletters/2026-06-03-fintech-bfsi-digest.md](../../raw/newsletters/2026-06-03-fintech-bfsi-digest.md)
 

@@ -16,10 +16,9 @@ tags:
 - upi
 - dow-53000
 - opec-output-hike
-excerpt: Dow closed above 53,000 for the first time (53,055.91, +0.29%), a new closing
-  record; S&P 500 (7,537.43, +0.72%) and Nasdaq (26,121.16, +1.12%) also gained on
-  the Jul 6 session. India equities extended a 4th straight up session — Nifty…
 ---
+
+# Macro Signals Snapshot — 2026-07-07
 
 ## TL;DR
 

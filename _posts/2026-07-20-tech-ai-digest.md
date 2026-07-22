@@ -17,10 +17,9 @@ tags:
 - intel-foundry-32b
 - tata-dholera-slip
 - us-china-chip-case-by-case
-excerpt: 'Model-release roundup: Anthropic launched Claude Sonnet 5 (most agentic
-  model yet, near-Opus 4.8 performance at lower cost); OpenAI launched GPT-5.6 family
-  (Luna/Terra/Sol); Google DeepMind delayed Gemini 3.5 Pro to Jul 17 for a full…'
 ---
+
+# Tech & AI Digest — 2026-07-20
 
 ## TL;DR
 

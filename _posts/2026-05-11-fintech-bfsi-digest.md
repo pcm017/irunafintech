@@ -15,10 +15,9 @@ tags:
 - payments
 - crypto
 - global-fintech
-excerpt: 'Hormuz disruption is running at ~90% below normal shipping — India faces
-  real risk on fertiliser imports (urea/sulphur from Gulf) and a higher oil import
-  bill with CAD/INR implications. India Q4 FY26 corporate earnings (180 cos): sales…'
 ---
+
+# Fintech & BFSI Digest — 2026-05-11
 
 **Raw file:** `raw/newsletters/2026-05-11-fintech-bfsi-digest.md`
 Sources: ETBFSI, Morning Context, Public Policy Substack, Fintech Business Weekly (7 threads kept of 25)

@@ -14,10 +14,9 @@ tags:
 - india-tech
 - non-financial
 - q4fy26
-excerpt: Q4FY26 standalone revenue ₹4,937 Cr (+20% YoY), EBITDA ₹668 Cr (+43%), operating
-  EBIT ₹567 Cr (+43%), PAT ₹455 Cr (+30%) — profit growth well ahead of revenue growth,
-  signalling operating leverage. Consolidated (incl. JVs/associates)…
 ---
+
+# Trent Limited Q4 FY26 Investor Presentation
 
 ## TL;DR
 

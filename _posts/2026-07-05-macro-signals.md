@@ -16,10 +16,9 @@ tags:
 - gold-silver-rally
 - forex-reserves-decline
 - nfp
-excerpt: Gold ($4,182.28, +1.25%) and Silver ($62.86, +2.50%) extended their rally
-  for a second session, still riding the weak June US nonfarm payrolls miss (57K vs.
-  ~110-115K forecast) that reduced Fed rate-hike odds; gold on track for its first…
 ---
+
+# Macro Signals Snapshot — 2026-07-05
 
 ## TL;DR
 

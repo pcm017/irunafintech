@@ -18,10 +18,9 @@ tags:
 - india-dc
 - funding
 - open-source
-excerpt: '**June 2026 = peak AI model launch month**: Gemini 3.5 Pro (Google), Claude
-  Mythos 1 / Sonnet 4.8 (Anthropic, enterprise + general), and Grok 5 (xAI) all landing
-  in the same four-week window; coding benchmarks are now the primary…'
 ---
+
+# Source: Tech & AI Digest — 2026-06-22
 
 **Raw file:** `raw/newsletters/2026-06-22-tech-ai-digest.md`
 

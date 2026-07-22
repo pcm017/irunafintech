@@ -30,6 +30,8 @@ tags:
 - llm-pricing
 ---
 
+# Tech & AI Digest — 2026-06-15
+
 **TL;DR**
 - **Claude Fable 5 released June 9** (Anthropic's first Mythos-class model for the public); Claude Mythos 5 is the same model with cyber safeguards lifted, restricted to vetted defenders; Fable 5 free plan ends June 22; US export controls on both models put Indian IT services at competitive disadvantage — triggering urgent India sovereign AI push
 - **SpaceX IPO closed June 12** on Nasdaq (SPCX): priced $135/share ($1.77T), raised $75B, first-day close ~$161 (~19% up, >$2T market cap) — largest IPO in history by a wide margin; AI1 orbital data center revealed three days before listing

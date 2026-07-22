@@ -12,10 +12,9 @@ tags:
 - fintech-taxonomy
 - insurance
 - psu-privatisation
-excerpt: A thin collect day (23 threads scanned, only 3 kept) — mostly commentary/analysis
-  rather than hard news; no new BFSI results or regulatory actions. ETBFSI editorial
-  on **"Vanishing BFSI jobs"** largely reconfirms the already-logged 7,700+…
 ---
+
+# Fintech & BFSI Digest — 2026-07-18
 
 ## TL;DR
 

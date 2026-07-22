@@ -13,10 +13,9 @@ tags:
 - q1fy27
 - lakshya-2031
 - results
-excerpt: Book (AUM) grew to ₹1,29,634 Cr (+27% YoY, +6% QoQ), tracking ahead of the
-  "Lakshya 2031" 20%+ book-growth goal; disbursements ₹23,852 Cr (+36% YoY, -1% QoQ).
-  PAT ₹902 Cr (+29% YoY, +12% QoQ); ROA 2.48% (+11bps YoY, +8bps QoQ) and ROE…
 ---
+
+# L&T Finance Q1 FY27 Investor Presentation
 
 ## TL;DR
 

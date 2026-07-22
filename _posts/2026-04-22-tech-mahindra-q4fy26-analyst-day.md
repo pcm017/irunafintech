@@ -18,6 +18,8 @@ tags:
 - gpuaas
 ---
 
+# Tech Mahindra Q4 FY26 Analyst Day 2026
+
 **TL;DR**
 - FY26 is TechM's "Stabilisation Phase" — flattish revenue growth but EBIT margin expanded to **12.6% (+290 bps YoY)** from 9.7% in FY25; 10 straight quarters of margin expansion
 - Revenue run rate approaching $1B quarterly; LTM large deal wins **$3.8B** (+41.6% latest quarter to $3,794 Mn)

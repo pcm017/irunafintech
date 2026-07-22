@@ -22,10 +22,9 @@ tags:
 - ecb
 - ipo-delay
 - edtech
-excerpt: '**RBI MPC detail (June 2026):** CPI FY27 target raised to 5.1% (Q3 spike
-  to 5.9%), GDP FY27 lowered to 6.6%; factors: uneven monsoon, El Niño, LPG/base metal/rubber
-  prices — inflation path is front-loaded and worsening **SEBI vs. Rajesh…'
 ---
+
+# Fintech & BFSI Digest — 2026-06-09
 
 **Raw file:** *2026 06 09 fintech bfsi digest*
 

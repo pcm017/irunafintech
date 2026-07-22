@@ -20,6 +20,8 @@ tags:
 - india-banking
 ---
 
+# Source: Fintech & BFSI Digest — 2026-06-25
+
 **TL;DR**
 - Fintech Takes (Alex Johnson): The Deregulation Paradox — CFPB defanged but the 5-year regulatory look-back period is unchanged; real deregulation happens at the examination level, not in political speeches; risk is being transferred to private litigation, not reduced; stablecoin issuers face TD Bank-level AML exposure without the infrastructure to manage it
 - BIS central bank speeches cluster (June 24): Escrivá (Spain), Kincaid (Ireland), Mohamed (Malaysia/nature risk), Schlegel/SNB, and PBoC Governor Pan Gongsheng at Lujiazui Forum on China's financial modernisation — signals global central bank coordination on financial system evolution

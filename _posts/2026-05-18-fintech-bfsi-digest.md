@@ -15,11 +15,9 @@ tags:
 - rapido
 - whatsapp
 - regulatory
-excerpt: '**Adani proposed SEC settlement** — repeated strong signal from multiple
-  newsletter sources; consensus emerging this is material and positive for India infra
-  capital markets. **Bajaj Finance "Intermission"** — The Ken''s characterisation
-  of…'
 ---
+
+# Fintech & BFSI Digest — 2026-05-18
 
 **Raw file:** [raw/newsletters/2026-05-18-fintech-bfsi-digest.md](../../raw/newsletters/2026-05-18-fintech-bfsi-digest.md)
 

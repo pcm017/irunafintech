@@ -13,10 +13,9 @@ tags:
 - mule-accounts
 - oyo-ipo
 - next-100-cities
-excerpt: '**A device-locking smartphone-lending enforcement tool is reportedly returning
-  to India''s EMI market with new conditions**, after RBI''s outright 2024 ban — a
-  notable regulatory reversal. **PhonePe/Google Pay''s combined UPI market share…'
 ---
+
+# Fintech & BFSI Digest — 2026-07-10
 
 ## TL;DR
 

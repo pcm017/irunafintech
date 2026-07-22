@@ -16,10 +16,9 @@ tags:
 - digital-banking
 - ai
 - subsidiaries
-excerpt: PAT ₹192 bn (+9.1% YoY) in Q4 FY26; FY26 full-year PAT ₹746.7 bn (+10.9%
-  YoY) — India's largest private bank delivering steady growth post-HDFC merger integration
-  NIM stable at 3.38% — management intentionally range-bound while TD…
 ---
+
+# HDFC Bank Q4 FY26 Earnings Presentation
 
 **Presentation date:** April 18, 2026
 **Raw file:** `raw/results/q4fy26-earnings-presentation.pdf`

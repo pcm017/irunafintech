@@ -14,6 +14,10 @@ India's largest private sector bank (₹43.6 Tn assets, 100M+ customers, 9,689 b
 
 ## Current state
 
+*As of Q1 FY27 (quarter ending June 30, 2026)*
+
+**NEW (July 18, 2026 — Q1 FY27 results, NIM compresses further):** PAT ₹190.6 bn (+5.0% YoY, -0.8% QoQ); NII grew a healthy +6.7% YoY/+1.4% QoQ to ₹335.3 bn, but **NIM compressed to 3.26% (on total assets)** — down from 3.4% both YoY and QoQ, the first sub-3.3% quarterly print logged in this wiki, and in tension with management's earlier guidance that TD repricing would support a NIM recovery. The -12.8% YoY net-revenue and -78.8% YoY provisions declines are both base-effect artefacts of Q1 FY26's one-off ₹91.3 bn HDBFS OFS transaction gain and elevated prior-year provisioning, not operating deterioration. Deposits (+14.7% YoY) continued to outpace advances (+15.4% YoY EOP) and borrowings fell further to 11% of liabilities (unchanged QoQ, down from 21% at merger) — the deleveraging thesis remains on track even though it hasn't yet delivered the promised NIM tailwind. Asset quality stayed stable (GNPA 1.17%, ex-agri 0.91%; credit cost 40bps, up modestly from 35bps Q4 FY26). Fee income (Fees & Commissions) fell to ₹85 bn from ₹92 bn Q4 FY26. See *2026 07 18 hdfc bank q1fy27 presentation*
+
 *As of Q4 FY26 / full year FY26 (quarter ending March 31, 2026)*
 
 HDFC Bank is in what management calls the **optimisation phase** following the completion of the HDFC Ltd merger integration. The integration phase is done; the focus has shifted to (1) normalising the liability mix (reducing borrowings, building CASA), (2) sustaining ROA at ~2%, and (3) deploying AI at enterprise scale.
@@ -34,18 +38,21 @@ Governance overhang: Two "unprecedented events" during FY26 — chairman resigna
 
 ## Key metrics
 
-*As of Q4 FY26 / FY26 full year (Mar 31, 2026) — updated in place*
+*As of Q1 FY27 (Jun 30, 2026) — updated in place*
 
 ### P&L (quarterly)
 
-| Metric           | Q4 FY26   | Q4 FY25   | YoY    |
-| ---------------- | --------- | --------- | ------ |
-| Net Revenue      | ₹462.8 bn | ₹440.9 bn | +4.9%  |
-| NII              | ₹330.8 bn | ₹320.6 bn | +3.2%  |
-| Other Income     | ₹132.0 bn | ₹120.3 bn | +9.7%  |
-| Provisions       | ₹26.1 bn  | ₹31.9 bn  | −18.2% |
-| PAT              | ₹192.0 bn | ₹175.9 bn | +9.1%  |
-| EPS (standalone) | ₹12.5     | —         | —      |
+| Metric           | Q1 FY27   | Q4 FY26   | Q1 FY26   | YoY    |
+| ---------------- | --------- | --------- | --------- | ------ |
+| Net Revenue      | ₹463.6 bn | ₹462.8 bn | ₹531.7 bn | −12.8%* |
+| NII              | ₹335.3 bn | ₹330.8 bn | ₹314.4 bn | +6.7%  |
+| Other Income     | ₹128.2 bn | ₹132.0 bn | ₹217.3 bn | −41.0%* |
+| Fee Income       | ₹85 bn    | ₹92 bn    | ₹76 bn    | +11.8% |
+| Provisions       | ₹30.6 bn  | ₹26.1 bn  | ₹144.4 bn | −78.8%* |
+| PAT              | ₹190.6 bn | ₹192.2 bn | ₹181.6 bn | +5.0%  |
+| EPS (standalone) | ₹12.4     | ₹12.5     | ₹11.9     | —      |
+
+*\*Q1 FY26 base includes a one-off ₹91.3 bn HDBFS OFS transaction gain and elevated provisioning — YoY revenue/provisions comparisons are base-effect distorted, not clean operating reads. See *2026 07 18 hdfc bank q1fy27 presentation*.*
 
 ### P&L (full year)
 
@@ -55,30 +62,31 @@ Governance overhang: Two "unprecedented events" during FY26 — chairman resigna
 
 ### Key ratios
 
-| Metric | Q4 FY26 | Q4 FY25 |
-|---|---|---|
-| NIM | 3.38% | 3.44% |
-| ROA (annualized) | 1.96% | 1.94% |
-| Cost-to-Income | 39.9% | 40.0% |
-| Cost-to-Assets | 1.90% | — |
-| GNPA | 1.15% | 1.24% |
-| GNPA (ex-agri) | 0.91% | — |
-| NNPA | 0.40% | 0.42% |
-| Credit cost | 35 bps | 48 bps |
-| CAR | 19.7% | — |
-| CET1 | 17.3% | — |
-| LCR | 114% | — |
+| Metric | Q1 FY27 | Q4 FY26 | Q1 FY26 |
+|---|---|---|---|
+| NIM (on total assets) | 3.26% | 3.4% | 3.4% |
+| ROA (annualized) | ~1.9% | ~1.9% | ~1.9% |
+| ROE | 13.8% | 14.3% | 16.1% |
+| Cost-to-Income | 39.2% | 39.9% | 39.6% |
+| Cost-to-Assets | 1.8% | 1.9% | 1.9% |
+| GNPA | 1.17% | 1.15% | — |
+| GNPA (ex-agri) | 0.91% | — | — |
+| NNPA | 0.40% (approx.) | 0.40% | 0.42% |
+| Credit cost | 40 bps | 35 bps | 56 bps |
+| CAR | 19.6% | 19.7% | — |
+| CET1 | 17.4% | 17.3% | — |
+| LCR | — | 114% | — |
 
 ### Balance sheet
 
-| Metric                         | Mar-26     | Mar-25          | YoY                |
-| ------------------------------ | ---------- | --------------- | ------------------ |
-| Total Assets                   | ₹43,649 bn | —               | —                  |
-| Net Advances                   | ₹29,372 bn | ₹26,211 bn      | +12%               |
-| Total Deposits                 | ₹31,053 bn | ₹27,147 bn      | +14.4%             |
-| Borrowings                     | ₹4,894 bn  | ₹5,482 bn       | −10.7%             |
-| Borrowings as % of liabilities | 11%        | 21% (at merger) | structural decline |
-| CASA ratio                     | 34%        | 38%             | −400 bps           |
+| Metric                         | Jun-26     | Mar-26          | Jun-25          |
+| ------------------------------ | ---------- | --------------- | --------------- |
+| Total Assets                   | ₹43,975 bn | ₹43,649 bn      | ₹39,541 bn      |
+| Net Advances                   | ₹30,373 bn | ₹29,372 bn      | ₹26,284 bn      |
+| Total Deposits                 | ₹31,708 bn | ₹31,053 bn      | ₹27,641 bn      |
+| Borrowings                     | ₹4,618 bn  | ₹4,894 bn       | ₹5,101 bn       |
+| Borrowings as % of liabilities | 11%        | 11%             | 21% (at merger) |
+| CASA ratio                     | 32%        | 34%             | 38%             |
 
 ### Loan mix
 
@@ -115,6 +123,7 @@ Governance overhang: Two "unprecedented events" during FY26 — chairman resigna
 
 ## Timeline
 
+- **Jul 18, 2026**: Q1 FY27 results — PAT ₹190.6 bn (+5.0% YoY, -0.8% QoQ); NIM compressed to 3.26% (first sub-3.3% print logged); GNPA stable at 1.17%; borrowings held at 11% of liabilities
 - **Jul 17, 2026**: RBI approved the appointment of Rajiv Kumar as part-time chairman — regulatory sign-off closing the Chakraborty-succession leadership thread
 - **Jul 13, 2026**: Non-supervisory workforce cut 8,000+ in FY26 (net -3,343); annual report closes the Chakraborty-exit governance question — independent review found no substantiating evidence
 - **Jul 4, 2026**: 3rd source (ETBFSI) confirms CEO Jagdishan's 3rd-term reappointment cleared for board; Rajiv Kumar appointed replacing Atanu Chakraborty (share price fell >5% on Chakraborty's exit); Puneet Sharma CFO hire reconfirmed
@@ -140,11 +149,12 @@ The three medium-term value drivers are:
 
 ## Contradictions
 
-- Management guides NIM as "range-bound" at 3.38% but also says TD repricing tailwind (40–50 bps) will support NIM recovery. The timing of this recovery is unclear — management declined to give FY27 NIM guidance. Watch: will NIM recover in FY27 if rate cycle pauses?
+- Management guided NIM as "range-bound" at 3.38% (Q4 FY26) with a TD-repricing tailwind (40–50 bps) expected to support recovery — instead, Q1 FY27 NIM compressed further to 3.26%, the opposite of the guided direction. Whether this is a one-quarter dip or a trend reversal is now the bank's most consequential open question. See *2026 07 18 hdfc bank q1fy27 presentation*
 - CASA ratio at 34% (vs. 38% pre-merger) — management says this is expected and not concerning. But CASA dilution increases cost of funds and pressures NIM. The two claims (NIM range-bound, CASA improvement) need to reconcile over time. *[Sources: Q4 FY26 presentation, Q4 FY26 transcript]*
 
 ## See also
 
+- *2026 07 18 hdfc bank q1fy27 presentation*
 - *2026 04 18 hdfc bank q4fy26 presentation*
 - *2026 04 18 hdfc bank q4fy26 transcript*
 - *2026 07 13 fintech bfsi digest*

@@ -17,10 +17,9 @@ tags:
 - ai
 - commission-risk
 - bima-sugam
-excerpt: 'Q4 FY26 insurance premium: ₹29,934 Cr (+46% YoY for Q4 alone); FY26 full
-  year +42% YoY. New protection premium +67% YoY in Q4 (health +68%, term catching
-  up fast). FY26 PAT: ₹670 Cr (2.2% of premium); operating revenue ₹6,794 Cr (+37%…'
 ---
+
+# PB Fintech Q4 FY26 Earnings Call Transcript
 
 **Raw file:** `raw/results/11ee14c1-a9d2-4b70-a12a-b40d89f52b97.pdf`
 **Filing date:** May 12, 2026 (to NSE/BSE) | Call date: May 6, 2026

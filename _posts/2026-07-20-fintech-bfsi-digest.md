@@ -13,10 +13,9 @@ tags:
 - canara-hsbc-life
 - groww-derivatives-dependence
 - etbfsi-weekly-roundup
-excerpt: Thin cycle (2 kept stories) — mostly a re-surfaced ETBFSI weekly roundup
-  already captured Jul 19, plus two fresh The Morning Context pieces. Canara HSBC
-  Life's push into new business lines questioned against its premium valuation.
 ---
+
+# Fintech & BFSI Digest — 2026-07-20
 
 ## TL;DR
 

@@ -17,10 +17,9 @@ tags:
 - fed
 - decoupling
 - gold
-excerpt: US CPI April 2026 printed **3.8%** (hotter than expected; up from 3.3% March)
-  — first time in 3 years that inflation outpaced wage growth (3.6%); >40% driven
-  by energy; core 2.8% **Kevin Warsh confirmed** as new Fed chair (51-45, effective…
 ---
+
+# Macro Signals Snapshot — 2026-05-14
 
 ## TL;DR
 

@@ -14,11 +14,9 @@ tags:
 - tcs-hiring
 - l&t-azuremoto
 - tsmc-q2-preview
-excerpt: '**Meta confirmed its custom AI chip (designed with Broadcom, manufactured
-  by TSMC) enters production in September**, aiming to double computing capacity and
-  reduce Nvidia/AMD dependency. **Qualcomm''s $3.9Bn Modular acquisition** builds
-  a…'
 ---
+
+# Tech & AI Digest — 2026-07-10
 
 ## TL;DR
 

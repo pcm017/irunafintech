@@ -19,10 +19,9 @@ tags:
 - dxy-pullback
 - iran-talks-refused
 - nifty-pcr-neutral
-excerpt: '**Dow closes above 52,000 for the first time (52,319.20, +0.26%); S&P 500
-  7,449.36 (+0.79%); Nasdaq 26,213.72 (+1.52%)** — Q2 2026 was a blowout quarter:
-  S&P +14%, Nasdaq +20%, Dow +12%, driven substantially by the AI/tech recovery…'
 ---
+
+# Macro Signals Snapshot — 2026-07-01
 
 **Raw file:** *2026 07 01 macro signals*
 _Note: COT gold contract counts were inconsistent/conflicting across source aggregators this run — flagged for caution, not treated as authoritative._

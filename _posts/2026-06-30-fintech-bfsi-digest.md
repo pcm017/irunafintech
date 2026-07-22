@@ -18,10 +18,9 @@ tags:
 - prosus
 - x-money
 - hub-international
-excerpt: '**Meta invests Rs 8,550 Cr in Cred** (Rs 5,100 Cr primary + Rs 3,450 Cr
-  secondary) — Cred posts its **first profitable quarter**; post-deal cash jumps to
-  Rs 6,500 Cr (from Rs 1,400 Cr). This is the detailed breakdown of the Meta-CRED…'
 ---
+
+# Fintech & BFSI Digest — 2026-06-30
 
 **Raw file:** *2026 06 30 fintech bfsi digest*
 

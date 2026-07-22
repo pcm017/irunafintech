@@ -13,10 +13,9 @@ tags:
 - q4fy26
 - transcript
 - differentiation
-excerpt: 'Management doubled down on Instamart differentiation strategy — Noice (clean-label)
-  as the template across more categories. Strategy is not exclusionary: Instamart
-  continues to serve core needs, but "amplifies upgrades" as a distinct…'
 ---
+
+# Swiggy Q4 FY26 Earnings Call Transcript
 
 **Raw file:** [raw/results/abc6f071-83e8-41dd-a36f-f893610eed81.pdf](../../raw/results/abc6f071-83e8-41dd-a36f-f893610eed81.pdf)
 

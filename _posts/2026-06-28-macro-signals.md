@@ -20,10 +20,9 @@ tags:
 - bis-annual-report
 - india-semiconductor
 - biofuel
-excerpt: '**WTI $68.86 (-3.74%), Brent $72.60 (-3.84%)** — both extending post-Iran-deal
-  decline; WTI now comfortably below $69, lowest since pre-conflict; India''s annualised
-  crude savings vs. May $111 peak approach $180B. **India G-Sec 10Y at 6.70%…'
 ---
+
+# Macro Signals Snapshot — 2026-06-28
 
 **Raw file:** *2026 06 28 macro signals*
 _Note: Sunday collection — market data as of Friday June 27, 2026 close._

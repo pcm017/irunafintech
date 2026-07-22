@@ -17,10 +17,9 @@ tags:
 - fibe-ipo
 - cross-river
 - gpu-financing
-excerpt: '**Indian banking leadership reshuffle is now the dominant BFSI story of
-  the week**: Kotak Mahindra Bank CEO Ashok Vaswani declines a second term (Dec 2026
-  exit); HDFC Bank clears CEO Jagdishan''s third-term reappointment while also…'
 ---
+
+# Fintech & BFSI Digest — 2026-07-04
 
 ## TL;DR
 

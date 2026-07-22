@@ -17,10 +17,9 @@ tags:
 - brent-spike
 - sebi-fpi-fees
 - rbi-crypto-ban
-excerpt: '**Trump declared the US-Iran ceasefire "over"; the US struck Iran for a
-  second, stronger day (Jul 8)** — the direct trigger behind a steep Jul 8 India selloff
-  (Sensex -1,677 pts, Nifty -2.12%) and a Brent spike to $78-79/bbl. By the Jul 9…'
 ---
+
+# Macro Signals Snapshot — 2026-07-09
 
 ## TL;DR
 

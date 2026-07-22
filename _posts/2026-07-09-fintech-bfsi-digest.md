@@ -14,10 +14,9 @@ tags:
 - choti-sip
 - nfra-audit
 - tata-aig
-excerpt: '**PM Modi announced UPI will integrate with Indonesia''s payment system**
-  during his bilateral visit, alongside defense and trade cooperation agreements.
-  **SEBI shifted FPI registration fees from USD to INR denomination**; **RBI reiterated…'
 ---
+
+# Fintech & BFSI Digest — 2026-07-09
 
 ## TL;DR
 

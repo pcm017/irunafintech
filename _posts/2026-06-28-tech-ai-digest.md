@@ -23,10 +23,9 @@ tags:
 - robotics
 - agents
 - inference-cost
-excerpt: '**Anthropic secures 300MW at Colossus 1** (SpaceX/xAI Memphis facility;
-  >220,000 NVIDIA GPUs) — largest single compute procurement for Anthropic; diversification
-  away from Google Cloud TPU dependence; signals next-generation training run…'
 ---
+
+# Tech & AI Digest — 2026-06-28
 
 **Raw file:** *2026 06 28 tech ai digest*
 

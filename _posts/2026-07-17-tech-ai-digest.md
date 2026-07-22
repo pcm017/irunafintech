@@ -16,10 +16,9 @@ tags:
 - nvidia-china-share
 - bis-export-controls
 - semicon-2-0-detail
-excerpt: '**TSMC committed an additional $100Bn to Arizona fabs (2nm logic + advanced
-  packaging), bringing its total US semiconductor investment to $265Bn** — leading-edge
-  wafer demand is running at 110-120% of available capacity. **Samsung Foundry…'
 ---
+
+# Tech & AI Digest — 2026-07-17
 
 ## TL;DR
 

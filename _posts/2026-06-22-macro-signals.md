@@ -18,10 +18,9 @@ tags:
 - cot
 - cpi
 - forex-reserves
-excerpt: '**Hormuz ambiguity returns** — VP Vance declared he is "skeptical" Iran
-  ever closed Hormuz; Pentagon countered with "safe passage intact today." ~2.9M bbl/day
-  still transiting; US-Iran Peace Deal (signed June 19) holding, but…'
 ---
+
+# Source: Macro Signals Snapshot — 2026-06-22
 
 **Raw file:** `raw/indices/2026-06-22-macro-signals.md`
 

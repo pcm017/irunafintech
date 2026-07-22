@@ -14,10 +14,9 @@ tags:
 - investor-presentation
 - nim
 - asset-quality
-excerpt: 'Confirms transcript figures: FY26 PAT ₹20,022 cr (+2.2% YoY in USD terms;
-  entity page''s ~+11%+ framing was for operating metrics, not FY PAT — FY26 PAT growth
-  is actually modest at the full-year level despite a strong Q4) **New, more…'
 ---
+
+# Bank of Baroda Investor Presentation — June 2026 (Q4FY26 Results Data)
 
 *Filed with BSE/NSE on 20.06.2026 ahead of a 22nd June 2026 Investor Engagement Meeting. Reports Q4FY26/FY26 data (as of 31 March 2026) in USD Mn, converted here to ₹ cr at the stated FEDAI rate (1 USD = ₹94.8350, as of 30 March 2026). Companion document to *2026 05 08 bank of baroda q4fy26 analyst meet* (analyst meet transcript), which was ingested as a Q&A dialogue without a full P&L table — that source page's Contradictions section explicitly noted "no investor presentation for detailed P&L line-items." This presentation closes that gap.*
 

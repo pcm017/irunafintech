@@ -13,10 +13,9 @@ tags:
 - q4fy26
 - ipo
 - fintech
-excerpt: 'OnEMI (brand: **Kissht**) listed on NSE & BSE on May 8, 2026 — this is its
-  first quarterly earnings as a public company. IPO raised ₹850 Cr fresh issue; listed
-  at ₹191 vs ₹162–171 price band (+11.7% premium, 9.9x subscribed). AUM crossed…'
 ---
+
+# Source: OnEMI Q4 FY26 Earnings Presentation
 
 **Raw file:** `raw/results/On_EMI_Earnings_Presentation_Q4_FY_26_3b69914076.pdf`
 

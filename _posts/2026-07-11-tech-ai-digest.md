@@ -14,10 +14,9 @@ tags:
 - tata-dholera-halfway
 - sk-hynix-ipo
 - xbox-h1b
-excerpt: '**Big Tech''s five largest US data-centre spenders (Alphabet, Amazon, Meta,
-  Microsoft, Oracle) have collectively added ~$350 billion in debt over five years**
-  — the clearest quantification yet of the AI-capex-on-credit thesis tracked since…'
 ---
+
+# Tech & AI Digest — 2026-07-11
 
 _Backfilled during the 2026-07-13 compile — this file sat in `raw/newsletters/` unprocessed since its 2026-07-11 collect run (only that day's macro-signals snapshot was ingested at the time)._
 

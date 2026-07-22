@@ -24,10 +24,9 @@ tags:
 - tejas-delivery
 - upi-8-countries
 - rbi-fcnr-ecb-swap
-excerpt: Nifty bounced +0.52% to 23,242 (June 9 close) — relief rally from June 9
-  low of 23,123; bullish hammer candle; 23,070 key support, 23,500–23,550 upside target
-  S&P 500 fell to 7,330 (▼1.0%) as the S&P 493 (ex-Mag 7) continues to outperform…
 ---
+
+# Macro Signals Snapshot — 2026-06-10
 
 **Raw file:** [raw/indices/2026-06-10-macro-signals.md](../../raw/indices/2026-06-10-macro-signals.md)
 

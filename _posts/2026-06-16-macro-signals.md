@@ -23,10 +23,9 @@ tags:
 - spacex-ipo
 - russell2000-record
 - inr-94
-excerpt: US-Iran Peace Deal confirmed June 15; formal signing in Switzerland **June
-  19**. Trump stated Hormuz will reopen Friday. Brent extended decline to **$83.82
-  (-4.0%)** — lowest since March; WTI ~$80.00 (-5.1%). Supply surplus fears dominate.…
 ---
+
+# Macro Signals Snapshot — 2026-06-16
 
 **Raw file:** *2026 06 16 macro signals*
 

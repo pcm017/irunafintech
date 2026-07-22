@@ -13,10 +13,9 @@ tags:
 - lending-institution
 - private-sector-bank
 - investor-presentation
-excerpt: 'Confirms transcript figures exactly: standalone PAT ₹137.02 bn Q4FY26 (+8.5%
-  YoY), NIM 4.32%, Net NPA 0.33% **New data point:** Gross NPA ratio 1.40% at Mar-26
-  (down from 1.53% Q3FY26, 1.67% Q4FY25) — resolves the "no GNPA cross-check" gap…'
 ---
+
+# ICICI Bank Q4-2026: Performance Review (Investor Presentation) — April 18, 2026
 
 *Companion document to *2026 04 18 icici bank q4fy26 transcript* (earnings call). This presentation supplies the full standalone P&L, capital adequacy, and NPA-movement tables the transcript-only ingest flagged as missing — including the Gross NPA ratio, which the transcript ingest could not confirm.*
 

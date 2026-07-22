@@ -22,10 +22,9 @@ tags:
 - sp493-rotation
 - agentic-enterprise
 - chip-benchmarks
-excerpt: 'Apple WWDC 2026: Siri rebuilt with Google Gemini (not Apple''s own AI);
-  iOS 27/macOS 27 — July 2026 beta, September 2026 with iPhone 18; Stratechery reads
-  it as "good enough AI + distribution moat" — Apple doesn''t need to win the AI race…'
 ---
+
+# Tech & AI Digest — 2026-06-10
 
 **Raw file:** [raw/newsletters/2026-06-10-tech-ai-digest.md](../../raw/newsletters/2026-06-10-tech-ai-digest.md)
 

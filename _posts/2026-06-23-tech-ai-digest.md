@@ -19,10 +19,9 @@ tags:
 - embedded-memory
 - robotics
 - india-exports
-excerpt: '**GLM-5.2**: First open-weight model claimed to match Claude Opus 4.8 /
-  GPT-5.5 running on a **single Mac** — framed as the "ChatGPT moment for local AI";
-  if validated, fundamentally changes enterprise AI deployment economics **Google…'
 ---
+
+# Tech & AI Digest — 2026-06-23
 
 **Raw file:** *2026 06 23 tech ai digest*
 

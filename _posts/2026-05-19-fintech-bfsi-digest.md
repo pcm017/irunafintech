@@ -20,10 +20,9 @@ tags:
 - insurtech
 - wealth-management
 - india
-excerpt: '**PSU banks sent IBOs back to Dubai** — Indian banks recalled international
-  banking officers during West Asia escalation, are now returning them as situation
-  stabilises. First behavioural signal of de-escalation confidence from India''s…'
 ---
+
+# Fintech & BFSI Digest — 2026-05-19
 
 **Raw file:** [raw/newsletters/2026-05-19-fintech-bfsi-digest.md](../../raw/newsletters/2026-05-19-fintech-bfsi-digest.md)
 

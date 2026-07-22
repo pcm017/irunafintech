@@ -18,10 +18,9 @@ tags:
 - msme
 - deposits
 - merger
-excerpt: 'Management framing: HDFC Bank is "in a different phase" — the integration
-  phase (HDFC Ltd merger) is complete; now in optimisation phase; focus on deposits,
-  liabilities, and ROA, not headline growth NIM 3.38% — management said NIM is…'
 ---
+
+# HDFC Bank Q4 FY26 Earnings Call Transcript
 
 **Call date:** April 18, 2026
 **Management:** Sashidhar Jagdishan (MD & CEO), Kaizad Bharucha (Deputy MD), Srinivasan Vaidyanathan (CFO), Keki Mistry (Interim Chairman)

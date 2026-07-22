@@ -18,10 +18,9 @@ tags:
 - nifty-selloff
 - msci-rebalancing
 - consumption-paradox
-excerpt: S&P 500 posts **9th consecutive weekly gain** (7,520.36 +0.02%) despite stagflation
-  concerns; Nifty 23,547.75 (−1.50%) — India final-hour crash attributed to **MSCI
-  rebalancing + monsoon downgrade + US-Iran uncertainty** Brent **$91.37/bbl…
 ---
+
+# Macro Signals Snapshot — 2026-05-30
 
 **Source:** macro-signals-collect | **Date:** 2026-05-30 (data as of May 29, 2026 close)
 

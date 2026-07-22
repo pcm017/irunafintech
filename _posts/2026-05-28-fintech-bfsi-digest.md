@@ -26,10 +26,9 @@ tags:
 - coal-india
 - rare-earths
 - india-russia
-excerpt: '**SBI pivots to wealth management:** India''s largest PSB is targeting leadership
-  in wealth architecture — a strategic shift alongside HDFC Bank and Kotak Private
-  in the wealth space. **Bajaj Finance succession risk:** The Ken deep-dives on…'
 ---
+
+# Fintech & BFSI Digest — 2026-05-28
 
 **Raw file:** [raw/newsletters/2026-05-28-fintech-bfsi-digest.md](../../raw/newsletters/2026-05-28-fintech-bfsi-digest.md)
 

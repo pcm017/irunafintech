@@ -19,10 +19,9 @@ tags:
 - diesel-atf-levy
 - ongc-venezuela
 - bis-bond-forecast-disagreement
-excerpt: '**Post-Iran-deal commodity repricing:** Brent collapsed to $78.89 (from
-  $83.82 June 15) as Hormuz fears recede following Trump''s "great peace deal" signing
-  announcement — crude pricing in supply return even before June 19 ceremony.…'
 ---
+
+# Macro Signals Snapshot — 2026-06-17
 
 **Raw file:** *2026 06 17 macro signals*
 

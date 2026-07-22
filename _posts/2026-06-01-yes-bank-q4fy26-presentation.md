@@ -12,10 +12,9 @@ tags:
 - lending-institution
 - private-bank
 - turnaround
-excerpt: PAT Q4FY26 ₹1,068 cr (+44.7% YoY, +12.3% QoQ) — highest ever quarterly profit
-  since the 2020 reconstruction; FY26 PAT ₹3,476 cr (+44.5% YoY) NIM expanded 20 bps
-  YoY to 2.7% in Q4, driven by lower RIDF burden and improved funding mix; FY26…
 ---
+
+# Yes Bank Q4FY26 & FY26 Investor Presentation — Filed June 1, 2026
 
 **Management (Analyst Meet, May 2026):** Management of Yes Bank Limited
 **Key shareholders:** SMBC (Sumitomo Mitsui Banking Corporation), SBI, Advent International (Verventa Holdings), LIC

@@ -16,10 +16,9 @@ tags:
 - headcount
 - bfsi-it
 - attrition
-excerpt: '**TCS Q4 FY26 INR revenue: ₹706,980 Mn** (+9.6% YoY, +5.4% QoQ) — accelerating
-  YoY growth after a period of single-digit growth **USD revenue: $7,621 Mn** (+2.1%
-  YoY, +1.5% QoQ); CC growth -0.6% YoY — currency-adjusted growth slightly…'
 ---
+
+# TCS Q4 FY26 Fact Sheet
 
 **Raw file:** *Q4 2025 26 Fact Sheet.pdf*
 

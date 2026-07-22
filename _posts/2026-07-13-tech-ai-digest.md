@@ -14,10 +14,9 @@ tags:
 - ism-2.0-125kcr
 - anthropic-foreign-cutoff
 - x402-cloudflare
-excerpt: '**Four major coding-capable models shipped within 48 hours**: Grok 4.5 (SpaceXAI),
-  GPT-5.6 (OpenAI, as Sol/Terra/Luna), Muse Spark 1.1 (Meta''s first paid closed model),
-  and SWE-1.7 (Cognition) — each a distinct strategic bet on pricing…'
 ---
+
+# Tech & AI Digest — 2026-07-13
 
 ## TL;DR
 

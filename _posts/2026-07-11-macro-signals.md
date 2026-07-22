@@ -17,10 +17,9 @@ tags:
 - india-vix-spike
 - nifty-pcr-bearish
 - weekend-snapshot
-excerpt: Weekend snapshot (Saturday; markets closed) — last traded close Jul 10. Brent
-  on track for a **~+4.7% weekly gain (~$75.5/bbl)** as the Iran ceasefire breakdown
-  (declared "over" by Trump on Jul 8) continues to disrupt Hormuz shipping for a…
 ---
+
+# Macro Signals Snapshot — 2026-07-11
 
 ## TL;DR
 

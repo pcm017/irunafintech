@@ -17,10 +17,9 @@ tags:
 - india-semicon-2
 - mpms
 - qualcomm-modular
-excerpt: 'OpenAI disclosed a significant strategic retrenchment: killed Sora and Atlas,
-  abandoned the ~$500Bn Stargate data-center JV model for leased compute, paused a
-  UK data center, and proposed giving the US government a 5% equity stake…'
 ---
+
+# Tech & AI Digest — 2026-07-19
 
 ## TL;DR
 

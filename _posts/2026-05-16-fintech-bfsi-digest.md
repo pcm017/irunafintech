@@ -18,10 +18,9 @@ tags:
 - wealthtech
 - fraud
 - ai-fintech
-excerpt: '**Rapido raises $240M at $3B valuation** (Prosus + WestBridge + Accel) —
-  intensifies India mobility competition; India startup funding momentum holding despite
-  global caution **Kevin Warsh officially takes over as Fed chair** (May 15/16)…'
 ---
+
+# Fintech & BFSI Digest — 2026-05-16
 
 ## TL;DR
 

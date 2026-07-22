@@ -20,6 +20,8 @@ tags:
 - ai-governance
 ---
 
+# Source: Fintech & BFSI Digest — 2026-06-24
+
 **TL;DR**
 - BIS Annual Economic Report 2026 Chapter III released: "Anchoring trust in money: innovation beyond stablecoins" — the BIS's most prominent annual publication dedicating a full chapter to stablecoins signals systemic monetary risk is now a top-tier global regulatory concern
 - Meta invests $900M in CRED; Kunal Shah (CRED founder) to lead WhatsApp globally — India's biggest fintech executive crossover, with WhatsApp Pay poised for strategy reset under Shah's credit-data expertise

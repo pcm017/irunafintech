@@ -16,10 +16,9 @@ tags:
 - msme
 - gold-loan
 - credit-cost
-excerpt: Management opened with the ₹5 lakh crore AUM milestone and called out "transformation,
-  not use case deployment" as the FinAI distinction — expects FY27 to be "probably
-  the busiest year from a FinAI standpoint." Credit cost guidance for…
 ---
+
+# Bajaj Finance Q4 FY26 Earnings Call Transcript
 
 **Hosted by:** JM Financial (Ajit Kumar)
 **Management:** Rajeev Jain (VC & MD), Sandeep Jain (COO & CFO), Anurag Chottani (AI/Tech)

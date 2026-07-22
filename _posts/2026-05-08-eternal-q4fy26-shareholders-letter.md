@@ -15,10 +15,9 @@ tags:
 - q4fy26
 - ai
 - founder-letter
-excerpt: 'Eternal (formerly Zomato) reports FY26 milestone: $10B+ B2C NOV, 109M transacting
-  customers; parent entity renamed from Zomato Ltd to Eternal Ltd. Blinkit (quick
-  commerce) NOV +95.4% YoY; turned Adj EBITDA positive (₹37 Cr) in Q4; 2,243…'
 ---
+
+# Eternal Q4 FY26 Shareholders' Letter
 
 **Raw file:** [raw/results/Eternal_Shareholders_Letter_Q4FY26_Results.pdf](../../raw/results/Eternal_Shareholders_Letter_Q4FY26_Results.pdf)
 

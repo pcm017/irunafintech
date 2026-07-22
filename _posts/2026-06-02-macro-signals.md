@@ -18,10 +18,9 @@ tags:
 - upi
 - india-us-trade
 - brahmos
-excerpt: S&P 500 hit fresh ATH at 7,599.96 (+0.26%, June 1); Nifty diverged sharply
-  — fell 0.70% to 23,382.60 as Brent surged on Iran communications suspension news.
-  Brent crude +3%+ to $94.99 (intraday high $97.75) on reports Iran suspended US…
 ---
+
+# Macro Signals Snapshot — 2026-06-02
 
 **Raw file:** [raw/indices/2026-06-02-macro-signals.md](../../raw/indices/2026-06-02-macro-signals.md)
 

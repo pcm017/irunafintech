@@ -21,10 +21,9 @@ tags:
 - india-tech
 - grab
 - figure
-excerpt: '**Coatue May 2026 report: $12 trillion AI capex wave** — described as the
-  most extreme winner/loser split in tech stock history; $12T cumulative AI infrastructure
-  buildout estimated globally. **Google I/O (this week): Will Google announce…'
 ---
+
+# Tech & AI Digest — 2026-05-19
 
 **Raw file:** [raw/newsletters/2026-05-19-tech-ai-digest.md](../../raw/newsletters/2026-05-19-tech-ai-digest.md)
 

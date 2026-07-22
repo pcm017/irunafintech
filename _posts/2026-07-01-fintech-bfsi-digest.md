@@ -16,11 +16,9 @@ tags:
 - x-money
 - bis-digital-euro
 - macroprudential
-excerpt: '**The Head and Tale publishes a deep-dive on Kunal Shah''s ~$900M Meta-Cred
-  deal** — unpacks the timing, motivations, and who benefits from one of India''s
-  most unusual fintech transactions; confirms the ~$900M figure (vs. the Rs 8,550
-  Cr /…'
 ---
+
+# Fintech & BFSI Digest — 2026-07-01
 
 **Raw file:** *2026 07 01 fintech bfsi digest*
 _Note: This digest largely confirms and adds colour to items first flagged in the 2026-06-30 digest (Meta-Cred, HDFC/Axis CFO move, Kotak CEO exit) rather than introducing wholly new stories._

@@ -21,10 +21,9 @@ tags:
 - cmie-unemployment-66pct
 - upi-2272bn
 - monday-preopen-snapshot
-excerpt: Monday collect ran before the fresh Asia/India session opened and before
-  the US market reopened after the weekend — most equity/index figures still reflect
-  Friday Jul 17's close. Fuller central-bank gold-reserves and forex-reserves tables…
 ---
+
+# Macro Signals Snapshot — 2026-07-20
 
 ## TL;DR
 

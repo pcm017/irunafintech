@@ -12,10 +12,9 @@ tags:
 - results
 - lending-institution
 - universal-bank-transition
-excerpt: PAT ₹832 cr (+65% YoY, +25% QoQ), RoA improved to 1.8% for the quarter —
-  management called out that this already meets the ROA level the Bank had guided
-  for FY27, achieved a year early, but cautioned against extrapolating the Q4 print…
 ---
+
+# AU Small Finance Bank Q4FY26 Earnings Call Transcript — April 27, 2026
 
 **Management:** Sanjay Agarwal (MD & CEO), Uttam Tibrewal (Deputy CEO), Vivek Tripathi (Executive Director & Chief Credit Officer), Yogesh Jain (COO), Gaurav Jain (CFO, newly appointed), Ankur Tripathi (CIO), Prince Tiwari (Head of IR & FIG)
 

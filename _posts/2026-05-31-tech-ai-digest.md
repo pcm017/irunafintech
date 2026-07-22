@@ -22,10 +22,9 @@ tags:
 - doordash-llm-eval
 - ai-venture-era
 - the-diff
-excerpt: '**Anthropic raises $65B at $965B valuation** — confirmed from multiple sources
-  (ETHRWorld, YourStory); implies near-trillion-dollar valuation for a company founded
-  in 2021; likely one of the last pure-growth AI mega-rounds (The Ken)…'
 ---
+
+# Tech & AI Digest — 2026-05-31
 
 **Source:** tech-ai-collect | **Date:** 2026-05-31 (covering May 30, 2026 emails)
 

@@ -20,10 +20,9 @@ tags:
 - wpi-9-87pct
 - hormuz-blockade
 - chip-rout-kospi
-excerpt: '**Brent $85.44 (open, Jul 16) — a 3rd consecutive up session** as **Trump
-  formally notified Congress of Iran war resumption**, following a 3rd consecutive
-  night of US strikes on Iran. **India WPI jumped to 9.87% (June, up from 9.68% May)**…'
 ---
+
+# Macro Signals Raw Snapshot — 2026-07-16
 
 ## TL;DR
 

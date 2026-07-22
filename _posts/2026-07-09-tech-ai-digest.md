@@ -13,10 +13,9 @@ tags:
 - intel-selloff
 - memory-selloff
 - india-semiconductor
-excerpt: '**Anthropic''s autonomous, self-scheduling AI agents were reportedly replicated
-  by AWS and Google within two weeks** — framed as the start of a race to own the
-  "agent runtime" layer of AI infrastructure. **Michael Burry directly challenges…'
 ---
+
+# Tech & AI Digest — 2026-07-09
 
 ## TL;DR
 

@@ -12,9 +12,17 @@ permalink: /markets/global-markets/
 
 ## Current State
 
-*As of July 20, 2026 (latest: Jul 17 US/India close carried forward — no fresh session over the weekend/Monday pre-open)*
+*As of July 22, 2026 (latest: Brent/WTI fresh read; US equities still Jul 20 close)*
 
-**NEW (July 20 — Monday pre-open snapshot, fuller gold/forex reserves picture):** No fresh trading session had printed by collect time — equity/index figures still reflect Friday Jul 17's close, now joined by FTSE 100 (10,600.37, +0.27%) and DAX (24,830.98, -0.34%) reads for the first time this cycle. The standout new data is a fuller **central-bank reserves picture**: **China PBoC gold 2,346t (+14.93t, June, 20th straight month of buying); India RBI gold 880.52t (Q1 2026) — gold now 16.7% of India's forex reserves, up from 13.9% six months earlier**. **India forex reserves $675.16Bn (week of Jul 10, +$0.97Bn WoW)**; China forex reserves $3,416Bn (-$26Bn from the $3,442Bn May high). India macro reads confirmed: **bank credit growth 18.6% YoY (fortnight ended Jun 27, two-year high)**; **CMIE unemployment held at 5.5% (June), urban unemployment rising to 6.6%**; **UPI processed 22.72Bn transactions worth ₹28.92 lakh Cr in June** (down slightly from May's record 23.2Bn). **FII flows stayed net positive in July: ₹15,157 Cr equity + ₹9,853 Cr debt MTD.** Brent/WTI/Gold/Silver readings carried a mix of confirmed (Brent $88.10, +4.59%; WTI $82.49, +4.48%) and conflicting (Gold $4,016.95 vs. $3,985.80; Silver $56.63 vs. $55.20) values this cycle — same unresolved data-quality pattern as the India G-Sec 10Y (still 6.74-6.79%, unreconciled). See *2026 07 20 macro signals*
+**NEW (July 22 — Brent jumps to $91.10, fresh India bank-credit and forex-reserves conflicts):** **Brent jumped to $91.10/bbl (+2.11%), WTI to $84.29 (+2.20%)** — a fourth consecutive up move, extending $85.95 (Jul 17) → $88.56 (Jul 21) → $91.10 (Jul 22), a ~6% rise in under a week, attributed in sourced reporting to Middle East geopolitical tensions and supply-disruption concerns. US equities carried forward at the Jul 20 close (no fresher session this cycle: S&P -0.19%, Nasdaq -0.05%, Dow -0.59%). Unusually large Asian equity moves were reported (**Nikkei +3.26% to 66,232.19, KOSPI +3.56% to 6,747.95, Shanghai +1.79%**) tied to a described "AI-stock sell-off rebound" — flagged as noteworthy but unverified against a second source, not adopted into the confirmed Key Metrics reads below. Two India data points diverged sharply from established readings: **bank credit growth read 9.5% YoY** (vs. the established 18.6%) and **forex reserves read $541.067Bn** (week ending Jun 26, vs. $675.16Bn carried since Jul 10) — both likely stale or differently-scoped reads, flagged not adopted, joining the now-persistent pattern of unresolved India data-series conflicts (G-Sec 10Y, gold/silver spot, CMIE unemployment, forex reserves). Gold read $4,651.30 on a futures quote — a large jump from the $4,022.46 spot figure tracked since Jul 21 and likely a different instrument/quote type rather than a genuine one-day move; not adopted, flagged for reconciliation. See *2026 07 22 macro signals*
+
+A sustained Brent move above $90 widens India's import bill and CAD pressure and reopens the inflation-vs-easing debate ahead of the August 3-5 RBI MPC — Delhi petrol/diesel are already near record levels, reflecting prior pass-through. The scale and multiplicity of this cycle's flagged-not-adopted conflicts (bank credit, forex reserves, gold quote type, unverified Asian equity moves) is itself a signal: this wiki's macro-signals collect pipeline is increasingly surfacing readings that need a second source before being trusted, a data-quality pattern worth a dedicated primary-source audit rather than continued case-by-case flagging.
+
+**Prior (July 21 — fresh Jul 20 US close + Jul 21 India session; MGNREGA repeal, data-quality conflicts widen):** The first fresh full trading session since Jul 17 printed a modest pullback: **S&P 500 7,443.28 (-0.19%), Nasdaq 25,508.07 (-0.05%), Dow 51,839.26 (-0.59%, -307pts)** — Jul 20 close; **Nifty 24,235.55 (-0.41%, -3.75% 1Y)** — first confirmed Jul 21 India read, Bank Nifty -1% (private banks weighed). **Brent $88.56 (alt read $89.93), WTI $82.43 (-0.06%), Gold $4,022.46 (+0.36%)** — Brent/Gold both firmed modestly from the Jul 17-20 range; Silver stayed conflicted ($59.61 vs. $56.36). The standout non-market development: **MGNREGA — India's flagship rural employment-guarantee scheme since 2005 — was formally repealed/ceased effective 2026-07-01, replaced by the "Viksit Bharat VB-GRAM G" rural jobs law**, a structural change with no person-days data yet under the new scheme (logged as a new Policy action on *modi*). Two data-quality conflicts widened rather than resolved this cycle: **CMIE unemployment readings (urban 8.60%, rural 7.30%, overall 7.70%) diverge sharply from the 5.5%/6.6% figures logged Jul 20** — flagged, not adopted, pending reconciliation; and **India forex reserves now show a 3-way conflict ($666.93Bn / $672.59Bn / $682.32Bn)**, none matching the $675.16Bn figure carried since Jul 20. Core India readings held steady: bank credit growth 18.6% YoY, CPI 4.38%, WPI 9.87%, repo 5.25%, UPI June 22.72Bn txns/₹28.92 lakh Cr. India G-Sec 10Y eased modestly to 6.74-6.75% (~-5bps over 2 sessions); India-US 10Y spread ~+218bps. India H1 2026 startup funding: $7.2Bn (+12% YoY) but deal count -43% YoY — capital increasingly concentrated in mega-rounds (CRED $900M, Nxtra Data $710M, Neysa $600M). See *2026 07 21 macro signals*
+
+The MGNREGA repeal is a genuine structural break in India's rural welfare architecture, not routine market noise — it removes a widely-used informal rural-distress indicator (MGNREGA person-days demanded) from future data series and deserves a dedicated follow-up source to establish what VB-GRAM G actually changes (eligibility, wage-guarantee days, funding mechanism) versus the old framework. The widening CMIE and forex-reserves conflicts are now a persistent pattern across several consecutive cycles (joining the long-running India G-Sec 10Y and gold/silver-spot conflicts) — treated as an ongoing data-quality weak point in this wiki's tracking, not as fresh macro deterioration, until a primary source reconciles them.
+
+**Prior (July 20 — Monday pre-open snapshot, fuller gold/forex reserves picture):** No fresh trading session had printed by collect time — equity/index figures still reflect Friday Jul 17's close, now joined by FTSE 100 (10,600.37, +0.27%) and DAX (24,830.98, -0.34%) reads for the first time this cycle. The standout new data is a fuller **central-bank reserves picture**: **China PBoC gold 2,346t (+14.93t, June, 20th straight month of buying); India RBI gold 880.52t (Q1 2026) — gold now 16.7% of India's forex reserves, up from 13.9% six months earlier**. **India forex reserves $675.16Bn (week of Jul 10, +$0.97Bn WoW)**; China forex reserves $3,416Bn (-$26Bn from the $3,442Bn May high). India macro reads confirmed: **bank credit growth 18.6% YoY (fortnight ended Jun 27, two-year high)**; **CMIE unemployment held at 5.5% (June), urban unemployment rising to 6.6%**; **UPI processed 22.72Bn transactions worth ₹28.92 lakh Cr in June** (down slightly from May's record 23.2Bn). **FII flows stayed net positive in July: ₹15,157 Cr equity + ₹9,853 Cr debt MTD.** Brent/WTI/Gold/Silver readings carried a mix of confirmed (Brent $88.10, +4.59%; WTI $82.49, +4.48%) and conflicting (Gold $4,016.95 vs. $3,985.80; Silver $56.63 vs. $55.20) values this cycle — same unresolved data-quality pattern as the India G-Sec 10Y (still 6.74-6.79%, unreconciled). See *2026 07 20 macro signals*
 
 The rising gold share of India's reserves (13.9% → 16.7% in six months) is a structural de-dollarisation/diversification signal, not a single large purchase — it reduces reliance on US Treasuries within the reserve mix while making reserve valuation more sensitive to gold-price swings. Combined with confirmed 18.6% YoY bank credit growth and a positive July FII turn, India's domestic macro settings remain constructive heading into the August 4-6 MPC, even as several data series (India G-Sec 10Y, gold/silver spot) continue to show unresolved multi-source conflicts — now a persistent, not one-off, data-quality weak point across several consecutive cycles.
 
@@ -162,28 +170,35 @@ Simultaneously, **Iran announced it ended military operations against Israel** �
 
 ## Key Metrics
 
-*Updated in place. Last: 2026-07-20 macro-signals snapshot (Jul 17 US/India close carried forward — no fresh session over the weekend/Monday pre-open)*
+*Updated in place. Last: 2026-07-22 macro-signals snapshot (Brent/WTI fresh; US equities still Jul 20 close)*
 
 ### Equities
 
 | Index | Level (Latest) | 1D % | As of |
 |-------|----------------|------|-------|
-| **S&P 500** | **7,457** | **▼1.02%** | **July 17, 2026 close** |
-| **Nasdaq** | **25,520** | **▼1.40%** | **July 17, 2026 close** |
-| **Dow** | **52,146** | **▼0.77%** | **July 17, 2026 close** |
-| **Nikkei 225** | **64,140** | **▼4.03%** | **July 17, 2026 close** |
-| **Hang Seng** | **24,562** | **▼446 pts** | **July 17, 2026 close** |
-| **Nifty 50** | **24,334.30** | **▲1.09% (+261.55 pts)** | **July 17, 2026** |
-| **Sensex** | **78,151.45** | **▲1.25% (+964.58 pts)** | **July 17, 2026** |
-| **Bank Nifty** | **58,521.40** | **▲1.63%** | **July 17, 2026** |
-| **Nifty Private Bank** | **—** | **▲2.12% (top gainer)** | **July 17, 2026** |
-| **Nifty PCR** | **0.83** | — | **July 17 — mild cautious put-writing bias (below 1)** |
-| **India VIX** | **12.87** | — | **July 17 — calm volatility regime** |
-| Bank Nifty PCR | 0.79 | — | July 17 — below 1 |
-| FTSE 100 | 10,600.37 | ▲0.27% | July 20 read (first capture this cycle) |
-| DAX | 24,830.98 | ▼0.34% | July 20 read (first capture this cycle) |
+| **S&P 500** | **7,443.28** | **▼0.19%** | **July 20, 2026 close** |
+| **Nasdaq** | **25,508.07** | **▼0.05%** | **July 20, 2026 close** |
+| **Dow** | **51,839.26** | **▼0.59% (-307.16 pts)** | **July 20, 2026 close** |
+| **FTSE 100** | **10,572.39 (open)** | **▼0.7%** | **July 20, 2026** |
+| **Nifty 50** | **24,235.55** | **▼0.41% (-98.75 pts)** | **July 21, 2026 — first confirmed Jul 21 India read; -3.75% 1Y** |
+| Sensex | 78,270 | ▲1.40% (that session) | July 17, 2026 — stale, no fresher confirmed close this cycle |
+| Bank Nifty | — | ▼1% | July 20, 2026 — private banks weighed |
+| Nifty IT | — | ▲1.81% | July 17, 2026 — last available reading |
+| Nifty Auto | — | ▲1.10% | July 17, 2026 — last available reading |
+| Nifty FMCG | — | ▲0.6% | July 20, 2026 |
+| Nifty Pharma | — | ▲1.4% | July 20, 2026 — best sectoral performer that session |
+| Nifty PCR | 0.90 (alt read 1.2067 same-week, sources diverge) | — | July 21, 10:20 IST |
+| India VIX | ~12.98-13.12 | — | July 20-21 |
+| Bank Nifty PCR | 0.95 | — | July 13 — stale |
+| Nifty Max Pain | 24,200 | — | July 21 — spot trading near max pain, minimal gap |
+| DAX | ~24,832 | little changed | July 20, 2026 |
+| CAC 40 | 8,340.11 | ▲0.016% | July 20, 2026 |
 
-*Note: Jul 17 is the first session this cycle where India rallied while US/Asia sold off on the same day (semiconductor rout + Kimi K3 + Iran re-escalation vs. India bank/IT/auto earnings optimism) — see Current State. No fresh trading session printed Jul 18-20 (weekend into Monday pre-open); all Jul 17 close figures above remain the latest confirmed reads.*
+*Note: no fresher equity session confirmed this cycle (Jul 22) — US/India index levels remain at their Jul 20/21 reads above. Nikkei (66,232.19, +3.26%), KOSPI (6,747.95, +3.56%), and Shanghai (3,864.37, +1.79%) were reported this cycle but flagged as unusually large, unverified single-day moves and not adopted as confirmed.*
+
+*Note: Jul 20 is the first fresh full session since Jul 17's clean US/India decoupling (semiconductor rout + Kimi K3 + Iran re-escalation vs. India bank/IT/auto earnings optimism) — see Current State. Sensex, Nifty IT, and Nifty Auto did not refresh this cycle and remain at their last confirmed Jul 17 reads.*
+
+*Prior (July 17 close): S&P 500 7,457 (▼1.02%), Nasdaq 25,520 (▼1.40%), Dow 52,146 (▼0.77%), Nikkei 64,140 (▼4.03%), Hang Seng 24,562 (▼446pts); Nifty 24,334.30 (▲1.09%), Sensex 78,151.45 (▲1.25%), Bank Nifty 58,521.40 (▲1.63%), Nifty Private Bank ▲2.12% (top gainer); Nifty PCR 0.83, India VIX 12.87, Bank Nifty PCR 0.79; FTSE 100 10,600.37 (▲0.27%, first capture that cycle), DAX 24,830.98 (▼0.34%, first capture that cycle) — carried through Jul 18-20 as the latest confirmed reads until this cycle's fresh Jul 20 close.*
 
 *Prior (July 16 close): S&P 500 7,572.40 (▼0.5%), Nasdaq 26,269.23 (▼1.3%), Dow 52,658.64 (▼0.3%); Nifty 24,151.10 (+0.30%); Bank Nifty 57,582.25 (▼0.30%); Nifty PCR 1.05; India VIX 12.82; KOSPI reported ~-7% single-session chip rout (headline only, unconfirmed).*
 
@@ -211,12 +226,16 @@ Simultaneously, **Iran announced it ended military operations against Israel** �
 
 | Commodity | Price | As of | Note |
 |-----------|-------|-------|------|
-| **Brent Crude** | **$85.95/bbl** | **July 17, 2026** | **▲2.04% — oil up ~14% on the week on US-Iran escalation** |
-| WTI Crude | >$79/bbl | July 17, 2026 | — |
-| **Gold** | **$4,016.95/oz** | **July 17, 2026** | **▲1.03% — rebounded back above $4,000 after Jul 16's brief break below** |
-| Silver | $55.91/oz | July 17, 2026 | ▲0.74% |
-| Natural Gas | $2.92/MMBtu | July 17, 2026 | ▲2.04% |
-| Copper | $6.19/lb | July 17, 2026 | ▼1.65% |
+| **Brent Crude** | **$91.10/bbl** | **July 22, 2026** | **▲2.11% — 4th straight up session, extending $85.95 (Jul 17) → $88.56 (Jul 21); Middle East supply-disruption concerns cited** |
+| WTI Crude | $84.29/bbl | July 22, 2026 | ▲2.20% |
+| Gold | $4,022.46/oz | July 21, 2026 | last confirmed spot read — a $4,651.30 "futures" read surfaced Jul 22 but flagged as a likely instrument/quote-type mismatch, not adopted |
+| Silver | $59.61/oz (tradingeconomics) vs. $56.36/oz (+0.80%, JM Bullion) | July 21, 2026 | sources conflict, unresolved |
+| Natural Gas | $2.857/MMBtu | July 22, 2026 | |
+| Soybean (CBOT) | 1,223¢/bu | July 20, 2026 | ▲1.54% |
+
+*Prior (July 21): Brent $88.56/bbl (alt read $89.93); WTI $82.43/bbl (▼0.06%); Gold $4,022.46/oz (▲0.36%, held above $4,000).*
+
+*Prior (July 17 close): Brent $85.95/bbl (▲2.04%, oil up ~14% on the week on US-Iran escalation); WTI >$79/bbl; Gold $4,016.95/oz (▲1.03%, rebounded above $4,000); Silver $55.91/oz (▲0.74%); Natural Gas $2.92/MMBtu (▲2.04%); Copper $6.19/lb (▼1.65%).*
 
 *Prior (July 16 close): Brent $84.63/bbl (▼0.37%, eased from the $85.44 open); Gold $3,998.05/oz (▼1.53%, 2nd sub-$4,000 break this cycle); Silver $56.68/oz.*
 
@@ -238,17 +257,17 @@ Simultaneously, **Iran announced it ended military operations against Israel** �
 
 | Instrument | Rate/Yield | As of | Note |
 |------------|-----------|-------|------|
-| **US 10Y Treasury** | **4.54%** | **July 17, 2026** | down from 4.57% on Jul 16 |
-| **India G-Sec 10Y** | **7.12% (Jul 15 reading) vs. 6.72% (falling) — fresh ~40bps conflict, wider than and distinct from the existing 3-way 6.69/6.72/6.79 conflict below** | **July 17-18, 2026** | **unresolved; needs RBI/CCIL primary-source reconciliation before use** |
-| India G-Sec 10Y (prior conflict) | 6.69% (one source) / 6.72% (Jul 13) / 6.79% (Jul 14) — sources conflict | July 16-17, 2026 | unresolved 3-way conflict, flagged not reconciled |
+| **US 10Y Treasury** | **4.57%** | **July 20, 2026** | up from 4.54% on Jul 17 |
+| **India G-Sec 10Y** | **6.74-6.75%** | **July 20, 2026** | **~-5bps over prior 2 sessions — eased from the 7.12%/6.72% ~40bps conflict logged Jul 17-18, though not explicitly confirmed as resolved** |
+| India G-Sec 10Y (prior conflict) | 6.69% (one source) / 6.72% (Jul 13) / 6.79% (Jul 14) / 7.12% (Jul 15) — sources conflict | July 15-18, 2026 | unresolved multi-way conflict across this cycle's readings, flagged not reconciled |
 | India G-Sec 30Y | 7.31% | July 3, 2026 | +2bps |
-| **India–US 10Y Spread** | **~+258bps (7.12% basis) / ~+218bps (6.72% basis)** | **July 17, 2026** | depends on which India 10Y figure is correct — see conflict above |
-| Yield Curve (US 10Y-2Y) | +38bps (4.54% – 4.16%) | July 17, 2026 | normal (positive) |
-| India-Repo Spread | +147bps | July 2026 | 6.72% – 5.25% |
-| RBI Repo Rate | **5.25%** | June 5, 2026 | **3rd consecutive hold, unanimous MPC vote; next MPC Aug 3-5, 2026** |
+| **India–US 10Y Spread** | **~+220bps** | **July 22, 2026** | basis: ~6.75% India G-Sec (Jul 20, stale) vs. 4.55% US 10Y (Jul 17, stale) — no fresher yield reads this cycle |
+| Yield Curve (US 10Y-2Y) | +39bps (4.57% – 4.18%) | July 20-21, 2026 | normal (positive); US 2Y read is stale (Jul 17) |
+| India-Repo Spread | +149bps | July 2026 | 6.74% – 5.25% |
+| RBI Repo Rate | **5.25%** | June 5, 2026 | **unchanged since June MPC; neutral stance; next MPC Aug 3-5, 2026** |
 | RBI $ Forward Book | Unwinding ~$100Bn short position | July 13, 2026 | Gradual rupee-support move |
-| FII Equity (July MTD) | ₹15,157 Cr | July 16, 2026 | unchanged reading for 3rd cycle running; net buyers, ends 4 months of selling; YTD still -₹2.6 lakh Cr |
-| **FII Debt (July MTD)** | **≈₹9,853 Cr (₹6,625 Cr FAR + ₹3,228 Cr general route)** | **July 16, 2026** | net inflow, unchanged reading from Jul 16 |
+| FII Equity (July MTD) | ₹15,157 Cr | July 21, 2026 | unchanged reading for 4th cycle running; net buyers, ends 4 months of selling; YTD still -₹2.6 lakh Cr |
+| **FII Debt (July MTD)** | **≈₹9,853 Cr (₹6,625 Cr FAR + ₹3,228 Cr general route)** | **July 21, 2026** | net inflow, unchanged reading since Jul 16 |
 | **Bank Credit Growth — reconciled** | **18.6% YoY = fortnight ended Jun 27; 17.7% YoY = fortnight ended Jun 15** | **June 2026** | **Resolves the Jul 16 "unreconciled" flag: both figures are fortnight reads at different fortnight-ends — consistent with an accelerating trend, not a full-month/fortnight mismatch** |
 | FII Debt (since June 2026) | +₹324 Bn | Jun–Jul 2026 | net inflow, tax relief + steadier rupee + possible Bloomberg Agg. inclusion |
 | FII Cash Segment (daily) | -₹532.90 Cr | July 10, 2026 | net sellers; DII +₹2,057.80 Cr offsetting |
@@ -259,16 +278,22 @@ Simultaneously, **Iran announced it ended military operations against Israel** �
 
 | Indicator | Value | Period | Note |
 |-----------|-------|--------|------|
-| **INR/USD** | **96.5530** | **July 17, 2026** | **eased from 96.33 (Jul 16) — modest depreciation pressure amid West Asia crisis** |
-| INR/USD (prior) | 96.36 | July 15, 2026 | 1M -2.12%; 1Y -12.22% |
-| **DXY** | **100.6–100.74** | **July 17, 2026** | **strengthened — see prior DXY read of 100.78 (Jul 3) below** |
-| India Forex Reserves | $674.19Bn | Week ending Jul 3, 2026 | +$7.26Bn WoW; gold component +$2.669Bn to $105.205Bn — same reading as Jul 14 (stale, no new week's data this cycle) |
+| **INR/USD** | **96.24 (live)** | **July 21, 2026, 11:46 UTC** | eased slightly from 96.5530 (Jul 17) |
+| INR/USD (prior) | 96.5530 | July 17, 2026 | eased from 96.33 (Jul 16) — modest depreciation pressure amid West Asia crisis |
+| **DXY** | **100.6–100.74** | **July 17, 2026** | **strengthened — see prior DXY read of 100.78 (Jul 3) below; no fresher read this cycle** |
+| **India Forex Reserves** | **$541.067Bn (-$150M WoW) — new, unreconciled read, distinct from the existing 3-way conflict** | **week ending 2026-06-26** | **unresolved; flagged, not adopted — see *2026 07 22 macro signals*** |
+| India Forex Reserves (Jul 21 3-way conflict) | $666.933Bn / $672.587Bn / $682.32Bn | week ended late Jun 2026 | unresolved; flagged, not adopted — see *2026 07 21 macro signals* |
+| India Forex Reserves (prior, last stable read) | $675.16Bn | Week ending Jul 10, 2026 | +$0.97Bn WoW |
+| **Bank Credit Growth (Jul 22 read)** | **9.5% YoY — sharply diverges from the established 18.6% figure; likely stale/mis-scoped** | **period unclear** | **flagged, not adopted — see *2026 07 22 macro signals*** |
+| **MGNREGA** | **Formally repealed/ceased** | **effective 2026-07-01** | **Replaced by "Viksit Bharat VB-GRAM G" rural jobs law — structural change to India's flagship rural employment-guarantee scheme; no person-days data yet under the new scheme. Logged to *modi*** |
 | **Bank Credit Growth** | **18.6% YoY (June, full-month, per ETBFSI) — flagged, unreconciled vs. 17.7% below** | **June 2026** | **Distinct period basis (full-month vs. fortnight-ended-Jun-15); not yet confirmed as a fresh acceleration** |
 | Bank Credit Growth (fortnight) | 17.7% YoY | Fortnight ended Jun 15, 2026 | Moderation from 18.6% 2-year-high fortnight (Jun 27); outstanding credit ₹215.5 lakh Cr |
-| **India CPI** | **4.38%** | **June 2026** | **Unchanged from Jul 14 reading (same release, re-confirmed); food inflation 5.32%** |
-| **India WPI** | **9.87% (independently described as "a record 9.9%" by a 2nd source)** | **June 2026** | **Up from 9.68% May — first wholesale-inflation print to move against the post-Iran-deal disinflation thesis; corroborated Jul 17** |
+| **India CPI** | **4.38%** | **June 2026** | **Unchanged since Jul 14 reading (same release, re-confirmed Jul 21); food inflation 5.32%** |
+| **India WPI** | **9.87% (independently described as "a record 9.9%" by a 2nd source)** | **June 2026** | **Up from 9.68% May — first wholesale-inflation print to move against the post-Iran-deal disinflation thesis; corroborated Jul 17, unchanged Jul 21** |
+| **CMIE Unemployment (conflicting Jul 21 read)** | **Urban 8.60%, Rural 7.30%, overall 7.70%** | **latest, 2026** | **Sharply diverges from the 5.5%/6.6% figures logged Jul 20 — unresolved data-quality conflict, not treated as fresh deterioration** |
 | **IT Exports** | **$246B (projected)** | **FY26 (NASSCOM forecast, Feb 2026)** | **Total tech industry revenue projected $315B, +6.1% YoY** |
 | **Startup Funding (CY YTD)** | **$10.3Bn across 1.04K rounds** | **thru Jul 2026** | **~$1.12Bn in a single week late Jun 2026; Sarvam AI raised $234M in period; one source cites a conflicting $187M June rebound figure** |
+| **Startup Funding (H1 2026)** | **$7.2Bn, +12% YoY, deal count -43% YoY** | **H1 2026** | **Capital concentrating in mega-rounds: CRED $900M, Nxtra Data $710M, Neysa $600M — fewer, larger deals** |
 | **Prior India CPI** | **3.93%** | **May 2026** | **5th consecutive monthly rise; below RBI 4% target** |
 | **Core CPI** | **5.1% (up from 4.6%)** | **May 2026** | ***Divergence flagged vs. prior ex-gold/silver core read (~2.3%) — still unverified against MOSPI** |
 | Prior India WPI | 8.3% (provisional) | April 2026 | Mineral oils, crude petroleum & natural gas, basic metals-driven |
@@ -308,14 +333,16 @@ Simultaneously, **Iran announced it ended military operations against Israel** �
 
 *Prior (May 2026): China PBoC 2,331.52t (+9.95, 19th consecutive month); India RBI 822t (+18, monthly WGC lag; 880.52t as of March 2026).*
 
-**Forex reserves (as of July 20 collect):** India $675.16Bn (week ending Jul 10, +$0.97Bn WoW) — see India Macro Inputs table above for the fuller $674.19Bn (Jul 3 week) reading; China $3,416Bn (-$26Bn from the $3,442Bn May high, June 2026).
+**Forex reserves (as of July 21 collect):** India readings now conflict 3 ways — $666.933Bn / $672.587Bn / $682.32Bn (week ended late Jun 2026) — none matching the $675.16Bn figure carried since Jul 20 (week ending Jul 10); flagged, unresolved. China $3,416Bn (-$26Bn from the $3,442Bn May high, June 2026) — unchanged this cycle. Gold reserves themselves (China 2,346t, India 880.52t) also unchanged this cycle.
 
-### COT Positioning Signals (Latest: 2026-07-06 report, as of Jul 17-18 read)
+### COT Positioning Signals (Latest: 2026-07-14 report, as of Jul 21 read)
 
 | Asset | Net Contracts | WoW Change | Signal |
 |-------|---------------|------------|--------|
-| **WTI Crude** | **Net long overall, near 15-yr least-bullish extreme** | N/A | **Managed funds flipped net-long ~3 weeks ago and have added since — positioning turning as Brent holds above $85** |
-| **Gold** | **~194.0K overall spec net long (large specs ~22.8K; managed funds ~12.3K net-long)** | **+12.7K WoW (194.0K vs. 181.3K prior report)** | **Spec long-building resumed as gold rebounded above $4,000 — updates the stale June 20 reading (~22,800 managed-fund net long) below** |
+| **WTI Crude** | **Large specs gross longs broadly unchanged; managed funds edged shorts slightly higher, historically low** | N/A | July 21 read — no numeric figure found; qualitative only |
+| **Gold** | **Managed money net long 120,779 COMEX contracts (Jul 14 report)** | N/A vs. prior report | **Narrower "managed money" subset measure — not directly comparable to the ~194.0K "overall spec net long" figure below (Jul 6 report); flagged as a measure change, not a confirmed decline** |
+
+*Prior (2026-07-06 report, as of Jul 17-18 read): WTI net long overall, near 15-yr least-bullish extreme — managed funds flipped net-long ~3 weeks prior and had been adding since. Gold ~194.0K overall spec net long (large specs ~22.8K; managed funds ~12.3K net-long), +12.7K WoW (194.0K vs. 181.3K prior report) — spec long-building resumed as gold rebounded above $4,000.*
 
 *Prior (June 20, 2026 report): WTI near 15-year low bullishness; Gold ~22,800 managed fund net long, sharply reduced from the ~173,800 cycle peak — safe-haven bid dramatically unwound post Iran deal signing.*
 
@@ -323,6 +350,8 @@ Simultaneously, **Iran announced it ended military operations against Israel** �
 
 ## Timeline
 
+- **2026-07-22** — Fifty-fourth snapshot. **Brent jumped to $91.10/bbl (+2.11%), WTI $84.29 (+2.20%)** — 4th straight up session (Middle East supply-disruption concerns cited); US equities held at the Jul 20 close (no fresh session). Unusually large, unverified Asian equity moves reported (Nikkei +3.26%, KOSPI +3.56%, Shanghai +1.79%) — flagged, not adopted. Two fresh India data conflicts: **bank credit growth read 9.5% YoY** (vs. established 18.6%) and **forex reserves read $541.067Bn** (vs. $675.16Bn carried since Jul 10) — both flagged, not adopted, extending this wiki's persistent India data-quality weak point. Gold futures read ($4,651.30) flagged as a likely quote-type mismatch vs. the $4,022.46 spot figure retained. Source: *2026 07 22 macro signals*
+- **2026-07-21** — Fifty-third snapshot (first fresh full session since Jul 17: Jul 20 US close + Jul 21 India intraday). **S&P -0.19%, Nasdaq -0.05%, Dow -0.59% (Jul 20 close); Nifty -0.41% to 24,235.55 (Jul 21, first confirmed read this cycle).** Brent firmed to $88.56 (alt $89.93); Gold $4,022.46 (+0.36%, held above $4,000). **MGNREGA formally repealed/ceased effective Jul 1, replaced by "Viksit Bharat VB-GRAM G"** — logged as a new Modi Policy action. Two data-quality conflicts widened: **CMIE unemployment (urban 8.60%/rural 7.30%/overall 7.70%) diverges sharply from the 5.5%/6.6% Jul 20 reading**; **India forex reserves now show a 3-way conflict ($666.93Bn/$672.59Bn/$682.32Bn)**, none matching the $675.16Bn Jul 20 figure. India G-Sec 10Y eased to 6.74-6.75%; bank credit growth, CPI, WPI, and UPI all held at their established June readings. India H1 2026 startup funding $7.2Bn (+12% YoY) but deal count -43% YoY — mega-round concentration (CRED $900M, Nxtra Data $710M, Neysa $600M). Source: *2026 07 21 macro signals*
 - **2026-07-20** — Fifty-second snapshot (Monday pre-open; Jul 17 close carried forward, no fresh session). First capture of FTSE 100 (10,600.37, +0.27%) and DAX (24,830.98, -0.34%) this cycle. Fuller central-bank reserves picture: **China PBoC gold 2,346t (+14.93t, 20th straight month); India RBI gold 880.52t — now 16.7% of India's forex reserves (up from 13.9% six months earlier)**. India forex reserves $675.16Bn (+$0.97Bn WoW); China forex reserves $3,416Bn (-$26Bn from May high). Bank credit growth 18.6% YoY confirmed (fortnight ended Jun 27); CMIE unemployment 5.5% (urban 6.6%); UPI June 22.72Bn txns / ₹28.92 lakh Cr. FII July MTD: ₹15,157 Cr equity + ₹9,853 Cr debt. Gold/silver and India G-Sec 10Y readings remained conflicted (same unresolved multi-cycle data-quality issue). Source: *2026 07 20 macro signals*
 - **2026-07-19** — Fifty-first snapshot (Sunday, no fresh session; Jul 17 close unchanged). **US CENTCOM confirmed a 3rd day of strikes on Iran targeting Hormuz shipping-threat capacity; Iran's IRGC struck two oil supertankers plus Kuwait/Bahrain; Trump said the US would reimpose a Iranian-port blockade and begin charging transit fees as "guardian" of the waterway** — a shift from pure military denial toward a toll-collection posture. Hormuz traffic reportedly fell >50% WoW. FII debt inflows broken out for the first time: ₹9,853 Cr MTD (₹6,625 Cr FAR + ₹3,228 Cr general route). India forex reserves search returned a stale $546.9Bn figure — flagged unreliable, not adopted (established $674.19Bn reading retained). Source: *2026 07 19 macro signals*
 - **2026-07-18** — Fiftieth snapshot (Jul 17 US/India close + same-day commentary). First clean US/India equity decoupling of this cycle: **US/Asia sold off sharply on a semiconductor rout + Moonshot AI's Kimi K3 model release + Iran re-escalation** (S&P -1.02%, Nasdaq -1.40%, Nikkei -4.03%, Hang Seng -446pts) **while India rallied on bank/IT/auto earnings** (Nifty +1.09% to 24,334.30, Sensex +1.25%, Bank Nifty +1.63%, Nifty Private Bank +2.12%). **Brent $85.95 (+2.04%, oil +~14% on week); Gold rebounded to $4,016.95 (+1.03%)**, back above $4,000. **Fresh India G-Sec 10Y conflict: 7.12% vs. 6.72% (~40bps gap)**, unreconciled. **COT gold spec net-long rose to ~194.0K (+12.7K WoW)**. TSMC raised 2026 capex guidance to $60-64B (from $52-56B); NVIDIA tightened export whitelisting for Asian customers; Qualcomm designing China-specific data-center chips. India Semicon 2.0 (₹1,27,500 Cr) + new Mobile Phone Manufacturing Scheme (₹62,500 Cr) formally detailed by Cabinet. Source: *2026 07 18 macro signals*

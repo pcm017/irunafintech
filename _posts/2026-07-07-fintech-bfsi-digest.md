@@ -14,10 +14,9 @@ tags:
 - nabfid-sro
 - stablecoin-consortium
 - manipal-ipo
-excerpt: RBI imposed a ₹66.7 lakh penalty on Bank of Baroda and GIC Housing Finance
-  for regulatory non-compliance (specific violation not detailed in available reporting).
-  The Ken reports that because RBI enforces no interest-rate ceiling on NBFCs…
 ---
+
+# Fintech & BFSI Digest — 2026-07-07
 
 ## TL;DR
 

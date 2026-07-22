@@ -14,11 +14,9 @@ tags:
 - ai-agents
 - pm-workflows
 - semiconductor
-excerpt: 'Anthropic $65B raise at $965B valuation confirmed as landmark AI moment
-  — surpassing OpenAI, race to $1T effectively complete. Benedict Evans: AI is a "1997
-  internet moment" — most economic impact hasn''t happened yet; task displacement
-  ≠…'
 ---
+
+# Tech & AI Digest — 2026-06-01
 
 **Raw file:** [raw/newsletters/2026-06-01-tech-ai-digest.md](../../raw/newsletters/2026-06-01-tech-ai-digest.md)
 

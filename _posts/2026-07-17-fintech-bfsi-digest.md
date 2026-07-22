@@ -16,10 +16,9 @@ tags:
 - groww-q1fy27
 - russia-sanctions-tariff
 - hdfc-chairman-rbi-nod
-excerpt: '**Fairfax agreed to acquire an IDBI Bank stake in a $5.5Bn deal** — described
-  as the largest foreign investment in an Indian bank, arriving alongside continued
-  "after IDBI, who''s next?" PSU-privatisation speculation. **HDFC Bank got RBI''s…'
 ---
+
+# Fintech & BFSI Digest — 2026-07-17
 
 ## TL;DR
 

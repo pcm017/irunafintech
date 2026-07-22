@@ -11,10 +11,9 @@ tags:
 - results
 - lending-institution
 - private-sector-bank
-excerpt: Standalone PAT ₹4,027 cr (+13% YoY, +17% QoQ); FY26 PAT ₹14,008 cr (+2% YoY)
-  — NIM compression from 100 bps repo cuts weighed on FY26, but Q4 showed a sharp
-  recovery in credit quality NIM 4.67% in Q4 (adj. for day-count = 4.54%, same as…
 ---
+
+# Kotak Mahindra Bank Q4FY26 Investor Presentation — May 2, 2026
 
 ## TL;DR
 

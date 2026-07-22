@@ -15,10 +15,9 @@ tags:
 - tsmc-samsung-intel-foundry
 - india-semiconductor
 - ism2-budget
-excerpt: Demis Hassabis reportedly said AGI arrives in 2-5 years, with bio and nuclear
-  AI risks landing first — headline-only capture from The AI Corner. Apple sued OpenAI
-  — an unusual pre-product, former-partner litigation framing worth tracking…
 ---
+
+# Tech & AI Digest — 2026-07-14
 
 ## TL;DR
 

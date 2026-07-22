@@ -20,10 +20,9 @@ tags:
 - wpi-record
 - bank-credit-reconciled
 - sp500-decline-jul16
-excerpt: '**Jul 16 US closes reversed the prior day''s gains: S&P -0.5%, Nasdaq -1.3%,
-  Dow -0.3%** — the "3rd consecutive up session" framing reported intraday Jul 16
-  did not hold into the close. **Brent eased to $84.63/bbl (-0.37%)**, pulling back…'
 ---
+
+# Macro Signals Raw Snapshot — 2026-07-17
 
 ## TL;DR
 

@@ -11,10 +11,9 @@ tags:
 - policybazaar
 - paisabazaar
 - india
-excerpt: 'PB Fintech has fully delivered on its post-IPO operating plan: insurance
-  premium 4.9x, revenue 4.8x, PAT swung from -₹833 Cr (FY22) to +₹670 Cr (FY26) —
-  with ₹1,000 Cr PAT targeted for FY27. Policybazaar is now India''s 3rd largest retail…'
 ---
+
+# PB Fintech Analyst Day 2026
 
 **Raw file:** `raw/results/01d9a091-f63a-493e-9bd9-8ebf210f4eff.pdf`
 **Filing date:** May 11, 2026 | NSE: POLICYBZR | BSE: 543390

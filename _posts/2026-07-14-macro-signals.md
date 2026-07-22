@@ -22,10 +22,9 @@ tags:
 - china-cpi-4-38pct
 - fii-return
 - gold-reserves-china-14-93t
-excerpt: Trump reinstated a naval blockade on Iranian ports/vessels transiting the
-  Strait of Hormuz — Brent jumped to $86.35 (+3.66%, week gain >10%), the sharpest
-  single read of the current Iran flare-up, though a stale Friday-settle source…
 ---
+
+# Macro Signals Snapshot — 2026-07-14
 
 ## TL;DR
 

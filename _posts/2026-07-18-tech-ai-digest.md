@@ -15,10 +15,9 @@ tags:
 - india-semiconductor
 - semicon-2.0
 - mpms
-excerpt: '**Moonshot AI''s Kimi K3 model** entered the frontier-model conversation
-  and is cited as a contributing factor in the Jul 17 US/Asia semiconductor-led equity
-  sell-off — a Chinese model release denting US AI-trade sentiment directly. **TSMC…'
 ---
+
+# Tech & AI Digest — 2026-07-18
 
 ## TL;DR
 

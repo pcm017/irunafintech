@@ -20,10 +20,9 @@ tags:
 - exa
 - ai-search
 - phishing-phaas
-excerpt: '**Google I/O 2026: Agents everywhere** — central theme was agentic AI across
-  the entire Google product stack; Figma AI agent also showcased **Anthropic acquires
-  developer tools startup for ~$300M** — announced at/around Google I/O; nature…'
 ---
+
+# Tech & AI Digest — 2026-05-21
 
 ## TL;DR
 

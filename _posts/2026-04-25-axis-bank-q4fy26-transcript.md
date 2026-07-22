@@ -15,10 +15,9 @@ tags:
 - nim
 - wholesale-banking
 - macro-risk
-excerpt: 'Management clarified two one-time Q4 items that net to zero on P&L: ₹2,193
-  Cr tax credit (Citi intangibles DTA) and ₹2,001 Cr voluntary standard asset provision
-  for West Asia macro tail risk. NIM through-cycle target of 3.80% remains firm…'
 ---
+
+# Axis Bank Q4 FY26 Earnings Conference Call Transcript
 
 **Raw file:** [raw/results/q4fy26-earnings-call.pdf](../../raw/results/q4fy26-earnings-call.pdf)
 

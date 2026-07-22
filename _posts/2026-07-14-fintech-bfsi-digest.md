@@ -16,10 +16,9 @@ tags:
 - flexi-cap-funds
 - circle-bank-charter
 - equifax-mexico
-excerpt: Top private banks collectively cut 7,700+ employees in FY26 — corroborates
-  and extends the HDFC Bank (8,000+) and Kotak Mahindra Bank (1,269) workforce-reduction
-  figures already logged Jul 13; PSU Indian Bank is separately hiring 20 AI…
 ---
+
+# Fintech & BFSI Digest — 2026-07-14
 
 ## TL;DR
 

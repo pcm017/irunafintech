@@ -21,10 +21,9 @@ tags:
 - rbi-dollar-forward-unwind
 - fii-return
 - india-nz-roadmap
-excerpt: '**US launched a 3rd round of strikes on Iran overnight; Iran retaliated
-  on Bahrain, Kuwait, and Qatar** — the escalation the market had been pricing since
-  Jul 8 has now compounded into a third round, materially stronger than the earlier…'
 ---
+
+# Macro Signals Snapshot — 2026-07-13
 
 ## TL;DR
 

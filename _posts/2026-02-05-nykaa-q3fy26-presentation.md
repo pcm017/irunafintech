@@ -13,10 +13,9 @@ tags:
 - d2c
 - omnichannel
 - q3fy26
-excerpt: 'Nykaa Q3 FY26: GMV ₹5,795 Cr (+28%), NR ₹2,873 Cr (+27%), EBITDA ₹230 Cr
-  (8.0%, highest ever), PAT ₹68 Cr (+156%). Beauty EBITDA margin hits 10.1% — all
-  cylinders firing.'
 ---
+
+# Nykaa Q3 FY26 Investor Presentation
 
 **Raw file:** [raw/results/fab8629b-fb3a-45be-bd2a-b2d978c04eff.pdf](../../raw/results/fab8629b-fb3a-45be-bd2a-b2d978c04eff.pdf)
 

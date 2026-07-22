@@ -13,10 +13,9 @@ tags:
 - modi-sanand
 - india-japan
 - startup-funding
-excerpt: PM Modi inaugurated India's third chip-packaging facility at Sanand under
-  the India Semiconductor Mission — India went from zero to three operational semiconductor
-  plants in six months; Ashwini Vaishnaw projects five plants operational by…
 ---
+
+# Tech & AI Digest — 2026-07-07
 
 ## TL;DR
 

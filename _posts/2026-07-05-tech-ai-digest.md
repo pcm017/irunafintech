@@ -15,10 +15,9 @@ tags:
 - memory-packaging
 - india-semiconductor
 - proof-of-human
-excerpt: TSMC's 3nm lead times now exceed one year on AI-driven demand; Samsung Foundry
-  is capturing overflow orders from Google, NVIDIA, Tesla, AMD, and BYD, while Apple
-  is reportedly exploring Samsung (2nm, Texas) and Intel (18A-P) for its…
 ---
+
+# Tech & AI Digest — 2026-07-05
 
 ## TL;DR
 
